@@ -1,0 +1,15 @@
+[t7]
+FileName1=t7.htm
+URL1=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3303990594242526&output=html&adk=1812271804&adf=3025194257&lmt=1604086378&plat=1%3A32776%2C2%3A32776%2C9%3A32776%2C10%3A32%2C11%3A32%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C40%3A32&guci=2.2.0.0.2.2.0.0&format=0x0&url=http%3A%2F%2Fslovardalja.net%2F&ea=0&flash=0&pra=7&wgl=1&tt_state=W3siaXNzdWVyT3JpZ2luIjoiaHR0cHM6Ly9hZHNlcnZpY2UuZ29vZ2xlLmNvbSIsInN0YXRlIjowfSx7Imlzc3Vlck9yaWdpbiI6Imh0dHBzOi8vYXR0ZXN0YXRpb24uYW5kcm9pZC5jb20iLCJzdGF0ZSI6MH1d&dt=1604086363209&bpp=9&bdt=18841&idt=15222&shv=r20201027&cbv=r20190131&ptt=9&saldr=aa&abxe=1&prev_fmts=160x600&nras=1&correlator=7975299141462&frm=20&pv=1&ga_vid=721642572.1604086363&ga_sid=1604086363&ga_hid=838536387&ga_fc=1&iag=0&icsg=8530432&dssz=16&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&adx=-12245933&ady=-12245933&biw=1349&bih=657&scr_x=0&scr_y=0&eid=21067981%2C21068083&oid=3&pvsid=1961376086312261&pem=919&rx=0&eae=2&fc=896&brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C728%2C1366%2C657&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=8192&bc=23&ifi=1&uci=a!1&fsb=1&dtd=15233
+Total=3
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t7_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_7.xml
+FileName2=t7_integrator.html
+URL2=https://adservice.google.ru/adsid/integrator.js?domain=slovardalja.net
+FileName3=t7_integrator.html
+URL3=https://adservice.google.com/adsid/integrator.js?domain=slovardalja.net
+[ProtocolInfo]
+ProtocolId=QTWeb

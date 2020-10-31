@@ -1,0 +1,13 @@
+[t15]
+FileName1=t15.html
+URL1=https://update.googleapis.com/service/update2/json?cup2key=10:979947857&cup2hreq=6ac8522a7563d9594c30294a2c93c82735ffeb8f29a57d7a96fc1cb6e980581f
+Total=2
+RequestHeaderFile=t15_RequestHeader.txt
+RequestBodyFile=t15_RequestBody.txt
+ResponseHeaderFile=t15_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_15.xml
+FileName2=t15_activeview.gif
+URL2=https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsvPkA9n_jgEW3lHM_U4Udc9WUuDx2U2OffPiyu5A5BuRBPIv5ReASi413ST_FW1F-FbztmSw96fk9o3406G-NMDQfgxQHPr1wENJEAKpzTRgigJz0lFiXmBIHk&sai=AMfl-YThilNcowU5uuPKN5CUBzaGiJFjrUi2C-Y41YZyIGMr0IXvbIC5PdkJx7ciPlkhvnAkPmFo8gUZwFV4&sig=Cg0ArKJSzEg2jGwmW-kCEAE&adk=4291559146&tt=-1&bs=0%2C0&mtos=205,161419,161419,161419,161419&tos=310,161109,0,0,0&p=173,200,773,320&mcvt=161419&rs=0&ht=0&tfs=120&tls=161539&mc=1&lte=-1&bas=0&bac=0&if=1&met=mue&avms=nio&niot_obs=14&niot_cbk=60&md=2&btr=0&cpmav=0&lm=2&rst=1604086378423&dlt=9497&rpt=10931&isd=0&msd=214&xdi=0&postrxl=1&ps=-12245933%2C-12245933&scs=1366%2C768&pt=-1&bin=4&deb=1-0-0-1578-11-1577-1577-0-0-0&tvt=161529&is=160%2C600&iframe_loc=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fads%3Fclient%3Dca-pub-3303990594242526%26output%3Dhtml%26h%3D600%26slotname%3D9609848646%26adk%3D4291559146%26adf%3D1803467449%26pi%3Dt.ma~as.9609848646%26w%3D160%26lmt%3D1604086378%26psa%3D0%26guci%3D2.2.0.0.2.2.0.0%26format%3D160x600%26url%3Dhttp%253A%252F%252Fslovardalja.net%252F%26flash%3D0%26wgl%3D1%26tt_state%3DW3siaXNzdWVyT3JpZ2luIjoiaHR0cHM6Ly9hZHNlcnZpY2UuZ29vZ2xlLmNvbSIsInN0YXRlIjowfSx7Imlzc3Vlck9yaWdpbiI6Imh0dHBzOi8vYXR0ZXN0YXRpb24uYW5kcm9pZC5jb20iLCJzdGF0ZSI6MH1d%26dt%3D1604086363184%26bpp%3D24%26bdt%3D18816%26idt%3D15201%26shv%3Dr20201027%26cbv&r=u&id=osdtos&vs=4&uc=1578&upc=1&tgt=DIV&cl=1&cec=1&wf=0&cac=1&cd=0x0&itpl=4&v=20201028
+[ProtocolInfo]
+ProtocolId=QTWeb

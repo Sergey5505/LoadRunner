@@ -1,0 +1,13 @@
+[t9]
+FileName1=t9_si.htm
+URL1=https://googleads.g.doubleclick.net/pagead/drt/si
+Total=2
+ContentType=text/html
+SnapshotXmlFile=snapshot_9.xml
+RequestHeaderFile=t9_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t9_ResponseHeader.txt
+FileName2=t9_sYBZi8RubymXUPMccEHraxS349Tofqq0Y87esqoxnno.html
+URL2=https://pagead2.googlesyndication.com/bg/sYBZi8RubymXUPMccEHraxS349Tofqq0Y87esqoxnno.js
+[ProtocolInfo]
+ProtocolId=QTWeb

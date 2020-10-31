@@ -1,0 +1,1411 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-http-method-override",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-goog-update-updater",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-goog-update-interactivity",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-goog-update-appid",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-goog-encode-response-if-executable",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-goog-api-key",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "if-modified-since",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "a-im",
+      "IncludeInScript": true
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/javascript"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/x-icon"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/gif"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/x-protobuf"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/x-javascript"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/octet-stream"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "MaxUsedConnections": 46,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "окт-30-2020",
+    "RecordingDuration": 251000,
+    "RecordingTimeStamp": 1604086332,
+    "TotalBytesReceived": 1020779,
+    "TotalBytesSent": 70388,
+    "TotalRequests": 90
+  },
+  "HostInfo": [
+    {
+      "DomainName": "ssp-rtb.sape.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "159.69.74.8",
+          "IncludeInScript": true,
+          "Name": "ssp-rtb.sape.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 125,
+              "EventId": 815,
+              "HttpStatus": 200,
+              "Size": 404,
+              "URL": "https://ssp-rtb.sape.ru/data/?callback=sapeRTBreadRtStatResponse_53471&srtbid=95403&scids=93390459&sx=1366&sy=657&ref=http%3A%2F%2Fslovardalja.net%2F&allimps=0&fl=0&tz=%2B03%3A00&u=http%3A%2F%2Fslovardalja.net%2Fview_search.php"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 219,
+              "EventId": 303,
+              "HttpStatus": 200,
+              "Size": 404,
+              "URL": "https://ssp-rtb.sape.ru/data/?callback=sapeRTBreadRtStatResponse_53471&srtbid=95403&scids=93390459&sx=1366&sy=657&ref=&allimps=0&fl=0&tz=%2B03%3A00&u=http%3A%2F%2Fslovardalja.net%2F"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "slovardalja.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "194.28.84.194",
+          "IncludeInScript": true,
+          "Name": "slovardalja.net",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 78,
+              "EventId": 646,
+              "HttpStatus": 200,
+              "Size": 8542,
+              "URL": "http://slovardalja.net/view_search.php"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/x-icon",
+              "DownloadTime": 156,
+              "EventId": 602,
+              "HttpStatus": 200,
+              "Size": 522,
+              "URL": "http://slovardalja.net/favicon.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 62,
+              "EventId": 158,
+              "HttpStatus": 200,
+              "Size": 1187,
+              "URL": "http://slovardalja.net/img/endpic.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 148,
+              "HttpStatus": 200,
+              "Size": 10753,
+              "URL": "http://slovardalja.net/img/Header.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 31,
+              "EventId": 26,
+              "HttpStatus": 200,
+              "Size": 988,
+              "URL": "http://slovardalja.net/style.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 78,
+              "EventId": 22,
+              "HttpStatus": 200,
+              "Size": 9287,
+              "URL": "http://slovardalja.net/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "newrrb.bid",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "91.210.107.38",
+          "IncludeInScript": true,
+          "Name": "newrrb.bid",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 861,
+              "HttpStatus": 200,
+              "Size": 48,
+              "URL": "http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22thick%22%2C%22bId%22%3A149099%2C%22aId%22%3A466414%2C%22ts%22%3A138846%7D%5D&url=http%3A%2F%2Fslovardalja.net%2Fview_search.php&v=2.2.1-1c8fa83&r=8cmivl9bfu&referrer=http%3A%2F%2Fslovardalja.net%2F"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 850,
+              "HttpStatus": 200,
+              "Size": 48,
+              "URL": "http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22injected%22%2C%22bId%22%3A149099%2C%22aId%22%3A466414%2C%22ts%22%3A138672%7D%5D&url=http%3A%2F%2Fslovardalja.net%2Fview_search.php&v=2.2.1-1c8fa83&r=8cmivl9bfu&referrer=http%3A%2F%2Fslovardalja.net%2F"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 787,
+              "HttpStatus": 200,
+              "Size": 48,
+              "URL": "http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22injected%22%2C%22bId%22%3A9050%2C%22aId%22%3A30300%2C%22ts%22%3A133026%7D%2C%7B%22t%22%3A%22injected%22%2C%22bId%22%3A148752%2C%22aId%22%3A467569%2C%22ts%22%3A138002%7D%5D&url=http%3A%2F%2Fslovardalja.net%2Fview_search.php&v=2.2.1-1c8fa83&r=8cmivl9bfu&referrer=http%3A%2F%2Fslovardalja.net%2F"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 706,
+              "HttpStatus": 200,
+              "Size": 48,
+              "URL": "http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22loaded%22%2C%22ts%22%3A128145%7D%2C%7B%22t%22%3A%22fetch%22%2C%22bId%22%3A9050%2C%22ts%22%3A128147%7D%2C%7B%22t%22%3A%22fetch%22%2C%22bId%22%3A148752%2C%22ts%22%3A132992%7D%2C%7B%22t%22%3A%22fetch%22%2C%22bId%22%3A149099%2C%22ts%22%3A132992%7D%5D&url=http%3A%2F%2Fslovardalja.net%2Fview_search.php&v=2.2.1-1c8fa83&r=8cmivl9bfu&referrer=http%3A%2F%2Fslovardalja.net%2F"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 47,
+              "EventId": 696,
+              "HttpStatus": 200,
+              "Size": 673,
+              "URL": "http://newrrb.bid/1akds.json"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 687,
+              "HttpStatus": 200,
+              "Size": 48,
+              "URL": "http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22start%22%2C%22ts%22%3A128132%7D%5D&url=&v=2.2.1-1c8fa83&r=8cmivl9bfu&referrer="
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 670,
+              "HttpStatus": 200,
+              "Size": 485,
+              "URL": "http://newrrb.bid/1akds.json"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 110,
+              "EventId": 594,
+              "HttpStatus": 200,
+              "Size": 48,
+              "URL": "http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22dom%22%2C%22ts%22%3A74795%7D%5D&url=http%3A%2F%2Fslovardalja.net%2F&v=2.2.1-1c8fa83&r=im89pq85r5&referrer=http%3A%2F%2Fno.domain%2F"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 47,
+              "EventId": 196,
+              "HttpStatus": 200,
+              "Size": 48,
+              "URL": "http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22loaded%22%2C%22ts%22%3A29513%7D%2C%7B%22t%22%3A%22fetch%22%2C%22bId%22%3A9050%2C%22ts%22%3A29523%7D%2C%7B%22t%22%3A%22fetch%22%2C%22bId%22%3A148752%2C%22ts%22%3A29523%7D%2C%7B%22t%22%3A%22fetch%22%2C%22bId%22%3A149099%2C%22ts%22%3A29524%7D%5D&url=http%3A%2F%2Fslovardalja.net%2F&v=2.2.1-1c8fa83&r=im89pq85r5&referrer=http%3A%2F%2Fno.domain%2F"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 16,
+              "EventId": 167,
+              "HttpStatus": 200,
+              "Size": 48,
+              "URL": "http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22start%22%2C%22ts%22%3A15520%7D%5D&url=&v=2.2.1-1c8fa83&r=im89pq85r5&referrer="
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 781,
+              "EventId": 153,
+              "HttpStatus": 200,
+              "Size": 16993,
+              "URL": "http://newrrb.bid/1akds.min.js"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "gstatic.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.221.94",
+          "IncludeInScript": true,
+          "Name": "www.gstatic.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 62,
+              "EventId": 1003,
+              "HttpStatus": 200,
+              "Size": 10320,
+              "URL": "https://www.gstatic.com/mysidia/56afbbccebe42f227831d121e3bd510a.js?tag=mysidia_one_click_handler_one_afma_2019"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "108.177.14.94",
+          "IncludeInScript": true,
+          "Name": "ssl.gstatic.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 109,
+              "EventId": 57,
+              "HttpStatus": 200,
+              "Size": 77948,
+              "URL": "https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_variation_0.pb"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "74.125.205.138",
+          "IncludeInScript": true,
+          "Name": "encrypted-tbn2.gstatic.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 1011,
+              "HttpStatus": 200,
+              "Size": 21998,
+              "URL": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSaQu5tYQ7RpAzDl4Tc-NVfnhZWP4KNT9cgjnkEl8nAsRAze6cNpcA6mTexOoI&usqp=CAI"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googletagservices.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.222.157",
+          "IncludeInScript": true,
+          "Name": "www.googletagservices.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 609,
+              "EventId": 493,
+              "HttpStatus": 200,
+              "Size": 28759,
+              "URL": "https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 562,
+              "EventId": 487,
+              "HttpStatus": 200,
+              "Size": 27554,
+              "URL": "https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googlesyndication.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "64.233.162.132",
+          "IncludeInScript": true,
+          "Name": "tpc.googlesyndication.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 47,
+              "EventId": 993,
+              "HttpStatus": 200,
+              "Size": 22842,
+              "URL": "https://tpc.googlesyndication.com/simgad/665870979628597983"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 945,
+              "HttpStatus": 301,
+              "Size": 0,
+              "URL": "https://tpc.googlesyndication.com/pageadimg/imgad?id=CICAgKCX7PyotwEQkAMYkQMyCCQyER0CCaO9"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 62,
+              "EventId": 912,
+              "HttpStatus": 200,
+              "Size": 849,
+              "URL": "https://tpc.googlesyndication.com/pagead/js/r20201027/r20110914/client/load_preloaded_resource_fy2019.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 612,
+              "HttpStatus": 200,
+              "Size": 12579,
+              "URL": "https://tpc.googlesyndication.com/sodar/sodar2/219/runner.html"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 93,
+              "EventId": 604,
+              "HttpStatus": 200,
+              "Size": 6015,
+              "URL": "https://tpc.googlesyndication.com/sodar/sodar2.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 250,
+              "EventId": 546,
+              "HttpStatus": 200,
+              "Size": 10193,
+              "URL": "https://tpc.googlesyndication.com/pagead/js/r20201027/r20110914/client/one_click_handler_one_afma_fy2019.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 281,
+              "EventId": 527,
+              "HttpStatus": 200,
+              "Size": 1336,
+              "URL": "https://tpc.googlesyndication.com/pagead/js/r20201027/r20110914/client/window_focus_fy2019.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 94,
+              "EventId": 504,
+              "HttpStatus": 200,
+              "Size": 35638,
+              "URL": "https://tpc.googlesyndication.com/simgad/10122800670926949983?sqp=4sqPyQQ7QjkqNxABHQAAtEIgASgBMAk4A0DwkwlYAWBfcAKAAQGIAQGdAQAAgD-oAQGwAYCt4gS4AV_FAS2ynT4&rs=AOga4qmhtwbj8g7HovrUg9zWxaGJ8JHp-g"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 63,
+              "EventId": 496,
+              "HttpStatus": 200,
+              "Size": 5896,
+              "URL": "https://tpc.googlesyndication.com/pagead/js/r20201027/r20110914/client/qs_click_protection_fy2019.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 78,
+              "EventId": 481,
+              "HttpStatus": 200,
+              "Size": 7216,
+              "URL": "https://tpc.googlesyndication.com/pagead/js/r20201027/r20110914/abg_lite_fy2019.js"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.222.155",
+          "IncludeInScript": true,
+          "Name": "pagead2.googlesyndication.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 94,
+              "EventId": 777,
+              "HttpStatus": 200,
+              "Size": 33723,
+              "URL": "http://pagead2.googlesyndication.com/pagead/show_ads.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 47,
+              "EventId": 162,
+              "HttpStatus": 200,
+              "Size": 46085,
+              "URL": "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.222.155",
+          "IncludeInScript": true,
+          "Name": "pagead2.googlesyndication.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 682,
+              "HttpStatus": 200,
+              "Size": 42,
+              "URL": "https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsvPkA9n_jgEW3lHM_U4Udc9WUuDx2U2OffPiyu5A5BuRBPIv5ReASi413ST_FW1F-FbztmSw96fk9o3406G-NMDQfgxQHPr1wENJEAKpzTRgigJz0lFiXmBIHk&sai=AMfl-YThilNcowU5uuPKN5CUBzaGiJFjrUi2C-Y41YZyIGMr0IXvbIC5PdkJx7ciPlkhvnAkPmFo8gUZwFV4&sig=Cg0ArKJSzEg2jGwmW-kCEAE&adk=4291559146&tt=-1&bs=0%2C0&mtos=205,161419,161419,161419,161419&tos=310,161109,0,0,0&p=173,200,773,320&mcvt=161419&rs=0&ht=0&tfs=120&tls=161539&mc=1&lte=-1&bas=0&bac=0&if=1&met=mue&avms=nio&niot_obs=14&niot_cbk=60&md=2&btr=0&cpmav=0&lm=2&rst=1604086378423&dlt=9497&rpt=10931&isd=0&msd=214&xdi=0&postrxl=1&ps=-12245933%2C-12245933&scs=1366%2C768&pt=-1&bin=4&deb=1-0-0-1578-11-1577-1577-0-0-0&tvt=161529&is=160%2C600&iframe_loc=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fads%3Fclient%3Dca-pub-3303990594242526%26output%3Dhtml%26h%3D600%26slotname%3D9609848646%26adk%3D4291559146%26adf%3D1803467449%26pi%3Dt.ma~as.9609848646%26w%3D160%26lmt%3D1604086378%26psa%3D0%26guci%3D2.2.0.0.2.2.0.0%26format%3D160x600%26url%3Dhttp%253A%252F%252Fslovardalja.net%252F%26flash%3D0%26wgl%3D1%26tt_state%3DW3siaXNzdWVyT3JpZ2luIjoiaHR0cHM6Ly9hZHNlcnZpY2UuZ29vZ2xlLmNvbSIsInN0YXRlIjowfSx7Imlzc3Vlck9yaWdpbiI6Imh0dHBzOi8vYXR0ZXN0YXRpb24uYW5kcm9pZC5jb20iLCJzdGF0ZSI6MH1d%26dt%3D1604086363184%26bpp%3D24%26bdt%3D18816%26idt%3D15201%26shv%3Dr20201027%26cbv&r=u&id=osdtos&vs=4&uc=1578&upc=1&tgt=DIV&cl=1&cec=1&wf=0&cac=1&cd=0x0&itpl=4&v=20201028"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 78,
+              "EventId": 629,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://pagead2.googlesyndication.com/pagead/gen_204?id=sodar2&v=219&t=2&li=gda_r20201027&jk=1961376086312261&bg=!uLulu5vNAAVp0lmVaVj6a5E85297RAIAAACSUgAAABcKAF7gO5IB6uplz0qC6iiUbDyhOBlrFDSVhx-ne4d5G669nqm-TyX3V-xQnB_eLG05FmU_lEJkVGXjHcKdqiSWTyVe-8duQDmcCpoDAgIqCCueFZh-3A-TaL6QESITkP3QmQHfTQEgIVNca3rG4mnoRemen0Ijcib9FHedn1ouwRdhAXbPcYKoPC-tbPBMeaU_rltF6iLOjvZix4qjTsizQP5oYFIPANHjOBfoBSroWB0TzVGkZbnYRDFrQKVbUBON7TzQgAb5HnA-Sz53XhuwRcsc_Gyxh18Bkxv9CQNWQV4s9O8icE4DypYGrAun1iTWEcMZAT4Z_syeYoWWs91mbm5CYogeL-cp-OlWoZxJBzLcZbCe4yeKvPkECSaFj65oYpbHBn1buZnzMJR7JQ2vuGMs4w3fgiXKB8G_Zjt39O2nKge4pubSE6Y1eHjws_C1iLIjCVPoPEXRN3JSywK1496b-yR1gAKxEvXZBQpfzw-vOOt0DLsDZLB8oB-109g3hK93LUFBFuVFQsjr_xP1AT2A8gsp42Fk8Vc5Io3zzhKPSkeKGEvO-rZX6to7zMEXwzmA7ZK4s8ROTP3tCyWuvrTzH_K_c8TxCGDdCGSl1BpSTDLxOzYrxxWCXao70zV8VN3dZ6NJp-03fo4sV8DHg0DFxq5ILckt8O2ZjztUbDXRfz8T0uXU48vn5reWfS7QlBY0Duuh0eNh3DTwQ52fm0BXrOUAvoMo69e5ZE1f-hLrFx8duO4YM7wwWVb1hRTw850"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 62,
+              "EventId": 620,
+              "HttpStatus": 200,
+              "Size": 6081,
+              "URL": "https://pagead2.googlesyndication.com/bg/sYBZi8RubymXUPMccEHraxS349Tofqq0Y87esqoxnno.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 110,
+              "EventId": 592,
+              "HttpStatus": 200,
+              "Size": 6463,
+              "URL": "https://pagead2.googlesyndication.com/getconfig/sodar?sv=200&tid=gda&tv=r20201027&st=env"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 78,
+              "EventId": 582,
+              "HttpStatus": 200,
+              "Size": 6081,
+              "URL": "https://pagead2.googlesyndication.com/bg/sYBZi8RubymXUPMccEHraxS349Tofqq0Y87esqoxnno.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 62,
+              "EventId": 572,
+              "HttpStatus": 200,
+              "Size": 42,
+              "URL": "https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsvPkA9n_jgEW3lHM_U4Udc9WUuDx2U2OffPiyu5A5BuRBPIv5ReASi413ST_FW1F-FbztmSw96fk9o3406G-NMDQfgxQHPr1wENJEAKpzTRgigJz0lFiXmBIHk&sai=AMfl-YThilNcowU5uuPKN5CUBzaGiJFjrUi2C-Y41YZyIGMr0IXvbIC5PdkJx7ciPlkhvnAkPmFo8gUZwFV4&sig=Cg0ArKJSzEg2jGwmW-kCEAE&adk=4291559146&tt=-1&bs=0%2C0&mtos=0,1030,1030,1030,1030&tos=0,1030,0,0,0&p=173,200,773,320&mcvt=1030&rs=0&ht=0&tfs=120&tls=1150&mc=0.8&lte=-1&bas=0&bac=0&if=1&met=mue&avms=nio&niot_obs=14&niot_cbk=60&md=2&btr=0&cpmav=0&lm=2&rst=1604086378423&dlt=9497&rpt=10931&isd=0&msd=0&xdi=0&postrxl=1&ps=-12245933%2C-12245933&scs=1366%2C768&pt=-1&bin=4&deb=1-0-0-12-11-11-11-0-0-0&tvt=1140&is=160%2C600&iframe_loc=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fads%3Fclient%3Dca-pub-3303990594242526%26output%3Dhtml%26h%3D600%26slotname%3D9609848646%26adk%3D4291559146%26adf%3D1803467449%26pi%3Dt.ma~as.9609848646%26w%3D160%26lmt%3D1604086378%26psa%3D0%26guci%3D2.2.0.0.2.2.0.0%26format%3D160x600%26url%3Dhttp%253A%252F%252Fslovardalja.net%252F%26flash%3D0%26wgl%3D1%26tt_state%3DW3siaXNzdWVyT3JpZ2luIjoiaHR0cHM6Ly9hZHNlcnZpY2UuZ29vZ2xlLmNvbSIsInN0YXRlIjowfSx7Imlzc3Vlck9yaWdpbiI6Imh0dHBzOi8vYXR0ZXN0YXRpb24uYW5kcm9pZC5jb20iLCJzdGF0ZSI6MH1d%26dt%3D1604086363184%26bpp%3D24%26bdt%3D18816%26idt%3D15201%26shv%3Dr20201027%26cbv&r=v&id=osdim&vs=4&uc=12&upc=0&tgt=DIV&cl=1&cec=1&wf=0&cac=1&cd=120x600&itpl=4&v=20201028"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 187,
+              "EventId": 285,
+              "HttpStatus": 200,
+              "Size": 88323,
+              "URL": "https://pagead2.googlesyndication.com/pagead/js/r20201027/r20190131/show_ads_impl_fy2019.js"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "64.233.164.94",
+          "IncludeInScript": true,
+          "Name": "update.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 125,
+              "EventId": 672,
+              "HttpStatus": 200,
+              "Size": 1047,
+              "URL": "https://update.googleapis.com/service/update2/json?cup2key=10:979947857&cup2hreq=6ac8522a7563d9594c30294a2c93c82735ffeb8f29a57d7a96fc1cb6e980581f"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "64.233.162.95",
+          "IncludeInScript": true,
+          "Name": "safebrowsing.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-protobuf",
+              "DownloadTime": 47,
+              "EventId": 805,
+              "HttpStatus": 200,
+              "Size": 82,
+              "URL": "https://safebrowsing.googleapis.com/v4/fullHashes:find?$req=Ch0KDGdvb2dsZWNocm9tZRINODYuMC40MjQwLjExMRIbCg0IBRAGGAEiAzAwMTABEKbKCRoCGAfs82KiEhsKDQgBEAYYASIDMDAxMAEQ8YcIGgIYB-76tx0SGwoNCAMQBhgBIgMwMDEwARCNkggaAhgH-O34dxIbCg0IBxAGGAEiAzAwMTABEPiwCBoCGAfc_acCEhkKDQgBEAYYASIDMDAxMAMQFBoCGAcxsclIEhoKDQgBEAgYASIDMDAxMAQQvBwaAhgHHxuJxhIZCg0ICRAGGAEiAzAwMTAGEAMaAhgHfGc_txIaCg0IDxAGGAEiAzAwMTABEJRNGgIYB40YTTISGQoNCAoQCBgBIgMwMDEwARAGGgIYB7Zue30SGQoNCAkQBhgBIgMwMDEwARAfGgIYB4GbqZESGgoNCAgQBhgBIgMwMDEwARChChoCGAfPn5XTEhoKDQgNEAYYASIDMDAxMAEQl34aAhgHUX60rxIbCg0IDhAGGAEiAzAwMTABELTABBoCGAcwigGfEhoKDQgQEAYYASIDMDAxMAEQmAYaAhgH6tA7XBosCAEIAwgFCAYIBwgICAkICggNCA4IDwgQEAEQCBoGCgRl3xmoIAEgAyAEIAY=&$ct=application/x-protobuf&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-protobuf",
+              "DownloadTime": 94,
+              "EventId": 774,
+              "HttpStatus": 200,
+              "Size": 1406,
+              "URL": "https://safebrowsing.googleapis.com/v4/threatListUpdates:fetch?$req=Ch0KDGdvb2dsZWNocm9tZRINODYuMC40MjQwLjExMRopCAUQARobCg0IBRAGGAEiAzAwMTABEKbKCRoCGAfs82KiIgQgASACKAEaKQgBEAEaGwoNCAEQBhgBIgMwMDEwARDxhwgaAhgH7vq3HSIEIAEgAigBGikIAxABGhsKDQgDEAYYASIDMDAxMAEQjZIIGgIYB_jt-HciBCABIAIoARopCAcQARobCg0IBxAGGAEiAzAwMTABEPiwCBoCGAfc_acCIgQgASACKAEaJwgBEAEaGQoNCAEQBhgBIgMwMDEwAxAUGgIYBzGxyUgiBCABIAIoAxooCAEQCBoaCg0IARAIGAEiAzAwMTAEELwcGgIYBx8bicYiBCABIAIoBBonCAkQARoZCg0ICRAGGAEiAzAwMTAGEAMaAhgHfGc_tyIEIAEgAigGGigIDxABGhoKDQgPEAYYASIDMDAxMAEQlE0aAhgHjRhNMiIEIAEgAigBGicIChAIGhkKDQgKEAgYASIDMDAxMAEQBhoCGAe2bnt9IgQgASACKAEaJwgJEAEaGQoNCAkQBhgBIgMwMDEwARAfGgIYB4GbqZEiBCABIAIoARooCAgQARoaCg0ICBAGGAEiAzAwMTABEKEKGgIYB8-fldMiBCABIAIoARooCA0QARoaCg0IDRAGGAEiAzAwMTABEJd-GgIYB1F-tK8iBCABIAIoARopCA4QARobCg0IDhAGGAEiAzAwMTABELTABBoCGAcwigGfIgQgASACKAEaKAgQEAEaGgoNCBAQBhgBIgMwMDEwARCYBhoCGAfq0DtcIgQgASACKAEiAggB&$ct=application/x-protobuf&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "64.233.164.95",
+          "IncludeInScript": true,
+          "Name": "fonts.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 78,
+              "EventId": 1006,
+              "HttpStatus": 200,
+              "Size": 538,
+              "URL": "https://fonts.googleapis.com/css?family=Google%20Sans%20Display%3A400"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.222.95",
+          "IncludeInScript": true,
+          "Name": "content-autofill.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 79,
+              "EventId": 273,
+              "HttpStatus": 200,
+              "Size": 32,
+              "URL": "https://content-autofill.googleapis.com/v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRIUCa5VX7OQwSSaEgkNZ2ez_hIAGgA=?alt=proto"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "64.233.163.94",
+          "IncludeInScript": true,
+          "Name": "clientservices.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 47,
+              "EventId": 64,
+              "HttpStatus": 200,
+              "Size": 62,
+              "URL": "https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=86"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleadservices.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.222.156",
+          "IncludeInScript": true,
+          "Name": "partner.googleadservices.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 31,
+              "EventId": 789,
+              "HttpStatus": 200,
+              "Size": 32,
+              "URL": "https://partner.googleadservices.com/gampad/cookie.js?domain=slovardalja.net&callback=_gfp_s_&client=pub-3303990594242526&cookie=ID%3De1c612a5d93655c6-229d4daf15b9002a%3AT%3D1604086382%3ART%3D1604086382%3AS%3DALNI_MZqmIz7tIhgirMywdIxh7I5RBnxjA"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 516,
+              "EventId": 478,
+              "HttpStatus": 200,
+              "Size": 194,
+              "URL": "https://partner.googleadservices.com/gampad/cookie.js?domain=slovardalja.net&callback=_gfp_s_&client=ca-pub-3303990594242526"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "74.125.205.147",
+          "IncludeInScript": true,
+          "Name": "www.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 531,
+              "EventId": 576,
+              "HttpStatus": 302,
+              "Size": 246,
+              "URL": "https://www.google.com/pagead/drt/ui"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.222.156",
+          "IncludeInScript": true,
+          "Name": "adservice.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 794,
+              "HttpStatus": 200,
+              "Size": 104,
+              "URL": "https://adservice.google.com/adsid/integrator.js?domain=slovardalja.net"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 156,
+              "EventId": 447,
+              "HttpStatus": 200,
+              "Size": 104,
+              "URL": "https://adservice.google.com/adsid/integrator.js?domain=slovardalja.net"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.73.84",
+          "IncludeInScript": true,
+          "Name": "accounts.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 15,
+              "EventId": 52,
+              "HttpStatus": 200,
+              "Size": 45,
+              "URL": "https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google-analytics.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "64.233.161.139",
+          "IncludeInScript": true,
+          "Name": "www.google-analytics.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 15,
+              "EventId": 715,
+              "HttpStatus": 200,
+              "Size": 35,
+              "URL": "https://www.google-analytics.com/__utm.gif?utmwv=1.4&utmn=702996593&utmcs=windows-1251&utmsr=1366x768&utmsc=24-bit&utmul=ru-ru&utmje=0&utmfl=-&utmdt=%D0%A2%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C%20%D0%94%D0%B0%D0%BB%D1%8F%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&utmhn=slovardalja.net&utmhid=2111305585&utmr=0&utmp=/view_search.php&utmac=UA-4839607-1&utmcc=__utma%3D196215790.721642572.1604086363.1604086363.1604086363.1%3B%2B__utmz%3D196215790.1604086363.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none)%3B%2B"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 219,
+              "HttpStatus": 200,
+              "Size": 35,
+              "URL": "https://www.google-analytics.com/__utm.gif?utmwv=1.4&utmn=721642572&utmcs=windows-1251&utmsr=1366x768&utmsc=24-bit&utmul=ru-ru&utmje=0&utmfl=-&utmcn=1&utmdt=%D0%A2%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C%20%D0%94%D0%B0%D0%BB%D1%8F%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&utmhn=slovardalja.net&utmhid=838536387&utmr=-&utmp=/&utmac=UA-4839607-1&utmcc=__utma%3D196215790.721642572.1604086363.1604086363.1604086363.1%3B%2B__utmz%3D196215790.1604086363.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none)%3B%2B"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 94,
+              "EventId": 172,
+              "HttpStatus": 200,
+              "Size": 6847,
+              "URL": "https://www.google-analytics.com/urchin.js"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "doubleclick.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.222.156",
+          "IncludeInScript": true,
+          "Name": "googleads.g.doubleclick.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 63,
+              "EventId": 964,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://googleads.g.doubleclick.net/pagead/adview?ai=Cl_KxG2ucX6mPBISo6gS5jbv4AZfbsedfhd2ljJoL69S4zNQBEAEgy6CuD2CEneyF2B2gAc2r0PoDyAEJqQKeB8LzkB9LPqgDAcgDSqoE2QFP0Kxe02eRQTECd9uqb27UYNxXfqSV2s0quXCIYsIIKPzDdQp3m5yVpyxvm3EhkpZhk8D7_XQBfjLfPuVYncv_FpF4p40JMwhIAeY1pbGHa370yp7dAz8V5mRkA1JFFeHxmnrMloGxEkH6ku3qbqb925d_2B7xPewQ1GoSKjKRiZw_FYzdUQawwJOidRjgPmDc_s-PjL2kbdaz0bEuQDEXMqqA6Z_ykFBlJuJOMpiUzNdCMz8LhKSeCOaH2-I9KImQoWOlQXLpdCMGK10uvon0f6x1qqFiKh2ywATOkKqt9gKSBQQIBBgBkgUECAUYBKAGLoAHm9SvBagH8NkbqAfy2RuoB47OG6gHk9gbqAe6BqgH7paxAqgHpr4bqAfs1RvYBwDyBwQQxYQB0ggHCIBhEAEYH4AKAcgLAbIMFHB1Yi0zMzAzOTkwNTk0MjQyNTI2wgwCCAHYEw2IFAY&sigh=dVvXEC3yjsw&template_id=494&tpd=AGWhJmuxpdy8fPNolsg96Rcl3wkETddj8Zhcx8Wx7UAyk3fjlg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 266,
+              "EventId": 883,
+              "HttpStatus": 200,
+              "Size": 87456,
+              "URL": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3303990594242526&output=html&h=600&slotname=8938184216&adk=1062145475&adf=2802373691&pi=t.ma~as.8938184216&w=120&lmt=1604086561&guci=2.2.0.0.2.2.0.0&url=http%3A%2F%2Fslovardalja.net%2Fview_search.php&flash=0&wgl=1&tt_state=W3siaXNzdWVyT3JpZ2luIjoiaHR0cHM6Ly9hZHNlcnZpY2UuZ29vZ2xlLmNvbSIsInN0YXRlIjowfSx7Imlzc3Vlck9yaWdpbiI6Imh0dHBzOi8vYXR0ZXN0YXRpb24uYW5kcm9pZC5jb20iLCJzdGF0ZSI6MH1d&dt=1604086561223&bpp=8&bdt=10432&idt=9&shv=r20201027&cbv=r20190131&ptt=5&saldr=sa&abxe=1&cookie=ID%3De1c612a5d93655c6-229d4daf15b9002a%3AT%3D1604086382%3ART%3D1604086382%3AS%3DALNI_MZqmIz7tIhgirMywdIxh7I5RBnxjA&prev_fmts=160x600%2C0x0&nras=1&correlator=4613063621038&frm=20&pv=1&ga_vid=721642572.1604086363&ga_sid=1604086363&ga_hid=2111305585&ga_fc=1&iag=0&icsg=2233550768256&dssz=28&mdo=0&mso=0&u_tz=180&u_his=2&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&adx=1050&ady=173&biw=1349&bih=657&scr_x=0&scr_y=0&eid=42530671%2C21068084%2C21065724&oid=3&pvsid=3875297866738772&pem=919&ref=http%3A%2F%2Fslovardalja.net%2F&rx=0&eae=0&fc=896&brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C728%2C1366%2C657&vis=1&rsz=d%7C%7Ce%7Cn&abl=XS&pfx=0&fu=8192&bc=23&ifi=2&uci=a!2&fsb=1&xpc=UgzuCjzq3M&p=http%3A//slovardalja.net&dtd=152"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 78,
+              "EventId": 854,
+              "HttpStatus": 200,
+              "Size": 2022,
+              "URL": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3303990594242526&output=html&adk=1812271804&adf=3025194257&lmt=1604086561&plat=1%3A32776%2C2%3A32776%2C9%3A32776%2C10%3A32%2C11%3A32%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C40%3A32&guci=2.2.0.0.2.2.0.0&format=0x0&url=http%3A%2F%2Fslovardalja.net%2Fview_search.php&ea=0&flash=0&pra=7&wgl=1&tt_state=W3siaXNzdWVyT3JpZ2luIjoiaHR0cHM6Ly9hZHNlcnZpY2UuZ29vZ2xlLmNvbSIsInN0YXRlIjowfSx7Imlzc3Vlck9yaWdpbiI6Imh0dHBzOi8vYXR0ZXN0YXRpb24uYW5kcm9pZC5jb20iLCJzdGF0ZSI6MH1d&dt=1604086555800&bpp=8&bdt=5009&idt=5308&shv=r20201027&cbv=r20190131&ptt=9&saldr=aa&abxe=1&cookie=ID%3De1c612a5d93655c6-229d4daf15b9002a%3AT%3D1604086382%3ART%3D1604086382%3AS%3DALNI_MZqmIz7tIhgirMywdIxh7I5RBnxjA&prev_fmts=160x600&nras=1&correlator=4613063621038&frm=20&pv=1&ga_vid=721642572.1604086363&ga_sid=1604086363&ga_hid=2111305585&ga_fc=1&iag=0&icsg=545302656&dssz=22&mdo=0&mso=0&u_tz=180&u_his=2&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&adx=-12245933&ady=-12245933&biw=1349&bih=657&scr_x=0&scr_y=0&eid=42530671%2C21068084%2C21065724&oid=3&pvsid=3875297866738772&pem=919&ref=http%3A%2F%2Fslovardalja.net%2F&rx=0&eae=2&fc=896&brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C728%2C1366%2C657&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=8192&bc=23&ifi=1&uci=a!1&fsb=1&dtd=5326"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 391,
+              "EventId": 827,
+              "HttpStatus": 200,
+              "Size": 88800,
+              "URL": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3303990594242526&output=html&h=600&slotname=9609848646&adk=4291559146&adf=1803467449&pi=t.ma~as.9609848646&w=160&lmt=1604086560&psa=1&guci=2.2.0.0.2.2.0.0&format=160x600&url=http%3A%2F%2Fslovardalja.net%2Fview_search.php&flash=0&wgl=1&tt_state=W3siaXNzdWVyT3JpZ2luIjoiaHR0cHM6Ly9hZHNlcnZpY2UuZ29vZ2xlLmNvbSIsInN0YXRlIjowfSx7Imlzc3Vlck9yaWdpbiI6Imh0dHBzOi8vYXR0ZXN0YXRpb24uYW5kcm9pZC5jb20iLCJzdGF0ZSI6MH1d&dt=1604086555791&bpp=9&bdt=5000&idt=4960&shv=r20201027&cbv=r20190131&ptt=9&saldr=aa&abxe=1&cookie=ID%3De1c612a5d93655c6-229d4daf15b9002a%3AT%3D1604086382%3ART%3D1604086382%3AS%3DALNI_MZqmIz7tIhgirMywdIxh7I5RBnxjA&correlator=4613063621038&frm=20&pv=2&ga_vid=721642572.1604086363&ga_sid=1604086363&ga_hid=2111305585&ga_fc=1&iag=0&icsg=8431744&dssz=21&mdo=0&mso=0&u_tz=180&u_his=2&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&adx=180&ady=173&biw=1349&bih=657&scr_x=0&scr_y=0&eid=42530671%2C21068084%2C21065724&oid=3&pvsid=3875297866738772&pem=919&ref=http%3A%2F%2Fslovardalja.net%2F&rx=0&eae=0&fc=896&brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C728%2C1366%2C657&vis=1&rsz=d%7C%7CEe%7Cn&abl=XS&pfx=0&fu=8192&bc=23&ifi=1&uci=a!1&fsb=1&xpc=B1aPVpaZ2Z&p=http%3A//slovardalja.net&dtd=5183"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 79,
+              "EventId": 769,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://googleads.g.doubleclick.net/pagead/html/r20201027/r20190131/zrt_lookup.html"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 578,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://googleads.g.doubleclick.net/pagead/drt/si"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 94,
+              "EventId": 502,
+              "HttpStatus": 200,
+              "Size": 404,
+              "URL": "https://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 63,
+              "EventId": 471,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://googleads.g.doubleclick.net/pagead/adview?ai=CP_R_ZGqcX8yKHqWDxdwPoOu0-A_Cq93eX-TTmJ2hDMTLk57cGRABIMugrg9ghJ3shdgdoAGVlKrJA8gBAqkC-Qced8IESz6oAwHIA8kEqgSrAU_QetLKvswrJNxXWj_ot5zfbnU6fvNtMD4w2ofjxXNqK7ZPrpOl5-b5TY2yXHaCKcH-A8Nb0n7NA1QY4NiKXC3fdVpqNkC0UOEp1srOLwCT8tl-9esAQAe9zcWiWn3qymVpKtjN9RhUzTRtf7Llv25BdoaLB27-YrqSfJC2IRJaXyhNNCAAXuqxmMz96JttBXOHNgi8ElQAKQ9cvI7qM81sJMBzylziNBLh0cAEt9i-uKwDkgUECAQYAZIFBAgFGASSBQQIBRgYkgUFCAUYqAGgBgKAB9Pr1TaoB9XJG6gH8NkbqAfy2RuoB47OG6gHk9gbqAe6BqgH7paxAqgHpr4bqAfs1RvYBwHyBwQQtMcD0ggHCIBhEAEYH4AKAcgLAbIMFHB1Yi0zMzAzOTkwNTk0MjQyNTI2wgwCCAHYEwI&sigh=V39VL9hT9_4&tpd=AGWhJmsGtDRAgGol34uMSaQRUYd6cvIUEx47rFUsY2kzoAejlw"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 125,
+              "EventId": 441,
+              "HttpStatus": 200,
+              "Size": 1787,
+              "URL": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3303990594242526&output=html&adk=1812271804&adf=3025194257&lmt=1604086378&plat=1%3A32776%2C2%3A32776%2C9%3A32776%2C10%3A32%2C11%3A32%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C40%3A32&guci=2.2.0.0.2.2.0.0&format=0x0&url=http%3A%2F%2Fslovardalja.net%2F&ea=0&flash=0&pra=7&wgl=1&tt_state=W3siaXNzdWVyT3JpZ2luIjoiaHR0cHM6Ly9hZHNlcnZpY2UuZ29vZ2xlLmNvbSIsInN0YXRlIjowfSx7Imlzc3Vlck9yaWdpbiI6Imh0dHBzOi8vYXR0ZXN0YXRpb24uYW5kcm9pZC5jb20iLCJzdGF0ZSI6MH1d&dt=1604086363209&bpp=9&bdt=18841&idt=15222&shv=r20201027&cbv=r20190131&ptt=9&saldr=aa&abxe=1&prev_fmts=160x600&nras=1&correlator=7975299141462&frm=20&pv=1&ga_vid=721642572.1604086363&ga_sid=1604086363&ga_hid=838536387&ga_fc=1&iag=0&icsg=8530432&dssz=16&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&adx=-12245933&ady=-12245933&biw=1349&bih=657&scr_x=0&scr_y=0&eid=21067981%2C21068083&oid=3&pvsid=1961376086312261&pem=919&rx=0&eae=2&fc=896&brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C728%2C1366%2C657&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=8192&bc=23&ifi=1&uci=a!1&fsb=1&dtd=15233"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 453,
+              "EventId": 405,
+              "HttpStatus": 200,
+              "Size": 59730,
+              "URL": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3303990594242526&output=html&h=600&slotname=9609848646&adk=4291559146&adf=1803467449&pi=t.ma~as.9609848646&w=160&lmt=1604086378&psa=0&guci=2.2.0.0.2.2.0.0&format=160x600&url=http%3A%2F%2Fslovardalja.net%2F&flash=0&wgl=1&tt_state=W3siaXNzdWVyT3JpZ2luIjoiaHR0cHM6Ly9hZHNlcnZpY2UuZ29vZ2xlLmNvbSIsInN0YXRlIjowfSx7Imlzc3Vlck9yaWdpbiI6Imh0dHBzOi8vYXR0ZXN0YXRpb24uYW5kcm9pZC5jb20iLCJzdGF0ZSI6MH1d&dt=1604086363184&bpp=24&bdt=18816&idt=15201&shv=r20201027&cbv=r20190131&ptt=9&saldr=aa&abxe=1&correlator=7975299141462&frm=20&pv=2&ga_vid=721642572.1604086363&ga_sid=1604086363&ga_hid=838536387&ga_fc=1&iag=0&icsg=141824&dssz=15&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&adx=180&ady=173&biw=1349&bih=657&scr_x=0&scr_y=0&eid=21067981%2C21068083&oid=3&pvsid=1961376086312261&pem=919&rx=0&eae=0&fc=896&brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C728%2C1366%2C657&vis=1&rsz=d%7C%7CEe%7Cn&abl=XS&pfx=0&fu=8192&bc=23&ifi=1&uci=a!1&fsb=1&xpc=xmvAFG5R6X&p=http%3A//slovardalja.net&dtd=15231"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 125,
+              "EventId": 277,
+              "HttpStatus": 200,
+              "Size": 10643,
+              "URL": "https://googleads.g.doubleclick.net/pagead/html/r20201027/r20190131/zrt_lookup.html"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "dircont3.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "89.187.160.11",
+          "IncludeInScript": true,
+          "Name": "p1.dircont3.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 375,
+              "EventId": 306,
+              "HttpStatus": 200,
+              "Size": 9856,
+              "URL": "http://p1.dircont3.com/nv.js"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "counter.yadro.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "88.212.201.216",
+          "IncludeInScript": true,
+          "Name": "counter.yadro.ru",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 94,
+              "EventId": 222,
+              "HttpStatus": 302,
+              "Size": 32,
+              "URL": "http://counter.yadro.ru/hit?t44.1;r;s1366*768*24;uhttp%3A//slovardalja.net/;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.23858082708359452"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "88.212.201.216",
+          "IncludeInScript": true,
+          "Name": "counter.yadro.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 801,
+              "HttpStatus": 200,
+              "Size": 140,
+              "URL": "https://counter.yadro.ru/hit?q;t44.1;rhttp%3A//slovardalja.net/;s1366*768*24;uhttp%3A//slovardalja.net/view_search.php;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.7166116382316416"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 63,
+              "EventId": 772,
+              "HttpStatus": 302,
+              "Size": 32,
+              "URL": "https://counter.yadro.ru/hit?t44.1;rhttp%3A//slovardalja.net/;s1366*768*24;uhttp%3A//slovardalja.net/view_search.php;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.7166116382316416"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 94,
+              "EventId": 335,
+              "HttpStatus": 200,
+              "Size": 140,
+              "URL": "https://counter.yadro.ru/hit?q;t44.1;r;s1366*768*24;uhttp%3A//slovardalja.net/;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.23858082708359452"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 110,
+              "EventId": 300,
+              "HttpStatus": 302,
+              "Size": 32,
+              "URL": "https://counter.yadro.ru/hit?t44.1;r;s1366*768*24;uhttp%3A//slovardalja.net/;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.23858082708359452"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "counter.rambler.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "81.19.89.18",
+          "IncludeInScript": true,
+          "Name": "counter.rambler.ru",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 684,
+              "HttpStatus": 307,
+              "Size": 171,
+              "URL": "http://counter.rambler.ru/top100.cnt?1439171"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 109,
+              "EventId": 170,
+              "HttpStatus": 307,
+              "Size": 171,
+              "URL": "http://counter.rambler.ru/top100.cnt?1439171"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "81.19.89.18",
+          "IncludeInScript": true,
+          "Name": "counter.rambler.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 766,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://counter.rambler.ru/top100.cnt?1439171"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 94,
+              "EventId": 225,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://counter.rambler.ru/top100.cnt?1439171"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "cdn-rtb.sape.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "193.232.121.29",
+          "IncludeInScript": true,
+          "Name": "cdn-rtb.sape.ru",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 203,
+              "EventId": 193,
+              "HttpStatus": 200,
+              "Size": 18902,
+              "URL": "http://cdn-rtb.sape.ru/teasers/js/471/2/53471.js"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "an.yandex.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "87.250.250.90",
+          "IncludeInScript": true,
+          "Name": "an.yandex.ru",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 125,
+              "EventId": 764,
+              "HttpStatus": 200,
+              "Size": 36358,
+              "URL": "http://an.yandex.ru/system/context.js"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "87.250.250.90",
+          "IncludeInScript": true,
+          "Name": "an.yandex.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 156,
+              "EventId": 957,
+              "HttpStatus": 200,
+              "Size": 15574,
+              "URL": "https://an.yandex.ru/meta/224874?redir-setuniq=1&grab=dNCi0L7Qu9C60L7QstGL0Lkg0YHQu9C-0LLQsNGA0Ywg0JTQsNC70Y8g0L7QvdC70LDQudC9CjHQotC-0LvQutC-0LLRi9C5INGB0LvQvtCy0LDRgNGMINCU0LDQu9GPINC-0L3Qu9Cw0LnQvSAKMtCg0LXQt9GD0LvRjNGC0LDRgtGLINC_0L7QuNGB0LrQsCAK&target-ref=http%3A%2F%2Fslovardalja.net%2Fview_search.php&page-ref=http%3A%2F%2Fslovardalja.net%2F&charset=utf-8&imp-id=4&enable-flat-highlight=1&test-tag=312811058102274&ad-session-id=3099751604086561163&target-id=21012060&pcode-test-ids=286599%2C0%2C78&pcode-flags=%7B%22DEFAULT_SSR_FORMATS%22%3A%5B%22posterVertical%22%2C%22posterHorizontal%22%2C%22motion%22%5D%2C%22DEFAULT_BLACKLIST_PAGES%22%3A%5B%22248936%22%5D%2C%22DEFAULT_BLACKLIST_DEVICES%22%3A%5B%5D%2C%22changableMeta%22%3A1%7D&server-side-rendering-enabled-formats=posterVertical%0AposterHorizontal%0Amotion&pcode-version=12857&flash-ver=0&pcode-icookie=6633084301604086554&available-width=704&layout-config=%7B%22win_width%22%3A1366%2C%22win_height%22%3A657%2C%22pixel_ratio%22%3A1%2C%22bandwidth%22%3A8.85%2C%22w%22%3A704%2C%22h%22%3A0%2C%22width%22%3A704%2C%22height%22%3A0%2C%22left%22%3A343%2C%22top%22%3A293%2C%22visible%22%3A1%2C%22ad_no%22%3A0%2C%22req_no%22%3A0%7D&callback=Ya%5B6238424802827%5D"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/javascript",
+              "DownloadTime": 32,
+              "EventId": 905,
+              "HttpStatus": 200,
+              "Size": 15379,
+              "URL": "https://an.yandex.ru/partner-code-bundles/12857/3bfae02193b837ceee13.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 78,
+              "EventId": 878,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://an.yandex.ru/meta/224874?grab=dNCi0L7Qu9C60L7QstGL0Lkg0YHQu9C-0LLQsNGA0Ywg0JTQsNC70Y8g0L7QvdC70LDQudC9CjHQotC-0LvQutC-0LLRi9C5INGB0LvQvtCy0LDRgNGMINCU0LDQu9GPINC-0L3Qu9Cw0LnQvSAKMtCg0LXQt9GD0LvRjNGC0LDRgtGLINC_0L7QuNGB0LrQsCAK&target-ref=http%3A%2F%2Fslovardalja.net%2Fview_search.php&page-ref=http%3A%2F%2Fslovardalja.net%2F&charset=utf-8&imp-id=4&enable-flat-highlight=1&test-tag=312811058102274&ad-session-id=3099751604086561163&target-id=21012060&pcode-test-ids=286599%2C0%2C78&pcode-flags=%7B%22DEFAULT_SSR_FORMATS%22%3A%5B%22posterVertical%22%2C%22posterHorizontal%22%2C%22motion%22%5D%2C%22DEFAULT_BLACKLIST_PAGES%22%3A%5B%22248936%22%5D%2C%22DEFAULT_BLACKLIST_DEVICES%22%3A%5B%5D%2C%22changableMeta%22%3A1%7D&server-side-rendering-enabled-formats=posterVertical%0AposterHorizontal%0Amotion&pcode-version=12857&flash-ver=0&pcode-icookie=6633084301604086554&available-width=704&layout-config=%7B%22win_width%22%3A1366%2C%22win_height%22%3A657%2C%22pixel_ratio%22%3A1%2C%22bandwidth%22%3A8.85%2C%22w%22%3A704%2C%22h%22%3A0%2C%22width%22%3A704%2C%22height%22%3A0%2C%22left%22%3A343%2C%22top%22%3A293%2C%22visible%22%3A1%2C%22ad_no%22%3A0%2C%22req_no%22%3A0%7D&callback=Ya%5B6238424802827%5D"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/javascript",
+              "DownloadTime": 63,
+              "EventId": 874,
+              "HttpStatus": 200,
+              "Size": 82999,
+              "URL": "https://an.yandex.ru/partner-code-bundles/12857/7a7f1218ad41ee2964e8.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/javascript",
+              "DownloadTime": 16,
+              "EventId": 868,
+              "HttpStatus": 200,
+              "Size": 72202,
+              "URL": "https://an.yandex.ru/partner-code-bundles/12857/163a154fd0c0be906789.js"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": false
+    },
+    {
+      "DomainName": "adservice.google.ru",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "173.194.222.155",
+          "IncludeInScript": true,
+          "Name": "adservice.google.ru",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 792,
+              "HttpStatus": 200,
+              "Size": 104,
+              "URL": "https://adservice.google.ru/adsid/integrator.js?domain=slovardalja.net"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 140,
+              "EventId": 443,
+              "HttpStatus": 200,
+              "Size": 104,
+              "URL": "https://adservice.google.ru/adsid/integrator.js?domain=slovardalja.net"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "acint.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "195.201.243.71",
+          "IncludeInScript": true,
+          "Name": "www.acint.net",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 757,
+              "HttpStatus": 302,
+              "Size": 142,
+              "URL": "http://www.acint.net/aci.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 258,
+              "HttpStatus": 302,
+              "Size": 142,
+              "URL": "http://www.acint.net/aci.js"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 17
+}

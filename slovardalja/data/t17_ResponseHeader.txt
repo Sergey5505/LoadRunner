@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: cloudflare-nginx
+Date: Fri, 30 Oct 2020 19:47:18 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=60
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Content-Encoding: gzip
+

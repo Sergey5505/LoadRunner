@@ -1,0 +1,17 @@
+[t25]
+FileName1=t25.htm
+URL1=https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3303990594242526&output=html&h=600&slotname=8938184216&adk=1062145475&adf=2802373691&pi=t.ma~as.8938184216&w=120&lmt=1604086561&guci=2.2.0.0.2.2.0.0&url=http%3A%2F%2Fslovardalja.net%2Fview_search.php&flash=0&wgl=1&tt_state=W3siaXNzdWVyT3JpZ2luIjoiaHR0cHM6Ly9hZHNlcnZpY2UuZ29vZ2xlLmNvbSIsInN0YXRlIjowfSx7Imlzc3Vlck9yaWdpbiI6Imh0dHBzOi8vYXR0ZXN0YXRpb24uYW5kcm9pZC5jb20iLCJzdGF0ZSI6MH1d&dt=1604086561223&bpp=8&bdt=10432&idt=9&shv=r20201027&cbv=r20190131&ptt=5&saldr=sa&abxe=1&cookie=ID%3De1c612a5d93655c6-229d4daf15b9002a%3AT%3D1604086382%3ART%3D1604086382%3AS%3DALNI_MZqmIz7tIhgirMywdIxh7I5RBnxjA&prev_fmts=160x600%2C0x0&nras=1&correlator=4613063621038&frm=20&pv=1&ga_vid=721642572.1604086363&ga_sid=1604086363&ga_hid=2111305585&ga_fc=1&iag=0&icsg=2233550768256&dssz=28&mdo=0&mso=0&u_tz=180&u_his=2&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&adx=1050&ady=173&biw=1349&bih=657&scr_x=0&scr_y=0&eid=42530671%2C21068084%2C21065724&oid=3&pvsid=3875297866738772&pem=919&ref=http%3A%2F%2Fslovardalja.net%2F&rx=0&eae=0&fc=896&brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C728%2C1366%2C657&vis=1&rsz=d%7C%7Ce%7Cn&abl=XS&pfx=0&fu=8192&bc=23&ifi=2&uci=a!2&fsb=1&xpc=UgzuCjzq3M&p=http%3A//slovardalja.net&dtd=152
+Total=4
+RequestHeaderFile=t25_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t25_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_25.xml
+FileName2=t25_3bfae02193b837ceee13.html
+URL2=https://an.yandex.ru/partner-code-bundles/12857/3bfae02193b837ceee13.js
+FileName3=t25_load_preloaded_resource_fy2019.html
+URL3=https://tpc.googlesyndication.com/pagead/js/r20201027/r20110914/client/load_preloaded_resource_fy2019.js
+FileName4=t25_224874.html
+URL4=https://an.yandex.ru/meta/224874?redir-setuniq=1&grab=dNCi0L7Qu9C60L7QstGL0Lkg0YHQu9C-0LLQsNGA0Ywg0JTQsNC70Y8g0L7QvdC70LDQudC9CjHQotC-0LvQutC-0LLRi9C5INGB0LvQvtCy0LDRgNGMINCU0LDQu9GPINC-0L3Qu9Cw0LnQvSAKMtCg0LXQt9GD0LvRjNGC0LDRgtGLINC_0L7QuNGB0LrQsCAK&target-ref=http%3A%2F%2Fslovardalja.net%2Fview_search.php&page-ref=http%3A%2F%2Fslovardalja.net%2F&charset=utf-8&imp-id=4&enable-flat-highlight=1&test-tag=312811058102274&ad-session-id=3099751604086561163&target-id=21012060&pcode-test-ids=286599%2C0%2C78&pcode-flags=%7B%22DEFAULT_SSR_FORMATS%22%3A%5B%22posterVertical%22%2C%22posterHorizontal%22%2C%22motion%22%5D%2C%22DEFAULT_BLACKLIST_PAGES%22%3A%5B%22248936%22%5D%2C%22DEFAULT_BLACKLIST_DEVICES%22%3A%5B%5D%2C%22changableMeta%22%3A1%7D&server-side-rendering-enabled-formats=posterVertical%0AposterHorizontal%0Amotion&pcode-version=12857&flash-ver=0&pcode-icookie=6633084301604086554&available-width=704&layout-config=%7B%22win_width%22%3A1366%2C%22win_height%22%3A657%2C%22pixel_ratio%22%3A1%2C%22bandwidth%22%3A8.85%2C%22w%22%3A704%2C%22h%22%3A0%2C%22width%22%3A704%2C%22height%22%3A0%2C%22left%22%3A343%2C%22top%22%3A293%2C%22visible%22%3A1%2C%22ad_no%22%3A0%2C%22req_no%22%3A0%7D&callback=Ya%5B6238424802827%5D
+[ProtocolInfo]
+ProtocolId=QTWeb

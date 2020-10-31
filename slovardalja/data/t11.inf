@@ -1,0 +1,15 @@
+[t11]
+FileName1=t11_1akds.html
+URL1=http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22dom%22%2C%22ts%22%3A74795%7D%5D&url=http%3A%2F%2Fslovardalja.net%2F&v=2.2.1-1c8fa83&r=im89pq85r5&referrer=http%3A%2F%2Fno.domain%2F
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_11.xml
+RequestHeaderFile=t11_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t11_ResponseHeader.txt
+FileName2=t11_favicon.ico
+URL2=http://slovardalja.net/favicon.ico
+FileName3=t11_sodar2.html
+URL3=https://tpc.googlesyndication.com/sodar/sodar2.js
+[ProtocolInfo]
+ProtocolId=QTWeb

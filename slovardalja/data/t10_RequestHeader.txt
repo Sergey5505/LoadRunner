@@ -1,0 +1,13 @@
+GET /getconfig/sodar?sv=200&tid=gda&tv=r20201027&st=env HTTP/1.1
+Host: pagead2.googlesyndication.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: */*
+Origin: http://slovardalja.net
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://slovardalja.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9
+

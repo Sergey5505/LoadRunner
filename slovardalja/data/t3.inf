@@ -1,0 +1,15 @@
+[t3]
+FileName1=t3_1akds.html
+URL1=http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22start%22%2C%22ts%22%3A15520%7D%5D&url=&v=2.2.1-1c8fa83&r=im89pq85r5&referrer=
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_3.xml
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t3_ResponseHeader.txt
+FileName2=t3_urchin.html
+URL2=https://www.google-analytics.com/urchin.js
+FileName3=t3_53471.html
+URL3=http://cdn-rtb.sape.ru/teasers/js/471/2/53471.js
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,10 @@
+GET /1akds.json?stat=%5B%7B%22t%22%3A%22start%22%2C%22ts%22%3A128132%7D%5D&url=&v=2.2.1-1c8fa83&r=8cmivl9bfu&referrer= HTTP/1.1
+Host: newrrb.bid
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Accept: */*
+Origin: http://slovardalja.net
+Referer: http://slovardalja.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9
+

@@ -1,0 +1,4 @@
+"{"blocksId":["148752","149099"],"isAdBlock":false,"url":"http://slovardalja.net/view_search.ph"
+"p","v":"2.2.1-~~SHA~VERSION~STRING~~","r":"8cmivl9bfu","city":null,"region":null,"countryCode""
+":null,"width":1366,"skip":[],"referrer":"http://slovardalja.net/","sessionReferrer":"http://no"
+".domain/"}"

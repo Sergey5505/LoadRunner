@@ -1,0 +1,80 @@
+[
+    {
+        "stepId": "STEP1",
+        "stepName": "Url: slovardalja.net",
+        "infFile": "t1.inf",
+        "time": 1604100178894
+    },
+    {
+        "stepId": "STEP2",
+        "stepName": "Submit Data: view_search.php",
+        "infFile": "t2.inf",
+        "time": 1604100190231
+    },
+    {
+        "stepId": "STEP3",
+        "stepName": "Custom Request: 1akds.json_4",
+        "infFile": "t3.inf",
+        "time": 1604100190270
+    },
+    {
+        "stepId": "STEP4",
+        "stepName": "Url: 1akds.json_5",
+        "infFile": "t5.inf",
+        "time": 1604100190294
+    },
+    {
+        "stepId": "STEP5",
+        "stepName": "Custom Request: 1akds.json_6",
+        "infFile": "t6.inf",
+        "time": 1604100190327
+    },
+    {
+        "stepId": "STEP6",
+        "stepName": "Url: 1akds.json_7",
+        "infFile": "t7.inf",
+        "time": 1604100190349
+    },
+    {
+        "stepId": "STEP7",
+        "stepName": "Url: zrt_lookup.html_2",
+        "infFile": "t8.inf",
+        "time": 1604100190592
+    },
+    {
+        "stepId": "STEP8",
+        "stepName": "Url: 1akds.json_8",
+        "infFile": "t9.inf",
+        "time": 1604100190723
+    },
+    {
+        "stepId": "STEP9",
+        "stepName": "Url: ads_3",
+        "infFile": "t10.inf",
+        "time": 1604100191280
+    },
+    {
+        "stepId": "STEP10",
+        "stepName": "Url: 1akds.json_9",
+        "infFile": "t11.inf",
+        "time": 1604100191317
+    },
+    {
+        "stepId": "STEP11",
+        "stepName": "Url: ads_4",
+        "infFile": "t12.inf",
+        "time": 1604100191417
+    },
+    {
+        "stepId": "STEP12",
+        "stepName": "Url: 1akds.json_10",
+        "infFile": "t13.inf",
+        "time": 1604100191455
+    },
+    {
+        "stepId": "STEP13",
+        "stepName": "Url: ads_5",
+        "infFile": "t14.inf",
+        "time": 1604100191985
+    }
+]
