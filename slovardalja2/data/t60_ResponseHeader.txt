@@ -1,0 +1,13 @@
+HTTP/1.1 204 No Content
+Server: nginx/1.12.0
+Date: Sat, 21 Nov 2020 20:23:59 GMT
+Access-Control-Allow-Origin: *
+P3p: CP="NOI DSP COR CURa DEVa PSAa OUR STP UNI DEM"
+Cache-Control: no-store, no-cache, must-revalidate, max-age=0, post-check=0, pre-check=0
+Pragma: no-cache
+Expires: Tue, 03 Jul 2001 06:00:00 GMT
+Last-Modified: Sat, 21 Nov 2020 20:23:59 GMT
+Set-Cookie: AFFICHE_W=; expires=Tue, 10 Nov 2009 23:00:00 GMT
+Via: 1.1 google
+Alt-Svc: clear
+

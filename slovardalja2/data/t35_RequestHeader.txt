@@ -1,0 +1,11 @@
+GET /pagead/adview?ai=Cov6UFXe5X-uSCtCKiQabnJGYD_6a7Z5g6f2BmLYMv-EeEAEgy6CuD2CEneyF2B2gAfi-hfgDyAECqQIRBhYWxixMPqgDAaoEwQFP0FEYXpSncat_719FAYSVdh5vH6Vn9lMDnHsbx2WmK8rTgR_5lH1h3szc_SUY22HMDR9xXLrn6Gp6TkeaBcLpPALsY3uKufUDhGtluRlbwc7EuTOgrqnBuQ3_L_mC0HLNRcMn9uey5Hb35pY6J1Dy3eQqwmK_nUyiC3jzNR9wqeMX45WHwsspwVVeW9tb3P0tmB6fNVKuI7FBnT5pJch-m7zGfqV5mdlCUfzA9M8kenO57mUSF3oSVh8SEJG5lik3wAT-o7GwqQOgBgKAB_DA-geoB9XJG6gH8NkbqAfy2RuoB47OG6gHk9gbqAe6BqgH7paxAqgHpr4bqAfs1RvYBwHyBwQQ9-kH0ggJCIDhgEAQARgfgAoByAsB2BMDmBYBshcaChgIARIUcHViLTMzMDM5OTA1OTQyNDI1MjY&sigh=3_q6LYp_lUU&vt=1 HTTP/1.1
+Host: googleads.g.doubleclick.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9
+

@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=946708560
+Connection: keep-alive
+Content-Length: 22768
+Content-Type: text/html
+Date: Sat, 21 Nov 2020 19:49:32 GMT
+Etag: "f883bd7781c332870c9968db60e89349"
+Expires: Tue, 22 Nov 2050 02:59:58 GMT
+Keep-Alive: timeout=600
+Last-Modified: Tue, 20 Aug 2019 11:55:41 GMT
+NEL: {"report_to": "network-errors", "max_age": 600, "success_fraction": 0.001, "failure_fraction": 0.01}
+Report-To: { "group": "network-errors", "max_age": 600, "endpoints": [ { "url": "https://dr.yandex.net/nel"}]}
+Strict-Transport-Security: max-age=43200000; includeSubDomains;
+Timing-Allow-Origin: *
+Vary: Accept-Encoding
+X-Robots-Tag: noindex, noarchive, nofollow
+

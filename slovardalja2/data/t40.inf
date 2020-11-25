@@ -1,0 +1,13 @@
+[t40]
+FileName1=t40_1.html
+URL1=https://mc.yandex.ru/watch/224874/1?wmode=7&page-url=http%3A%2F%2Fslovardalja.net%2Fletter.php%3Fcharkod%3D192&page-ref=http%3A%2F%2Fslovardalja.net%2F&nohit=1&charset=utf-8&cnt-class=1&browser-info=pv%3A1%3Agdpr%3A14%3Avf%3A1oc1oo18i9y4fw%3Afu%3A0%3Aen%3Awindows-1251%3Ala%3Aru-RU%3Av%3A282%3Acn%3A1%3Adp%3A0%3Als%3A0%3Ahid%3A772286234%3Az%3A180%3Ai%3A20201121232257%3Aet%3A1605990178%3Ac%3A1%3Arn%3A964440402%3Au%3A160599017813148848%3Aw%3A1349x657%3As%3A1366x768x24%3Ask%3A1%3Acpf%3A1%3Antf%3A1%3Ans%3A1605990165838%3Arqnl%3A1%3Ati%3A1%3Ast%3A1605990178%3At%3A%D0%A2%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C%20%D0%94%D0%B0%D0%BB%D1%8F%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_40.xml
+RequestHeaderFile=t40_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t40_ResponseHeader.txt
+FileName2=t40_bundle.html
+URL2=https://yastatic.net/q/set/s/rsya-tag-users/bundle.js
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,12 @@
+GET /redirect/standard?url=https://an.yandex.ru/mapuid/dmpweborama/{WEBO_CID} HTTP/1.1
+Host: redirect.frontend.weborama.fr
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://yastatic.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9
+

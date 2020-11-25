@@ -1,0 +1,253 @@
+Warning: Failed to post to 'http://127.0.0.1:8182/shunra/api/emulation/packetCaptureOnly', retcode=7.
+Warning: Failed to start NV emulation. Perhaps the NV server is not working, and therefore a NV report will not be generated.
+Virtual User Script started at: 25.11.2020 22:50:35
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.55.0 for Windows 8.1; build 911 (июл 24 2017 19:46:00)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36  	[MsgId: MMSG-26988]
+Run-Time Settings file: "D:\Projects\LoadRanner\slovardalja2\\default.cfg"  	[MsgId: MMSG-27141]
+Warning: Failed to get NV emulation handle.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Warning: Failed to get NV emulation handle.
+Action.c(6): Notify: Saving Parameter "UC = UC01".
+Action.c(7): Notify: Parameter Substitution: parameter "UC" =  "UC01"
+Action.c(7): Notify: Transaction "UC01_01_Загрузка словаря" started.
+Action.c(7): Warning: Failed to get NV emulation handle.
+Action.c(9): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(9): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(20): web_url("slovardalja.net") started  	[MsgId: MMSG-26355]
+Action.c(20): Notify: Saving Parameter "LetterUrl_1 = .php?charkod=192".
+Action.c(20): Notify: Saving Parameter "LetterUrl_2 = .php?charkod=193".
+Action.c(20): Notify: Saving Parameter "LetterUrl_3 = .php?charkod=194".
+Action.c(20): Notify: Saving Parameter "LetterUrl_4 = .php?charkod=195".
+Action.c(20): Notify: Saving Parameter "LetterUrl_5 = .php?charkod=196".
+Action.c(20): Notify: Saving Parameter "LetterUrl_6 = .php?charkod=197".
+Action.c(20): Notify: Saving Parameter "LetterUrl_7 = .php?charkod=198".
+Action.c(20): Notify: Saving Parameter "LetterUrl_8 = .php?charkod=199".
+Action.c(20): Notify: Saving Parameter "LetterUrl_9 = .php?charkod=200".
+Action.c(20): Notify: Saving Parameter "LetterUrl_10 = .php?charkod=201".
+Action.c(20): Notify: Saving Parameter "LetterUrl_11 = .php?charkod=202".
+Action.c(20): Notify: Saving Parameter "LetterUrl_12 = .php?charkod=203".
+Action.c(20): Notify: Saving Parameter "LetterUrl_13 = .php?charkod=204".
+Action.c(20): Notify: Saving Parameter "LetterUrl_14 = .php?charkod=205".
+Action.c(20): Notify: Saving Parameter "LetterUrl_15 = .php?charkod=206".
+Action.c(20): Notify: Saving Parameter "LetterUrl_16 = .php?charkod=207".
+Action.c(20): Notify: Saving Parameter "LetterUrl_17 = .php?charkod=208".
+Action.c(20): Notify: Saving Parameter "LetterUrl_18 = .php?charkod=209".
+Action.c(20): Notify: Saving Parameter "LetterUrl_19 = .php?charkod=210".
+Action.c(20): Notify: Saving Parameter "LetterUrl_20 = .php?charkod=211".
+Action.c(20): Notify: Saving Parameter "LetterUrl_21 = .php?charkod=212".
+Action.c(20): Notify: Saving Parameter "LetterUrl_22 = .php?charkod=213".
+Action.c(20): Notify: Saving Parameter "LetterUrl_23 = .php?charkod=214".
+Action.c(20): Notify: Saving Parameter "LetterUrl_24 = .php?charkod=215".
+Action.c(20): Notify: Saving Parameter "LetterUrl_25 = .php?charkod=216".
+Action.c(20): Notify: Saving Parameter "LetterUrl_26 = .php?charkod=217".
+Action.c(20): Notify: Saving Parameter "LetterUrl_27 = .php?charkod=218".
+Action.c(20): Notify: Saving Parameter "LetterUrl_28 = .php?charkod=219".
+Action.c(20): Notify: Saving Parameter "LetterUrl_29 = .php?charkod=220".
+Action.c(20): Notify: Saving Parameter "LetterUrl_30 = .php?charkod=221".
+Action.c(20): Notify: Saving Parameter "LetterUrl_31 = .php?charkod=222".
+Action.c(20): Notify: Saving Parameter "LetterUrl_32 = .php?charkod=223".
+Action.c(20): Found resource "http://slovardalja.net/style.css" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "http://newrrb.bid/1akds.min.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "http://counter.rambler.ru/top100.cnt?1439171" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "http://slovardalja.net/img/Header.jpg" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "http://slovardalja.net/img/endpic.jpg" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "http://cdn-rtb.sape.ru/teasers/js/471/2/53471.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "http://www.google-analytics.com/urchin.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(20): Redirecting "http://counter.rambler.ru/top100.cnt?1439171" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(20): To location "https://counter.rambler.ru/top100.cnt?1439171"  	[MsgId: MMSG-26693]
+Action.c(20): Notify: Saving Parameter "LetterUrl_count = 32".
+Action.c(20): web_url("slovardalja.net") was successful, 105357 body bytes, 4372 header bytes, 26 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(123): Notify: Parameter Substitution: parameter "LetterUrl_count" =  "32"
+Action.c(123): Notify: Parameter Substitution: parameter "LetterUrl_30" =  ".php?charkod=221"
+Action.c(123): Notify: Saving Parameter "LetterUrlRandom = .php?charkod=221".
+Action.c(125): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(125): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(137): Notify: Parameter Substitution: parameter "UC" =  "UC01"
+Action.c(137): Notify: Transaction "UC01_01_Загрузка словаря" ended with a "Pass" status (Duration: 1.4673 Wasted Time: 1.1782).
+Action.c(141): Notify: Parameter Substitution: parameter "UC" =  "UC01"
+Action.c(141): Notify: Transaction "UC01_02_Нажимаю букву" started.
+Action.c(141): Warning: Failed to get NV emulation handle.
+Action.c(146): web_url("letter.php") started  	[MsgId: MMSG-26355]
+Action.c(146): Notify: Parameter Substitution: parameter "LetterUrlRandom" =  ".php?charkod=221"
+Action.c(146): Notify: Saving Parameter "WordUrl_1 = .php?wordid=44013".
+Action.c(146): Notify: Saving Parameter "WordUrl_2 = .php?wordid=44014".
+Action.c(146): Notify: Saving Parameter "WordUrl_3 = .php?wordid=44015".
+Action.c(146): Notify: Saving Parameter "WordUrl_4 = .php?wordid=44016".
+Action.c(146): Notify: Saving Parameter "WordUrl_5 = .php?wordid=44017".
+Action.c(146): Notify: Saving Parameter "WordUrl_6 = .php?wordid=44018".
+Action.c(146): Notify: Saving Parameter "WordUrl_7 = .php?wordid=44019".
+Action.c(146): Notify: Saving Parameter "WordUrl_8 = .php?wordid=44020".
+Action.c(146): Notify: Saving Parameter "WordUrl_9 = .php?wordid=44021".
+Action.c(146): Notify: Saving Parameter "WordUrl_10 = .php?wordid=44022".
+Action.c(146): Notify: Saving Parameter "WordUrl_11 = .php?wordid=44023".
+Action.c(146): Notify: Saving Parameter "WordUrl_12 = .php?wordid=44024".
+Action.c(146): Notify: Saving Parameter "WordUrl_13 = .php?wordid=44025".
+Action.c(146): Notify: Saving Parameter "WordUrl_14 = .php?wordid=44026".
+Action.c(146): Notify: Saving Parameter "WordUrl_15 = .php?wordid=44027".
+Action.c(146): Notify: Saving Parameter "WordUrl_16 = .php?wordid=44028".
+Action.c(146): Notify: Saving Parameter "WordUrl_17 = .php?wordid=44029".
+Action.c(146): Notify: Saving Parameter "WordUrl_18 = .php?wordid=44030".
+Action.c(146): Notify: Saving Parameter "WordUrl_19 = .php?wordid=44031".
+Action.c(146): Notify: Saving Parameter "WordUrl_20 = .php?wordid=44032".
+Action.c(146): Notify: Saving Parameter "WordUrl_21 = .php?wordid=44033".
+Action.c(146): Notify: Saving Parameter "WordUrl_22 = .php?wordid=44034".
+Action.c(146): Notify: Saving Parameter "WordUrl_23 = .php?wordid=44035".
+Action.c(146): Notify: Saving Parameter "WordUrl_24 = .php?wordid=44036".
+Action.c(146): Notify: Saving Parameter "WordUrl_25 = .php?wordid=44037".
+Action.c(146): Notify: Saving Parameter "WordUrl_26 = .php?wordid=44038".
+Action.c(146): Notify: Saving Parameter "WordUrl_27 = .php?wordid=44039".
+Action.c(146): Notify: Saving Parameter "WordUrl_28 = .php?wordid=44040".
+Action.c(146): Notify: Saving Parameter "WordUrl_29 = .php?wordid=44041".
+Action.c(146): Notify: Saving Parameter "WordUrl_30 = .php?wordid=44042".
+Action.c(146): Notify: Saving Parameter "WordUrl_31 = .php?wordid=44043".
+Action.c(146): Notify: Saving Parameter "WordUrl_32 = .php?wordid=44044".
+Action.c(146): Notify: Saving Parameter "WordUrl_33 = .php?wordid=44045".
+Action.c(146): Notify: Saving Parameter "WordUrl_34 = .php?wordid=44046".
+Action.c(146): Notify: Saving Parameter "WordUrl_35 = .php?wordid=44047".
+Action.c(146): Notify: Saving Parameter "WordUrl_36 = .php?wordid=44048".
+Action.c(146): Notify: Saving Parameter "WordUrl_37 = .php?wordid=44049".
+Action.c(146): Notify: Saving Parameter "WordUrl_38 = .php?wordid=44050".
+Action.c(146): Notify: Saving Parameter "WordUrl_39 = .php?wordid=44051".
+Action.c(146): Notify: Saving Parameter "WordUrl_40 = .php?wordid=44052".
+Action.c(146): Notify: Saving Parameter "WordUrl_41 = .php?wordid=44053".
+Action.c(146): Notify: Saving Parameter "WordUrl_42 = .php?wordid=44054".
+Action.c(146): Notify: Saving Parameter "WordUrl_43 = .php?wordid=44055".
+Action.c(146): Notify: Saving Parameter "WordUrl_44 = .php?wordid=44056".
+Action.c(146): Notify: Saving Parameter "WordUrl_45 = .php?wordid=44057".
+Action.c(146): Notify: Saving Parameter "WordUrl_46 = .php?wordid=44058".
+Action.c(146): Notify: Saving Parameter "WordUrl_47 = .php?wordid=44059".
+Action.c(146): Notify: Saving Parameter "WordUrl_48 = .php?wordid=44060".
+Action.c(146): Notify: Saving Parameter "WordUrl_49 = .php?wordid=44061".
+Action.c(146): Notify: Saving Parameter "WordUrl_50 = .php?wordid=44062".
+Action.c(146): Notify: Saving Parameter "WordUrl_51 = .php?wordid=44063".
+Action.c(146): Notify: Saving Parameter "WordUrl_52 = .php?wordid=44064".
+Action.c(146): Notify: Saving Parameter "WordUrl_53 = .php?wordid=44065".
+Action.c(146): Notify: Saving Parameter "WordUrl_54 = .php?wordid=44066".
+Action.c(146): Notify: Saving Parameter "WordUrl_55 = .php?wordid=44067".
+Action.c(146): Notify: Saving Parameter "WordUrl_56 = .php?wordid=44068".
+Action.c(146): Notify: Saving Parameter "WordUrl_57 = .php?wordid=44069".
+Action.c(146): Notify: Saving Parameter "WordUrl_58 = .php?wordid=44070".
+Action.c(146): Notify: Saving Parameter "WordUrl_59 = .php?wordid=44071".
+Action.c(146): Notify: Saving Parameter "WordUrl_60 = .php?wordid=44072".
+Action.c(146): Notify: Saving Parameter "WordUrl_61 = .php?wordid=44073".
+Action.c(146): Notify: Saving Parameter "WordUrl_62 = .php?wordid=44074".
+Action.c(146): Notify: Saving Parameter "WordUrl_63 = .php?wordid=44075".
+Action.c(146): Notify: Saving Parameter "WordUrl_64 = .php?wordid=44076".
+Action.c(146): Notify: Saving Parameter "WordUrl_65 = .php?wordid=44077".
+Action.c(146): Resource "http://slovardalja.net/style.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(146): Resource "http://newrrb.bid/1akds.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(146): Found resource "http://counter.rambler.ru/top100.cnt?1439171" in HTML "http://slovardalja.net/letter.php?charkod=221"  	[MsgId: MMSG-26659]
+Action.c(146): Resource "http://slovardalja.net/img/Header.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(146): Resource "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(146): Notify: Saving Parameter "WordUrl_66 = .php?wordid=44078".
+Action.c(146): Notify: Saving Parameter "WordUrl_67 = .php?wordid=44079".
+Action.c(146): Notify: Saving Parameter "WordUrl_68 = .php?wordid=44080".
+Action.c(146): Notify: Saving Parameter "WordUrl_69 = .php?wordid=44081".
+Action.c(146): Notify: Saving Parameter "WordUrl_70 = .php?wordid=44082".
+Action.c(146): Notify: Saving Parameter "WordUrl_71 = .php?wordid=44083".
+Action.c(146): Notify: Saving Parameter "WordUrl_72 = .php?wordid=44084".
+Action.c(146): Notify: Saving Parameter "WordUrl_73 = .php?wordid=44085".
+Action.c(146): Notify: Saving Parameter "WordUrl_74 = .php?wordid=44086".
+Action.c(146): Notify: Saving Parameter "WordUrl_75 = .php?wordid=44087".
+Action.c(146): Notify: Saving Parameter "WordUrl_76 = .php?wordid=44088".
+Action.c(146): Notify: Saving Parameter "WordUrl_77 = .php?wordid=44089".
+Action.c(146): Notify: Saving Parameter "WordUrl_78 = .php?wordid=44090".
+Action.c(146): Notify: Saving Parameter "WordUrl_79 = .php?wordid=44091".
+Action.c(146): Notify: Saving Parameter "WordUrl_80 = .php?wordid=44092".
+Action.c(146): Notify: Saving Parameter "WordUrl_81 = .php?wordid=44093".
+Action.c(146): Notify: Saving Parameter "WordUrl_82 = .php?wordid=44094".
+Action.c(146): Notify: Saving Parameter "WordUrl_83 = .php?wordid=44095".
+Action.c(146): Notify: Saving Parameter "WordUrl_84 = .php?wordid=44096".
+Action.c(146): Notify: Saving Parameter "WordUrl_85 = .php?wordid=44097".
+Action.c(146): Notify: Saving Parameter "WordUrl_86 = .php?wordid=44098".
+Action.c(146): Notify: Saving Parameter "WordUrl_87 = .php?wordid=44099".
+Action.c(146): Notify: Saving Parameter "WordUrl_88 = .php?wordid=44100".
+Action.c(146): Notify: Saving Parameter "WordUrl_89 = .php?wordid=44101".
+Action.c(146): Notify: Saving Parameter "WordUrl_90 = .php?wordid=44102".
+Action.c(146): Notify: Saving Parameter "WordUrl_91 = .php?wordid=44103".
+Action.c(146): Notify: Saving Parameter "WordUrl_92 = .php?wordid=44104".
+Action.c(146): Notify: Saving Parameter "WordUrl_93 = .php?wordid=44105".
+Action.c(146): Notify: Saving Parameter "WordUrl_94 = .php?wordid=44106".
+Action.c(146): Notify: Saving Parameter "WordUrl_95 = .php?wordid=44107".
+Action.c(146): Notify: Saving Parameter "WordUrl_96 = .php?wordid=44108".
+Action.c(146): Notify: Saving Parameter "WordUrl_97 = .php?wordid=44109".
+Action.c(146): Notify: Saving Parameter "WordUrl_98 = .php?wordid=44110".
+Action.c(146): Notify: Saving Parameter "WordUrl_99 = .php?wordid=44111".
+Action.c(146): Notify: Saving Parameter "WordUrl_100 = .php?wordid=44112".
+Action.c(146): Notify: Saving Parameter "WordUrl_101 = .php?wordid=44113".
+Action.c(146): Notify: Saving Parameter "WordUrl_102 = .php?wordid=44114".
+Action.c(146): Notify: Saving Parameter "WordUrl_103 = .php?wordid=44115".
+Action.c(146): Notify: Saving Parameter "WordUrl_104 = .php?wordid=44116".
+Action.c(146): Notify: Saving Parameter "WordUrl_105 = .php?wordid=44117".
+Action.c(146): Notify: Saving Parameter "WordUrl_106 = .php?wordid=44118".
+Action.c(146): Notify: Saving Parameter "WordUrl_107 = .php?wordid=44119".
+Action.c(146): Notify: Saving Parameter "WordUrl_108 = .php?wordid=44120".
+Action.c(146): Notify: Saving Parameter "WordUrl_109 = .php?wordid=44121".
+Action.c(146): Notify: Saving Parameter "WordUrl_110 = .php?wordid=44122".
+Action.c(146): Notify: Saving Parameter "WordUrl_111 = .php?wordid=44123".
+Action.c(146): Notify: Saving Parameter "WordUrl_112 = .php?wordid=44124".
+Action.c(146): Notify: Saving Parameter "WordUrl_113 = .php?wordid=44125".
+Action.c(146): Notify: Saving Parameter "WordUrl_114 = .php?wordid=44126".
+Action.c(146): Notify: Saving Parameter "WordUrl_115 = .php?wordid=44127".
+Action.c(146): Notify: Saving Parameter "WordUrl_116 = .php?wordid=44128".
+Action.c(146): Notify: Saving Parameter "WordUrl_117 = .php?wordid=44129".
+Action.c(146): Resource "http://slovardalja.net/img/endpic.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(146): Resource "http://cdn-rtb.sape.ru/teasers/js/471/2/53471.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(146): Resource "http://www.google-analytics.com/urchin.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(146): Redirecting "http://counter.rambler.ru/top100.cnt?1439171" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(146): To location "https://counter.rambler.ru/top100.cnt?1439171"  	[MsgId: MMSG-26693]
+Action.c(146): Notify: Saving Parameter "WordUrl_count = 117".
+Action.c(146): web_url("letter.php") was successful, 3470 body bytes, 1016 header bytes  	[MsgId: MMSG-26386]
+Action.c(166): Notify: Parameter Substitution: parameter "WordUrl_count" =  "117"
+Action.c(170): IndexEven = 85
+Action.c(186): IndexEven4 = 86
+Action.c(191): Notify: Parameter Substitution: parameter "WordUrl_86" =  ".php?wordid=44098"
+Action.c(191): Notify: Saving Parameter "WordUrlRandomIndexEven = .php?wordid=44098".
+Action.c(194): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(194): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(205): Notify: Parameter Substitution: parameter "UC" =  "UC01"
+Action.c(205): Notify: Transaction "UC01_02_Нажимаю букву" ended with a "Pass" status (Duration: 0.2028 Wasted Time: 0.0107).
+Action.c(209): Notify: Parameter Substitution: parameter "UC" =  "UC01"
+Action.c(209): Notify: Transaction "UC01_03_Нажимаю слово" started.
+Action.c(209): Warning: Failed to get NV emulation handle.
+Action.c(214): web_url("word.php") started  	[MsgId: MMSG-26355]
+Action.c(214): Notify: Parameter Substitution: parameter "WordUrlRandomIndexEven" =  ".php?wordid=44098"
+Action.c(214): Notify: Saving Parameter "Text = \n\n            \n\n            <p><strong>ЭРАТИЧЕСКИЕ  </strong></p><p>ЭРАТИЧЕСКИЕ  валуны, пере(при)носные, перекатные, заносные.\r\n</p>\n            \n\n            ".
+Action.c(214): Resource "http://slovardalja.net/style.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(214): Resource "http://newrrb.bid/1akds.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(214): Found resource "http://counter.rambler.ru/top100.cnt?1439171" in HTML "http://slovardalja.net/word.php?wordid=44098"  	[MsgId: MMSG-26659]
+Action.c(214): Resource "http://slovardalja.net/img/Header.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(214): Resource "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(214): Resource "http://slovardalja.net/img/endpic.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(214): Resource "http://cdn-rtb.sape.ru/teasers/js/471/2/53471.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(214): Resource "http://www.google-analytics.com/urchin.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(214): Redirecting "http://counter.rambler.ru/top100.cnt?1439171" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(214): To location "https://counter.rambler.ru/top100.cnt?1439171"  	[MsgId: MMSG-26693]
+Action.c(214): web_url("word.php") was successful, 2389 body bytes, 1016 header bytes  	[MsgId: MMSG-26386]
+Action.c(236): Notify: Parameter Substitution: parameter "Text" =  "\n\n            \n\n            <p><strong>ЭРАТИЧЕСКИЕ  </strong></p><p>ЭРАТИЧЕСКИЕ  валуны, пере(при)носные, перекатные, заносные.\r\n</p>\n            \n\n            "
+Action.c(236): 
+
+            
+
+            <p><strong>ЭРАТИЧЕСКИЕ  </strong></p><p>ЭРАТИЧЕСКИЕ  валуны, пере(при)носные, перекатные, заносные.
+</p>
+            
+
+            
+Action.c(238): Notify: Parameter Substitution: parameter "UC" =  "UC01"
+Action.c(238): Notify: Transaction "UC01_03_Нажимаю слово" ended with a "Pass" status (Duration: 0.1752 Wasted Time: 0.0060).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Warning: Failed to get NV emulation handle.
+Ending action vuser_end.
+Vuser Terminated.
+Vuser 0 (thread 5768), ended OK."

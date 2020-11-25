@@ -1,0 +1,10 @@
+GET /1akds.json?stat=%5B%7B%22t%22%3A%22loaded%22%2C%22ts%22%3A35860%7D%2C%7B%22t%22%3A%22fetch%22%2C%22bId%22%3A9050%2C%22ts%22%3A35862%7D%2C%7B%22t%22%3A%22injected%22%2C%22bId%22%3A9050%2C%22aId%22%3A30300%2C%22ts%22%3A35995%7D%5D&url=http%3A%2F%2Fslovardalja.net%2Fword.php%3Fwordid%3D142&v=2.2.1-1c8fa83&r=71w6jyy1yd&referrer=http%3A%2F%2Fslovardalja.net%2Fletter.php%3Fcharkod%3D192 HTTP/1.1
+Host: newrrb.bid
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+Accept: */*
+Origin: http://slovardalja.net
+Referer: http://slovardalja.net/
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9
+

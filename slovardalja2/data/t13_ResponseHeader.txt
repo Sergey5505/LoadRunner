@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+P3P: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"
+Timing-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=UTF-8
+X-Content-Type-Options: nosniff
+Content-Disposition: attachment; filename="f.txt"
+Content-Encoding: gzip
+Date: Sat, 21 Nov 2020 20:22:18 GMT
+Server: cafe
+Cache-Control: private
+X-XSS-Protection: 0
+Transfer-Encoding: chunked
+

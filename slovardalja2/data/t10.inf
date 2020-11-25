@@ -1,0 +1,11 @@
+[t10]
+FileName1=t10.htm
+URL1=https://googleads.g.doubleclick.net/pagead/html/r20201112/r20190131/zrt_lookup.html?fsb=1
+Total=1
+RequestHeaderFile=t10_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t10_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_10.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: http://slovardalja.net
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Content-Length: 35
+Content-Type: application/json; charset=utf-8
+Date: Sat, 21 Nov 2020 20:22:56 GMT
+Expires: Sat, 21-Nov-2020 20:22:56 GMT
+Last-Modified: Sat, 21-Nov-2020 20:22:56 GMT
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+

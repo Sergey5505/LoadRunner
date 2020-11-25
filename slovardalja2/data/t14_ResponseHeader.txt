@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Type: text/html
+Cross-Origin-Resource-Policy: cross-origin
+Content-Length: 12579
+Date: Fri, 20 Nov 2020 10:03:43 GMT
+Expires: Sat, 20 Nov 2021 10:03:43 GMT
+Last-Modified: Mon, 05 Oct 2020 22:33:01 GMT
+X-Content-Type-Options: nosniff
+Server: sffe
+X-XSS-Protection: 0
+Cache-Control: public, max-age=31536000
+Age: 123515
+

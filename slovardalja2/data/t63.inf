@@ -1,0 +1,11 @@
+[t63]
+FileName1=t63_1.html
+URL1=https://mc.yandex.ru/watch/3/1?wmode=7&page-url=https%3A%2F%2Fyastatic.net%2Fsafeframe-bundles%2F0.69%2F1-1-0%2Frender.html&page-ref=http%3A%2F%2Fslovardalja.net%2F&charset=utf-8&browser-info=pv%3A1%3Agdpr%3A%3Avf%3A1oc1oo18i9y4fw%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A282%3Acn%3A1%3Adp%3A0%3Als%3A0%3Ahid%3A971694550%3Az%3A180%3Ai%3A20201121232401%3Aet%3A1605990242%3Arn%3A316922228%3Au%3A1605990242312891124%3Aw%3A1x1%3As%3A1366x768x24%3Ask%3A1%3Aifr%3A1%3Acpf%3A1%3Antf%3A1%3Ans%3A1605990239768%3Ads%3A7%2C139%2C79%2C5%2C3%2C0%2C%2C176%2C0%2C417%2C417%2C1%2C417%3Adsn%3A7%2C139%2C78%2C5%2C3%2C0%2C%2C182%2C0%2C417%2C417%2C0%2C416%3Ati%3A1%3Ast%3A1605990242
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_63.xml
+RequestHeaderFile=t63_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t63_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

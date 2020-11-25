@@ -1,0 +1,12 @@
+GET /pagead/adview?ai=CYUtNFXe5X-uSCtCKiQabnJGYD_6a7Z5g6f2BmLYMv-EeEAEgy6CuD2CEneyF2B2gAfi-hfgDyAECqQIRBhYWxixMPqgDAcgDyQSqBMEBT9BRGF6Up3Grf-9fRQGElXYebx-lZ_ZTA5x7G8dlpivK04Ef-ZR9Yd7M3P0lGNthzA0fcVy65-hqek5HmgXC6TwC7GN7irn1A4RrZbkZW8HOxLkzoK6pwbkN_y_5gtByzUXDJ_bnsuR29-aWOidQ8t3kKsJiv51Mogt48zUfcKnjF-OVh8LLKcFVXlvbW9z9LZgenzVSriOxQZ0-aSXIfpu8xn6leZnZQlH8wPTPJHpzue5lEhd6ElYfEhCRuZYpN8AE_qOxsKkDoAYCgAfwwPoHqAfVyRuoB_DZG6gH8tkbqAeOzhuoB5PYG6gHugaoB-6WsQKoB6a-G6gH7NUb2AcB8gcEEPfpB9IICQiA4YBAEAEYH4AKAcgLAdgTA5gWAbIXGgoYCAESFHB1Yi0zMzAzOTkwNTk0MjQyNTI2&sigh=Fk6zjrUgR9k&tpd=AGWhJmveOlOrRJrGLJCIHBRhvaMKldho1_wXC1ZeOfKYFVp0vg HTTP/1.1
+Host: googleads.g.doubleclick.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://googleads.g.doubleclick.net/pagead/ads?guci=2.2.0.0.2.2.0.0&client=ca-pub-3303990594242526&output=html&h=600&slotname=9609848646&adk=4291559146&adf=1803467449&pi=t.ma~as.9609848646&w=160&lmt=1605990166&psa=1&format=160x600&url=http%3A%2F%2Fslovardalja.net%2Fletter.php%3Fcharkod%3D192&flash=0&wgl=1&tt_state=W3siaXNzdWVyT3JpZ2luIjoiaHR0cHM6Ly9hZHNlcnZpY2UuZ29vZ2xlLmNvbSIsInN0YXRlIjowfSx7Imlzc3Vlck9yaWdpbiI6Imh0dHBzOi8vYXR0ZXN0YXRpb24uYW5kcm9pZC5jb20iLCJzdGF0ZSI6MH1d&dt=1605990166140&bpp=7&bdt=276&idt=21&shv=r20201112&cbv=r20190131&ptt=9&saldr=aa&abxe=1&cookie=ID%3Df07a3990bea2d7d4-228f100942b90053%3AT%3D1605990132%3ART%3D1605990132%3AS%3DALNI_MYNFE5uIHQws1jgzLNrP1BZ9XsEiQ&correlator=6247404022667&frm=20&pv=2&ga_vid=517803521.1605990105&ga_sid=1605990105&ga_hid=1557384484&ga_fc=1&iag=0&icsg=8864&dssz=12&mdo=0&mso=0&u_tz=180&u_his=2&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&adx=180&ady=173&biw=1349&bih=657&scr_x=0&scr_y=0&eid=42530672%2C21067981%2C21065787&oid=3&pvsid=1156996449358415&pem=120&ref=http%3A%2F%2Fslovardalja.net%2F&rx=0&eae=0&fc=896&brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C728%2C1366%2C657&vis=1&rsz=d%7C%7CEe%7Cn&abl=XS&pfx=0&fu=8192&bc=23&ifi=1&uci=a!1&fsb=1&xpc=DbI0N9anXY&p=http%3A//slovardalja.net&dtd=124
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9
+

@@ -1,0 +1,13 @@
+[t52]
+FileName1=t52_si.htm
+URL1=https://googleads.g.doubleclick.net/pagead/drt/si
+Total=2
+ContentType=text/html
+SnapshotXmlFile=snapshot_52.xml
+RequestHeaderFile=t52_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t52_ResponseHeader.txt
+FileName2=t52_y300.html
+URL2=http://avatars.mds.yandex.net/get-direct/2699969/Dxofpm3-UOoMcYch4_1VMA/y300
+[ProtocolInfo]
+ProtocolId=QTWeb

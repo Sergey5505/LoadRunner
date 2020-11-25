@@ -1,0 +1,13 @@
+[t16]
+FileName1=t16.html
+URL1=https://update.googleapis.com/service/update2/json?cup2key=10:3709864592&cup2hreq=6ccf8289185fa8b6ecb05ff5da6dd26f1982bf7e8f0a8d1afeb95c8a56ef9029
+Total=2
+RequestHeaderFile=t16_RequestHeader.txt
+RequestBodyFile=t16_RequestBody.txt
+ResponseHeaderFile=t16_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_16.xml
+FileName2=t16_2829526185666035697.png
+URL2=https://tpc.googlesyndication.com/simgad/2829526185666035697?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qnc81-HjQQ790Qeb8wgTPW9ERwQPA
+[ProtocolInfo]
+ProtocolId=QTWeb

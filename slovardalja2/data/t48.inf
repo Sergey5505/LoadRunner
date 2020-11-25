@@ -1,0 +1,11 @@
+[t48]
+FileName1=t48_1akds.html
+URL1=http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22fetch%22%2C%22bId%22%3A149099%2C%22ts%22%3A36545%7D%5D&url=http%3A%2F%2Fslovardalja.net%2Fword.php%3Fwordid%3D142&v=2.2.1-1c8fa83&r=71w6jyy1yd&referrer=http%3A%2F%2Fslovardalja.net%2Fletter.php%3Fcharkod%3D192
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_48.xml
+RequestHeaderFile=t48_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t48_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

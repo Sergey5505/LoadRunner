@@ -1,0 +1,17 @@
+[
+    {
+        "transactionName": "UC01_01_Загрузка словаря",
+        "rawStartTime": 1606333835323,
+        "rawEndTime": 1606333836790
+    },
+    {
+        "transactionName": "UC01_02_Нажимаю букву",
+        "rawStartTime": 1606333836800,
+        "rawEndTime": 1606333837003
+    },
+    {
+        "transactionName": "UC01_03_Нажимаю слово",
+        "rawStartTime": 1606333837013,
+        "rawEndTime": 1606333837189
+    }
+]

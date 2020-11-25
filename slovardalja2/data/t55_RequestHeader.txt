@@ -1,0 +1,15 @@
+GET /safeframe-bundles/0.69/1-1-0/render.html HTTP/1.1
+Host: yastatic.net
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: http://slovardalja.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9
+If-None-Match: "f883bd7781c332870c9968db60e89349"
+If-Modified-Since: Tue, 20 Aug 2019 11:55:41 GMT
+

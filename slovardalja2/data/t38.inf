@@ -1,0 +1,15 @@
+[t38]
+FileName1=t38_224874.html
+URL1=https://an.yandex.ru/meta/224874?redir-setuniq=1&grab=dNCi0L7Qu9C60L7QstGL0Lkg0YHQu9C-0LLQsNGA0Ywg0JTQsNC70Y8g0L7QvdC70LDQudC9CjHQotC-0LvQutC-0LLRi9C5INGB0LvQvtCy0LDRgNGMINCU0LDQu9GPINC-0L3Qu9Cw0LnQvSAK&target-ref=http%3A%2F%2Fslovardalja.net%2Fletter.php%3Fcharkod%3D192&page-ref=http%3A%2F%2Fslovardalja.net%2F&charset=utf-8&imp-id=8&enable-flat-highlight=1&test-tag=437605627854850&ad-session-id=795391605990166940&target-id=63854599&tga-with-creatives=1&pcode-test-ids=289818%2C0%2C98%3B294348%2C0%2C46%3B296510%2C0%2C92%3B290040%2C0%2C51%3B299791%2C0%2C5&pcode-flags=%7B%22RMP_POSTER%22%3A%22exp%22%2C%22MARKET_RATING%22%3A%22ON_TOP%22%2C%22DEFAULT_SSR_FORMATS%22%3A%5B%22posterVertical%22%2C%22posterHorizontal%22%2C%22motion%22%2C%22zen%22%2C%22300x300%22%2C%22320x100%22%2C%22300x250%22%2C%22336x280%22%2C%22250x250%22%5D%2C%22DEFAULT_BLACKLIST_PAGES%22%3A%5B%5D%2C%22DEFAULT_BLACKLIST_DEVICES%22%3A%5B%5D%2C%22VIDEO_IN_TGO%22%3A%22enabled%22%2C%22PCODEVER%22%3A%2213084%22%7D&server-side-rendering-enabled-formats=posterVertical%0AposterHorizontal%0Amotion%0Azen%0A300x300%0A320x100%0A300x250%0A336x280%0A250x250&pcode-version=13084&flash-ver=0&pcode-icookie=1666097101605990165&available-width=704&layout-config=%7B%22win_width%22%3A1366%2C%22win_height%22%3A657%2C%22pixel_ratio%22%3A1%2C%22bandwidth%22%3A6.55%2C%22w%22%3A700%2C%22h%22%3A0%2C%22width%22%3A700%2C%22height%22%3A0%2C%22left%22%3A343%2C%22top%22%3A3671%2C%22visible%22%3A0%2C%22ad_no%22%3A4%2C%22req_no%22%3A1%7D&callback=Ya%5B8883158504736%5D
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_38.xml
+RequestHeaderFile=t38_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t38_ResponseHeader.txt
+FileName2=t38.gif
+URL2=https://www.acint.net/ping/?v=0.2.1&uid=5d456029-b6a6-4dc7-8392-086d6d19f908&dp=14&tz=%2B03%3A00&nc=86360443&dT=2020-11-21T23%3A22%3A50.653
+FileName3=t38_d807f81e03f94b7ee2e7.html
+URL3=https://an.yandex.ru/partner-code-bundles/13084/d807f81e03f94b7ee2e7.js
+[ProtocolInfo]
+ProtocolId=QTWeb

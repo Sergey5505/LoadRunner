@@ -1,0 +1,4 @@
+"{\"blocksId\":[\"9050\"],\"isAdBlock\":false,\"url\":\"http://slovardalja.net/word.php?wordid="
+"142\",\"v\":\"2.2.1-~~SHA~VERSION~STRING~~\",\"r\":\"71w6jyy1yd\",\"city\":null,\"region\":nul"
+"l,\"countryCode\":null,\"width\":1366,\"skip\":[],\"referrer\":\"http://slovardalja.net/letter"
+".php?charkod=192\",\"sessionReferrer\":\"http://no.domain/\"}"

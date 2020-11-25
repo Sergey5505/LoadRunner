@@ -1,0 +1,13 @@
+[t53]
+FileName1=t53_1akds.html
+URL1=http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22thick%22%2C%22bId%22%3A9050%2C%22aId%22%3A30300%2C%22ts%22%3A39116%7D%5D&url=http%3A%2F%2Fslovardalja.net%2Fword.php%3Fwordid%3D142&v=2.2.1-1c8fa83&r=71w6jyy1yd&referrer=http%3A%2F%2Fslovardalja.net%2Fletter.php%3Fcharkod%3D192
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_53.xml
+RequestHeaderFile=t53_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t53_ResponseHeader.txt
+FileName2=t53_y300.html
+URL2=http://avatars.mds.yandex.net/get-direct/2766645/H7Igl9xiq31CfPTldnn6yA/y300
+[ProtocolInfo]
+ProtocolId=QTWeb

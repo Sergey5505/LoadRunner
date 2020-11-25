@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx/1.16.1
+Date: Sat, 21 Nov 2020 20:24:00 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=15768000
+mode: no-cors
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Headers: Access-Control-Allow-Headers, Origin,Accept, x-compress, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers
+Cache-Control: no-cache
+

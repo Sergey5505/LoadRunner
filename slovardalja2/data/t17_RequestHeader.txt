@@ -1,0 +1,12 @@
+GET /pagead/adview?ai=CWa0z9Ha5X6y_DOWDmAfHyLnACrjMo5hgypr8wMgMoKHUjsIZEAEgy6CuD2CEneyF2B2gAf_bisgDyAECqAMByAPJBKoErQFP0CWFRRZ8CeAyiBjcgNu0Drbn1y0VGhwdr9zdtSIC5IouKOeI6PbVWWtF9h6UU_0pVSWaBqEPX291EhZTTLnGTmjbNBRcu7FLQg2T4pZsl1iLCeqG0QzxHjadyzxLC1kqQTjPL96C94-z9BdGGlFpqTv1ymYqfuyCgADX7esVpS535h5om0gVL8X5k1IYgbe2ls7uG4VpC8_prFJp0du01YJ0w5BeQWXSKUCRhsAE84H8zKADkgUECAQYAZIFBAgFGASSBQQIBRgYkgUFCAUYqAGgBgKAB97SgEGoB9XJG6gH8NkbqAfy2RuoB47OG6gHk9gbqAe6BqgH7paxAqgHpr4bqAfs1RvYBwHyBwQQw51t0ggHCIBhEAEYH4AKAcgLAdgTDLIXGgoYCAESFHB1Yi0zMzAzOTkwNTk0MjQyNTI2&sigh=HA7OarRNAh4&tpd=AGWhJmuK7PSowWSGyxqmgMa3xSAR3rxlR8iFOFYcAa8H6_KpOw&vis=1 HTTP/1.1
+Host: googleads.g.doubleclick.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://googleads.g.doubleclick.net/pagead/html/r20201112/r20190131/zrt_lookup.html?fsb=1
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9
+

@@ -1,0 +1,13 @@
+[t25]
+FileName1=t25.htm
+URL1=http://newrrb.bid/1akds.json
+Total=2
+RequestHeaderFile=t25_RequestHeader.txt
+RequestBodyFile=t25_RequestBody.txt
+ResponseHeaderFile=t25_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_25.xml
+FileName2=t25_context.html
+URL2=http://an.yandex.ru/system/context.js
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,17 @@
+[t22]
+FileName1=t22_1akds.html
+URL1=http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22loaded%22%2C%22ts%22%3A222%7D%2C%7B%22t%22%3A%22fetch%22%2C%22bId%22%3A9050%2C%22ts%22%3A232%7D%2C%7B%22t%22%3A%22fetch%22%2C%22bId%22%3A148752%2C%22ts%22%3A316%7D%2C%7B%22t%22%3A%22fetch%22%2C%22bId%22%3A149099%2C%22ts%22%3A316%7D%5D&url=http%3A%2F%2Fslovardalja.net%2Fletter.php%3Fcharkod%3D192&v=2.2.1-1c8fa83&r=mn2e8n4ut7&referrer=http%3A%2F%2Fslovardalja.net%2F
+Total=4
+ContentType=application/json
+SnapshotXmlFile=snapshot_22.xml
+RequestHeaderFile=t22_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t22_ResponseHeader.txt
+FileName2=t22_cookie.html
+URL2=https://partner.googleadservices.com/gampad/cookie.js?domain=slovardalja.net&callback=_gfp_s_&client=ca-pub-3303990594242526&cookie=ID%3Df07a3990bea2d7d4-228f100942b90053%3AT%3D1605990132%3ART%3D1605990132%3AS%3DALNI_MYNFE5uIHQws1jgzLNrP1BZ9XsEiQ
+FileName3=t22_integrator.html
+URL3=https://adservice.google.com/adsid/integrator.js?domain=slovardalja.net
+FileName4=t22_integrator.html
+URL4=https://adservice.google.ru/adsid/integrator.js?domain=slovardalja.net
+[ProtocolInfo]
+ProtocolId=QTWeb

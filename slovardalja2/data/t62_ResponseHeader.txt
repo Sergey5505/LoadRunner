@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://yastatic.net
+Cache-Control: public,max-age=300
+Content-Length: 402
+Content-Type: application/json; charset=utf-8
+Date: Sat, 21 Nov 2020 20:24:00 GMT
+NEL: {"report_to": "network-errors", "max_age": 86400, "success_fraction": 0.001, "failure_fraction": 0.1}
+Report-To: { "group": "network-errors", "max_age": 86400, "endpoints": [ { "url": "https://dr.yandex.net/nel"}]}
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-qloud-router: vla2-37e68a048a67.qloud-c.yandex.net
+set-cookie: is_gdpr=0; Path=/; Domain=.yandex.ru; Expires=Mon, 21 Nov 2022 20:24:00 GMT; SameSite=None; Secure
+set-cookie: is_gdpr_b=CMmFQhDvDQ==; Path=/; Domain=.yandex.ru; Expires=Mon, 21 Nov 2022 20:24:00 GMT; SameSite=None; Secure
+set-cookie: i=HHsRf/GP2I6pLr0W6EJaEV47VozjQO+uEY08awHA9jLnByC+lsZvlNz7rF9pH5AAlZ7hJRQ8+N29e4VS7FjrDsF9YWQ=; Expires=Mon, 21-Nov-2022 20:24:00 GMT; Domain=.yandex.ru; Path=/; Secure; HttpOnly; SameSite=None
+

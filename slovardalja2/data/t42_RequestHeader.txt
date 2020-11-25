@@ -1,0 +1,11 @@
+GET /word.php?wordid=142 HTTP/1.1
+Host: slovardalja.net
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://slovardalja.net/letter.php?charkod=192
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU,ru;q=0.9
+Cookie: __utma=196215790.517803521.1605990105.1605990105.1605990105.1; __utmc=196215790; __utmb=196215790; __utmz=196215790.1605990105.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __gads=ID=f07a3990bea2d7d4-228f100942b90053:T=1605990132:RT=1605990132:S=ALNI_MYNFE5uIHQws1jgzLNrP1BZ9XsEiQ; fid=cf8ea3d8-ae9c-40be-a114-23390c3fea15
+

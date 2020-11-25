@@ -1,0 +1,11 @@
+[t30]
+FileName1=t30_1akds.html
+URL1=http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22injected%22%2C%22bId%22%3A149099%2C%22aId%22%3A466414%2C%22ts%22%3A1465%7D%5D&url=http%3A%2F%2Fslovardalja.net%2Fletter.php%3Fcharkod%3D192&v=2.2.1-1c8fa83&r=mn2e8n4ut7&referrer=http%3A%2F%2Fslovardalja.net%2F
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_30.xml
+RequestHeaderFile=t30_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t30_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

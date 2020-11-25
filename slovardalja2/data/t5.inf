@@ -1,0 +1,15 @@
+[t5]
+FileName1=t5_1akds.html
+URL1=http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22loaded%22%2C%22ts%22%3A40898%7D%2C%7B%22t%22%3A%22fetch%22%2C%22bId%22%3A9050%2C%22ts%22%3A40900%7D%2C%7B%22t%22%3A%22fetch%22%2C%22bId%22%3A148752%2C%22ts%22%3A40901%7D%2C%7B%22t%22%3A%22fetch%22%2C%22bId%22%3A149099%2C%22ts%22%3A40901%7D%5D&url=http%3A%2F%2Fslovardalja.net%2F&v=2.2.1-1c8fa83&r=eu7rn24ea0&referrer=http%3A%2F%2Fno.domain%2F
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_5.xml
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t5_ResponseHeader.txt
+FileName2=t5_show_ads_impl_fy2019.html
+URL2=https://pagead2.googlesyndication.com/pagead/js/r20201112/r20190131/show_ads_impl_fy2019.js
+FileName3=t5_Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRIQCa5VX7OQwSSaEgUNZ2ez_g==.txt
+URL3=https://content-autofill.googleapis.com/v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRIQCa5VX7OQwSSaEgUNZ2ez_g==?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

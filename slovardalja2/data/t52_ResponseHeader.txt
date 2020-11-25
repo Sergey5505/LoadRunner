@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+P3P: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Sat, 21 Nov 2020 20:23:58 GMT
+Server: safe
+Content-Length: 0
+X-XSS-Protection: 0
+Set-Cookie: DSID=NO_DATA; expires=Sat, 21-Nov-2020 21:23:58 GMT; path=/; domain=.doubleclick.net; Secure; HttpOnly; SameSite=none
+Expires: Sat, 21 Nov 2020 20:23:58 GMT
+Cache-Control: private
+

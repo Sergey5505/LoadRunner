@@ -1,0 +1,12 @@
+GET /pagead/adview?ai=CJATh73a5X4OBIuqExdwPxNagqAvYr9uSYMCmiqLIDNrZHhABIMugrg9ghJ3shdgdoAHxg_2VA8gBAqgDAcgDyQSqBKQBT9DzYr1oe4t5Hgf8ElCCminH5Fz-Ow-kQl6jx_SZH2-Q0irsq7AhL9q8_w3vXv18bm8MV29EZG8B8bkhmaa41gZ2AiZAJy04QzsGuuUMnu9YeoPEvwlvS166lQ4MY3j4q2Li7YDEkHqLUx5Q88qPvu1TLunkyvX5Nmktp9Lov_QQNhPHc4oeP4JfP4_Q03_KtM_P3MtXcfckK9wf6fA5ksh5v0HABOzTqYqsA5IFBAgEGAGSBQQIBRgEkgUECAUYGJIFBQgFGKgBoAYCgAeEn95wqAfVyRuoB_DZG6gH8tkbqAeOzhuoB5PYG6gHugaoB-6WsQKoB6a-G6gH7NUb2AcB8gcEENj7AtIIBwiAYRABGB-ACgHICwHYEwKyFxoKGAgBEhRwdWItMzMwMzk5MDU5NDI0MjUyNg&sigh=d_PsVVI4yjM&tpd=AGWhJmtuobrMSSvV-v4xLDo2roY3aEC3uV-OEwyfe-25ogEC6Q HTTP/1.1
+Host: googleads.g.doubleclick.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://googleads.g.doubleclick.net/pagead/ads?guci=2.2.0.0.2.2.0.0&client=ca-pub-3303990594242526&output=html&h=600&slotname=9609848646&adk=4291559146&adf=1803467449&pi=t.ma~as.9609848646&w=160&lmt=1605990128&psa=0&format=160x600&url=http%3A%2F%2Fslovardalja.net%2F&flash=0&wgl=1&tt_state=W3siaXNzdWVyT3JpZ2luIjoiaHR0cHM6Ly9hZHNlcnZpY2UuZ29vZ2xlLmNvbSIsInN0YXRlIjowfSx7Imlzc3Vlck9yaWdpbiI6Imh0dHBzOi8vYXR0ZXN0YXRpb24uYW5kcm9pZC5jb20iLCJzdGF0ZSI6MH1d&dt=1605990104776&bpp=19&bdt=28262&idt=23714&shv=r20201112&cbv=r20190131&ptt=9&saldr=aa&abxe=1&correlator=6485573805684&frm=20&pv=2&ga_vid=517803521.1605990105&ga_sid=1605990105&ga_hid=2029611547&ga_fc=1&iag=0&icsg=141824&dssz=15&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=3&u_nmime=4&adx=180&ady=173&biw=1349&bih=657&scr_x=0&scr_y=0&oid=3&pvsid=3417265139310360&pem=120&rx=0&eae=0&fc=896&brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C728%2C1366%2C657&vis=1&rsz=d%7C%7CEe%7Cn&abl=XS&pfx=0&fu=8192&bc=23&ifi=1&uci=a!1&fsb=1&xpc=WCdDki1mEo&p=http%3A//slovardalja.net&dtd=23766
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9
+

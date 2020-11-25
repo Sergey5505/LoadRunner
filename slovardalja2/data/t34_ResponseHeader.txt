@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: cloudflare-nginx
+Date: Sat, 21 Nov 2020 20:36:20 GMT
+Content-Type: application/json
+Content-Length: 49
+Connection: keep-alive
+Keep-Alive: timeout=60
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+

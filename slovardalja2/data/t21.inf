@@ -1,0 +1,9 @@
+[t21]
+FileName1=t21.html
+URL1=https://googleads.g.doubleclick.net/pagead/html/r20201112/r20190131/zrt_lookup.html
+Total=1
+RequestHeaderFile=t21_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t21_ResponseHeader.txt
+ContentType=
+SnapshotXmlFile=snapshot_21.xml

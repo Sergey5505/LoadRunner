@@ -1,0 +1,4 @@
+"{\"blocksId\":[\"148752\",\"149099\"],\"isAdBlock\":false,\"url\":\"http://slovardalja.net/let"
+"ter.php?charkod=192\",\"v\":\"2.2.1-~~SHA~VERSION~STRING~~\",\"r\":\"mn2e8n4ut7\",\"city\":nul"
+"l,\"region\":null,\"countryCode\":null,\"width\":1366,\"skip\":[],\"referrer\":\"http://slovar"
+"dalja.net/\",\"sessionReferrer\":\"http://no.domain/\"}"

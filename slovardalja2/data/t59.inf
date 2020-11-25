@@ -1,0 +1,17 @@
+[t59]
+FileName1=t59.html
+URL1=https://tpc.googlesyndication.com/sodar/sodar2/219/runner.html
+Total=5
+RequestHeaderFile=t59_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t59_ResponseHeader.txt
+ContentType=image/gif
+SnapshotXmlFile=snapshot_59.xml
+FileName2=t59_sync.gif
+URL2=https://ssp.adriver.ru/cgi-bin/sync.cgi?dsp_id=109
+FileName3=t59_Cg8qAl+5d19EeSFCQJJeAgA=.gif
+URL3=https://an.yandex.ru/mapuid/ditmsk/Cg8qAl+5d19EeSFCQJJeAgA=?redir-setuniq=1&time=1605990239.243
+FileName4=t59_pixel.gif
+URL4=https://sync.1dmp.io/pixel.gif?cid=3cbc2ec8-1421-4677-89fe-2ac6fc52a09a&pid=w&o=au&cs=1
+FileName5=t59.gif
+URL5=https://an.yandex.ru/mapuid/ramblerssp/?redir-setuniq=1

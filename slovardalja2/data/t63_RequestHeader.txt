@@ -1,0 +1,13 @@
+GET /watch/3?wmode=7&page-url=https%3A%2F%2Fyastatic.net%2Fsafeframe-bundles%2F0.69%2F1-1-0%2Frender.html&page-ref=http%3A%2F%2Fslovardalja.net%2F&charset=utf-8&browser-info=pv%3A1%3Agdpr%3A%3Avf%3A1oc1oo18i9y4fw%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A282%3Acn%3A1%3Adp%3A0%3Als%3A0%3Ahid%3A971694550%3Az%3A180%3Ai%3A20201121232401%3Aet%3A1605990242%3Arn%3A316922228%3Au%3A1605990242312891124%3Aw%3A1x1%3As%3A1366x768x24%3Ask%3A1%3Aifr%3A1%3Acpf%3A1%3Antf%3A1%3Ans%3A1605990239768%3Ads%3A7%2C139%2C79%2C5%2C3%2C0%2C%2C176%2C0%2C417%2C417%2C1%2C417%3Adsn%3A7%2C139%2C78%2C5%2C3%2C0%2C%2C182%2C0%2C417%2C417%2C0%2C416%3Ati%3A1%3Ast%3A1605990242 HTTP/1.1
+Host: mc.yandex.ru
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+Accept: */*
+Origin: https://yastatic.net
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://yastatic.net/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9
+

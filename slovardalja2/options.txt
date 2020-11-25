@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\Projects\LoadRanner\slovardalja2
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ed:\projects\loadranner\slovardalja2\\logfile.log
+d:\projects\loadranner\slovardalja2\\combined_slovardalja2.c
+d:\projects\loadranner\slovardalja2\\pre_cci.c

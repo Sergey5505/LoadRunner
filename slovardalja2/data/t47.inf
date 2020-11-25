@@ -1,0 +1,15 @@
+[t47]
+FileName1=t47_1akds.html
+URL1=http://newrrb.bid/1akds.json?stat=%5B%7B%22t%22%3A%22fetch%22%2C%22bId%22%3A148752%2C%22ts%22%3A36544%7D%5D&url=http%3A%2F%2Fslovardalja.net%2Fword.php%3Fwordid%3D142&v=2.2.1-1c8fa83&r=71w6jyy1yd&referrer=http%3A%2F%2Fslovardalja.net%2Fletter.php%3Fcharkod%3D192
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_47.xml
+RequestHeaderFile=t47_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t47_ResponseHeader.txt
+FileName2=t47_hit.gif
+URL2=https://counter.yadro.ru/hit?q;t44.1;rhttp%3A//slovardalja.net/letter.php%3Fcharkod%3D192;s1366*768*24;uhttp%3A//slovardalja.net/word.php%3Fwordid%3D142;h%u0422%u043E%u043B%u043A%u043E%u0432%u044B%u0439%20%u0441%u043B%u043E%u0432%u0430%u0440%u044C%20%u0414%u0430%u043B%u044F%20%u043E%u043D%u043B%u0430%u0439%u043D;0.31602619652314434
+FileName3=t47_context.html
+URL3=https://an.yandex.ru/system/context.js
+[ProtocolInfo]
+ProtocolId=QTWeb
