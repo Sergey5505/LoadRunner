@@ -3,18 +3,18 @@
         "stepId": "STEP1",
         "stepName": "Url: slovardalja.net",
         "infFile": "t1.inf",
-        "time": 1606333836777
+        "time": 1606402970718
     },
     {
         "stepId": "STEP2",
         "stepName": "Url: letter.php",
         "infFile": "t2.inf",
-        "time": 1606333836950
+        "time": 1606402970913
     },
     {
         "stepId": "STEP3",
         "stepName": "Url: word.php",
         "infFile": "t3.inf",
-        "time": 1606333837179
+        "time": 1606402971049
     }
 ]

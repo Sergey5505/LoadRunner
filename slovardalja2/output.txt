@@ -1,6 +1,6 @@
 Warning: Failed to post to 'http://127.0.0.1:8182/shunra/api/emulation/packetCaptureOnly', retcode=7.
 Warning: Failed to start NV emulation. Perhaps the NV server is not working, and therefore a NV report will not be generated.
-Virtual User Script started at: 25.11.2020 22:50:35
+Virtual User Script started at: 26.11.2020 18:02:49
 Starting action vuser_init.
 Web Turbo Replay of LoadRunner 12.55.0 for Windows 8.1; build 911 (июл 24 2017 19:46:00)  	[MsgId: MMSG-26983]
 Run mode: HTML  	[MsgId: MMSG-26993]
@@ -13,236 +13,789 @@ Starting iteration 1.
 Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
 Starting action Action.
 Warning: Failed to get NV emulation handle.
-Action.c(6): Notify: Saving Parameter "UC = UC01".
-Action.c(7): Notify: Parameter Substitution: parameter "UC" =  "UC01"
-Action.c(7): Notify: Transaction "UC01_01_Загрузка словаря" started.
-Action.c(7): Warning: Failed to get NV emulation handle.
-Action.c(9): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
-Action.c(9): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
-Action.c(20): web_url("slovardalja.net") started  	[MsgId: MMSG-26355]
-Action.c(20): Notify: Saving Parameter "LetterUrl_1 = .php?charkod=192".
-Action.c(20): Notify: Saving Parameter "LetterUrl_2 = .php?charkod=193".
-Action.c(20): Notify: Saving Parameter "LetterUrl_3 = .php?charkod=194".
-Action.c(20): Notify: Saving Parameter "LetterUrl_4 = .php?charkod=195".
-Action.c(20): Notify: Saving Parameter "LetterUrl_5 = .php?charkod=196".
-Action.c(20): Notify: Saving Parameter "LetterUrl_6 = .php?charkod=197".
-Action.c(20): Notify: Saving Parameter "LetterUrl_7 = .php?charkod=198".
-Action.c(20): Notify: Saving Parameter "LetterUrl_8 = .php?charkod=199".
-Action.c(20): Notify: Saving Parameter "LetterUrl_9 = .php?charkod=200".
-Action.c(20): Notify: Saving Parameter "LetterUrl_10 = .php?charkod=201".
-Action.c(20): Notify: Saving Parameter "LetterUrl_11 = .php?charkod=202".
-Action.c(20): Notify: Saving Parameter "LetterUrl_12 = .php?charkod=203".
-Action.c(20): Notify: Saving Parameter "LetterUrl_13 = .php?charkod=204".
-Action.c(20): Notify: Saving Parameter "LetterUrl_14 = .php?charkod=205".
-Action.c(20): Notify: Saving Parameter "LetterUrl_15 = .php?charkod=206".
-Action.c(20): Notify: Saving Parameter "LetterUrl_16 = .php?charkod=207".
-Action.c(20): Notify: Saving Parameter "LetterUrl_17 = .php?charkod=208".
-Action.c(20): Notify: Saving Parameter "LetterUrl_18 = .php?charkod=209".
-Action.c(20): Notify: Saving Parameter "LetterUrl_19 = .php?charkod=210".
-Action.c(20): Notify: Saving Parameter "LetterUrl_20 = .php?charkod=211".
-Action.c(20): Notify: Saving Parameter "LetterUrl_21 = .php?charkod=212".
-Action.c(20): Notify: Saving Parameter "LetterUrl_22 = .php?charkod=213".
-Action.c(20): Notify: Saving Parameter "LetterUrl_23 = .php?charkod=214".
-Action.c(20): Notify: Saving Parameter "LetterUrl_24 = .php?charkod=215".
-Action.c(20): Notify: Saving Parameter "LetterUrl_25 = .php?charkod=216".
-Action.c(20): Notify: Saving Parameter "LetterUrl_26 = .php?charkod=217".
-Action.c(20): Notify: Saving Parameter "LetterUrl_27 = .php?charkod=218".
-Action.c(20): Notify: Saving Parameter "LetterUrl_28 = .php?charkod=219".
-Action.c(20): Notify: Saving Parameter "LetterUrl_29 = .php?charkod=220".
-Action.c(20): Notify: Saving Parameter "LetterUrl_30 = .php?charkod=221".
-Action.c(20): Notify: Saving Parameter "LetterUrl_31 = .php?charkod=222".
-Action.c(20): Notify: Saving Parameter "LetterUrl_32 = .php?charkod=223".
-Action.c(20): Found resource "http://slovardalja.net/style.css" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
-Action.c(20): Found resource "http://newrrb.bid/1akds.min.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
-Action.c(20): Found resource "http://counter.rambler.ru/top100.cnt?1439171" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
-Action.c(20): Found resource "http://slovardalja.net/img/Header.jpg" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
-Action.c(20): Found resource "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
-Action.c(20): Found resource "http://slovardalja.net/img/endpic.jpg" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
-Action.c(20): Found resource "http://cdn-rtb.sape.ru/teasers/js/471/2/53471.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
-Action.c(20): Found resource "http://www.google-analytics.com/urchin.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
-Action.c(20): Redirecting "http://counter.rambler.ru/top100.cnt?1439171" (redirection depth is 0)  	[MsgId: MMSG-26694]
-Action.c(20): To location "https://counter.rambler.ru/top100.cnt?1439171"  	[MsgId: MMSG-26693]
-Action.c(20): Notify: Saving Parameter "LetterUrl_count = 32".
-Action.c(20): web_url("slovardalja.net") was successful, 105357 body bytes, 4372 header bytes, 26 chunking overhead bytes  	[MsgId: MMSG-26385]
-Action.c(123): Notify: Parameter Substitution: parameter "LetterUrl_count" =  "32"
-Action.c(123): Notify: Parameter Substitution: parameter "LetterUrl_30" =  ".php?charkod=221"
-Action.c(123): Notify: Saving Parameter "LetterUrlRandom = .php?charkod=221".
-Action.c(125): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
-Action.c(125): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
-Action.c(137): Notify: Parameter Substitution: parameter "UC" =  "UC01"
-Action.c(137): Notify: Transaction "UC01_01_Загрузка словаря" ended with a "Pass" status (Duration: 1.4673 Wasted Time: 1.1782).
-Action.c(141): Notify: Parameter Substitution: parameter "UC" =  "UC01"
-Action.c(141): Notify: Transaction "UC01_02_Нажимаю букву" started.
-Action.c(141): Warning: Failed to get NV emulation handle.
-Action.c(146): web_url("letter.php") started  	[MsgId: MMSG-26355]
-Action.c(146): Notify: Parameter Substitution: parameter "LetterUrlRandom" =  ".php?charkod=221"
-Action.c(146): Notify: Saving Parameter "WordUrl_1 = .php?wordid=44013".
-Action.c(146): Notify: Saving Parameter "WordUrl_2 = .php?wordid=44014".
-Action.c(146): Notify: Saving Parameter "WordUrl_3 = .php?wordid=44015".
-Action.c(146): Notify: Saving Parameter "WordUrl_4 = .php?wordid=44016".
-Action.c(146): Notify: Saving Parameter "WordUrl_5 = .php?wordid=44017".
-Action.c(146): Notify: Saving Parameter "WordUrl_6 = .php?wordid=44018".
-Action.c(146): Notify: Saving Parameter "WordUrl_7 = .php?wordid=44019".
-Action.c(146): Notify: Saving Parameter "WordUrl_8 = .php?wordid=44020".
-Action.c(146): Notify: Saving Parameter "WordUrl_9 = .php?wordid=44021".
-Action.c(146): Notify: Saving Parameter "WordUrl_10 = .php?wordid=44022".
-Action.c(146): Notify: Saving Parameter "WordUrl_11 = .php?wordid=44023".
-Action.c(146): Notify: Saving Parameter "WordUrl_12 = .php?wordid=44024".
-Action.c(146): Notify: Saving Parameter "WordUrl_13 = .php?wordid=44025".
-Action.c(146): Notify: Saving Parameter "WordUrl_14 = .php?wordid=44026".
-Action.c(146): Notify: Saving Parameter "WordUrl_15 = .php?wordid=44027".
-Action.c(146): Notify: Saving Parameter "WordUrl_16 = .php?wordid=44028".
-Action.c(146): Notify: Saving Parameter "WordUrl_17 = .php?wordid=44029".
-Action.c(146): Notify: Saving Parameter "WordUrl_18 = .php?wordid=44030".
-Action.c(146): Notify: Saving Parameter "WordUrl_19 = .php?wordid=44031".
-Action.c(146): Notify: Saving Parameter "WordUrl_20 = .php?wordid=44032".
-Action.c(146): Notify: Saving Parameter "WordUrl_21 = .php?wordid=44033".
-Action.c(146): Notify: Saving Parameter "WordUrl_22 = .php?wordid=44034".
-Action.c(146): Notify: Saving Parameter "WordUrl_23 = .php?wordid=44035".
-Action.c(146): Notify: Saving Parameter "WordUrl_24 = .php?wordid=44036".
-Action.c(146): Notify: Saving Parameter "WordUrl_25 = .php?wordid=44037".
-Action.c(146): Notify: Saving Parameter "WordUrl_26 = .php?wordid=44038".
-Action.c(146): Notify: Saving Parameter "WordUrl_27 = .php?wordid=44039".
-Action.c(146): Notify: Saving Parameter "WordUrl_28 = .php?wordid=44040".
-Action.c(146): Notify: Saving Parameter "WordUrl_29 = .php?wordid=44041".
-Action.c(146): Notify: Saving Parameter "WordUrl_30 = .php?wordid=44042".
-Action.c(146): Notify: Saving Parameter "WordUrl_31 = .php?wordid=44043".
-Action.c(146): Notify: Saving Parameter "WordUrl_32 = .php?wordid=44044".
-Action.c(146): Notify: Saving Parameter "WordUrl_33 = .php?wordid=44045".
-Action.c(146): Notify: Saving Parameter "WordUrl_34 = .php?wordid=44046".
-Action.c(146): Notify: Saving Parameter "WordUrl_35 = .php?wordid=44047".
-Action.c(146): Notify: Saving Parameter "WordUrl_36 = .php?wordid=44048".
-Action.c(146): Notify: Saving Parameter "WordUrl_37 = .php?wordid=44049".
-Action.c(146): Notify: Saving Parameter "WordUrl_38 = .php?wordid=44050".
-Action.c(146): Notify: Saving Parameter "WordUrl_39 = .php?wordid=44051".
-Action.c(146): Notify: Saving Parameter "WordUrl_40 = .php?wordid=44052".
-Action.c(146): Notify: Saving Parameter "WordUrl_41 = .php?wordid=44053".
-Action.c(146): Notify: Saving Parameter "WordUrl_42 = .php?wordid=44054".
-Action.c(146): Notify: Saving Parameter "WordUrl_43 = .php?wordid=44055".
-Action.c(146): Notify: Saving Parameter "WordUrl_44 = .php?wordid=44056".
-Action.c(146): Notify: Saving Parameter "WordUrl_45 = .php?wordid=44057".
-Action.c(146): Notify: Saving Parameter "WordUrl_46 = .php?wordid=44058".
-Action.c(146): Notify: Saving Parameter "WordUrl_47 = .php?wordid=44059".
-Action.c(146): Notify: Saving Parameter "WordUrl_48 = .php?wordid=44060".
-Action.c(146): Notify: Saving Parameter "WordUrl_49 = .php?wordid=44061".
-Action.c(146): Notify: Saving Parameter "WordUrl_50 = .php?wordid=44062".
-Action.c(146): Notify: Saving Parameter "WordUrl_51 = .php?wordid=44063".
-Action.c(146): Notify: Saving Parameter "WordUrl_52 = .php?wordid=44064".
-Action.c(146): Notify: Saving Parameter "WordUrl_53 = .php?wordid=44065".
-Action.c(146): Notify: Saving Parameter "WordUrl_54 = .php?wordid=44066".
-Action.c(146): Notify: Saving Parameter "WordUrl_55 = .php?wordid=44067".
-Action.c(146): Notify: Saving Parameter "WordUrl_56 = .php?wordid=44068".
-Action.c(146): Notify: Saving Parameter "WordUrl_57 = .php?wordid=44069".
-Action.c(146): Notify: Saving Parameter "WordUrl_58 = .php?wordid=44070".
-Action.c(146): Notify: Saving Parameter "WordUrl_59 = .php?wordid=44071".
-Action.c(146): Notify: Saving Parameter "WordUrl_60 = .php?wordid=44072".
-Action.c(146): Notify: Saving Parameter "WordUrl_61 = .php?wordid=44073".
-Action.c(146): Notify: Saving Parameter "WordUrl_62 = .php?wordid=44074".
-Action.c(146): Notify: Saving Parameter "WordUrl_63 = .php?wordid=44075".
-Action.c(146): Notify: Saving Parameter "WordUrl_64 = .php?wordid=44076".
-Action.c(146): Notify: Saving Parameter "WordUrl_65 = .php?wordid=44077".
-Action.c(146): Resource "http://slovardalja.net/style.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(146): Resource "http://newrrb.bid/1akds.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(146): Found resource "http://counter.rambler.ru/top100.cnt?1439171" in HTML "http://slovardalja.net/letter.php?charkod=221"  	[MsgId: MMSG-26659]
-Action.c(146): Resource "http://slovardalja.net/img/Header.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(146): Resource "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(146): Notify: Saving Parameter "WordUrl_66 = .php?wordid=44078".
-Action.c(146): Notify: Saving Parameter "WordUrl_67 = .php?wordid=44079".
-Action.c(146): Notify: Saving Parameter "WordUrl_68 = .php?wordid=44080".
-Action.c(146): Notify: Saving Parameter "WordUrl_69 = .php?wordid=44081".
-Action.c(146): Notify: Saving Parameter "WordUrl_70 = .php?wordid=44082".
-Action.c(146): Notify: Saving Parameter "WordUrl_71 = .php?wordid=44083".
-Action.c(146): Notify: Saving Parameter "WordUrl_72 = .php?wordid=44084".
-Action.c(146): Notify: Saving Parameter "WordUrl_73 = .php?wordid=44085".
-Action.c(146): Notify: Saving Parameter "WordUrl_74 = .php?wordid=44086".
-Action.c(146): Notify: Saving Parameter "WordUrl_75 = .php?wordid=44087".
-Action.c(146): Notify: Saving Parameter "WordUrl_76 = .php?wordid=44088".
-Action.c(146): Notify: Saving Parameter "WordUrl_77 = .php?wordid=44089".
-Action.c(146): Notify: Saving Parameter "WordUrl_78 = .php?wordid=44090".
-Action.c(146): Notify: Saving Parameter "WordUrl_79 = .php?wordid=44091".
-Action.c(146): Notify: Saving Parameter "WordUrl_80 = .php?wordid=44092".
-Action.c(146): Notify: Saving Parameter "WordUrl_81 = .php?wordid=44093".
-Action.c(146): Notify: Saving Parameter "WordUrl_82 = .php?wordid=44094".
-Action.c(146): Notify: Saving Parameter "WordUrl_83 = .php?wordid=44095".
-Action.c(146): Notify: Saving Parameter "WordUrl_84 = .php?wordid=44096".
-Action.c(146): Notify: Saving Parameter "WordUrl_85 = .php?wordid=44097".
-Action.c(146): Notify: Saving Parameter "WordUrl_86 = .php?wordid=44098".
-Action.c(146): Notify: Saving Parameter "WordUrl_87 = .php?wordid=44099".
-Action.c(146): Notify: Saving Parameter "WordUrl_88 = .php?wordid=44100".
-Action.c(146): Notify: Saving Parameter "WordUrl_89 = .php?wordid=44101".
-Action.c(146): Notify: Saving Parameter "WordUrl_90 = .php?wordid=44102".
-Action.c(146): Notify: Saving Parameter "WordUrl_91 = .php?wordid=44103".
-Action.c(146): Notify: Saving Parameter "WordUrl_92 = .php?wordid=44104".
-Action.c(146): Notify: Saving Parameter "WordUrl_93 = .php?wordid=44105".
-Action.c(146): Notify: Saving Parameter "WordUrl_94 = .php?wordid=44106".
-Action.c(146): Notify: Saving Parameter "WordUrl_95 = .php?wordid=44107".
-Action.c(146): Notify: Saving Parameter "WordUrl_96 = .php?wordid=44108".
-Action.c(146): Notify: Saving Parameter "WordUrl_97 = .php?wordid=44109".
-Action.c(146): Notify: Saving Parameter "WordUrl_98 = .php?wordid=44110".
-Action.c(146): Notify: Saving Parameter "WordUrl_99 = .php?wordid=44111".
-Action.c(146): Notify: Saving Parameter "WordUrl_100 = .php?wordid=44112".
-Action.c(146): Notify: Saving Parameter "WordUrl_101 = .php?wordid=44113".
-Action.c(146): Notify: Saving Parameter "WordUrl_102 = .php?wordid=44114".
-Action.c(146): Notify: Saving Parameter "WordUrl_103 = .php?wordid=44115".
-Action.c(146): Notify: Saving Parameter "WordUrl_104 = .php?wordid=44116".
-Action.c(146): Notify: Saving Parameter "WordUrl_105 = .php?wordid=44117".
-Action.c(146): Notify: Saving Parameter "WordUrl_106 = .php?wordid=44118".
-Action.c(146): Notify: Saving Parameter "WordUrl_107 = .php?wordid=44119".
-Action.c(146): Notify: Saving Parameter "WordUrl_108 = .php?wordid=44120".
-Action.c(146): Notify: Saving Parameter "WordUrl_109 = .php?wordid=44121".
-Action.c(146): Notify: Saving Parameter "WordUrl_110 = .php?wordid=44122".
-Action.c(146): Notify: Saving Parameter "WordUrl_111 = .php?wordid=44123".
-Action.c(146): Notify: Saving Parameter "WordUrl_112 = .php?wordid=44124".
-Action.c(146): Notify: Saving Parameter "WordUrl_113 = .php?wordid=44125".
-Action.c(146): Notify: Saving Parameter "WordUrl_114 = .php?wordid=44126".
-Action.c(146): Notify: Saving Parameter "WordUrl_115 = .php?wordid=44127".
-Action.c(146): Notify: Saving Parameter "WordUrl_116 = .php?wordid=44128".
-Action.c(146): Notify: Saving Parameter "WordUrl_117 = .php?wordid=44129".
-Action.c(146): Resource "http://slovardalja.net/img/endpic.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(146): Resource "http://cdn-rtb.sape.ru/teasers/js/471/2/53471.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(146): Resource "http://www.google-analytics.com/urchin.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(146): Redirecting "http://counter.rambler.ru/top100.cnt?1439171" (redirection depth is 0)  	[MsgId: MMSG-26694]
-Action.c(146): To location "https://counter.rambler.ru/top100.cnt?1439171"  	[MsgId: MMSG-26693]
-Action.c(146): Notify: Saving Parameter "WordUrl_count = 117".
-Action.c(146): web_url("letter.php") was successful, 3470 body bytes, 1016 header bytes  	[MsgId: MMSG-26386]
-Action.c(166): Notify: Parameter Substitution: parameter "WordUrl_count" =  "117"
-Action.c(170): IndexEven = 85
-Action.c(186): IndexEven4 = 86
-Action.c(191): Notify: Parameter Substitution: parameter "WordUrl_86" =  ".php?wordid=44098"
-Action.c(191): Notify: Saving Parameter "WordUrlRandomIndexEven = .php?wordid=44098".
-Action.c(194): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
-Action.c(194): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
-Action.c(205): Notify: Parameter Substitution: parameter "UC" =  "UC01"
-Action.c(205): Notify: Transaction "UC01_02_Нажимаю букву" ended with a "Pass" status (Duration: 0.2028 Wasted Time: 0.0107).
-Action.c(209): Notify: Parameter Substitution: parameter "UC" =  "UC01"
-Action.c(209): Notify: Transaction "UC01_03_Нажимаю слово" started.
-Action.c(209): Warning: Failed to get NV emulation handle.
-Action.c(214): web_url("word.php") started  	[MsgId: MMSG-26355]
-Action.c(214): Notify: Parameter Substitution: parameter "WordUrlRandomIndexEven" =  ".php?wordid=44098"
-Action.c(214): Notify: Saving Parameter "Text = \n\n            \n\n            <p><strong>ЭРАТИЧЕСКИЕ  </strong></p><p>ЭРАТИЧЕСКИЕ  валуны, пере(при)носные, перекатные, заносные.\r\n</p>\n            \n\n            ".
-Action.c(214): Resource "http://slovardalja.net/style.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(214): Resource "http://newrrb.bid/1akds.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(214): Found resource "http://counter.rambler.ru/top100.cnt?1439171" in HTML "http://slovardalja.net/word.php?wordid=44098"  	[MsgId: MMSG-26659]
-Action.c(214): Resource "http://slovardalja.net/img/Header.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(214): Resource "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(214): Resource "http://slovardalja.net/img/endpic.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(214): Resource "http://cdn-rtb.sape.ru/teasers/js/471/2/53471.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(214): Resource "http://www.google-analytics.com/urchin.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(214): Redirecting "http://counter.rambler.ru/top100.cnt?1439171" (redirection depth is 0)  	[MsgId: MMSG-26694]
-Action.c(214): To location "https://counter.rambler.ru/top100.cnt?1439171"  	[MsgId: MMSG-26693]
-Action.c(214): web_url("word.php") was successful, 2389 body bytes, 1016 header bytes  	[MsgId: MMSG-26386]
-Action.c(236): Notify: Parameter Substitution: parameter "Text" =  "\n\n            \n\n            <p><strong>ЭРАТИЧЕСКИЕ  </strong></p><p>ЭРАТИЧЕСКИЕ  валуны, пере(при)носные, перекатные, заносные.\r\n</p>\n            \n\n            "
-Action.c(236): 
+Action.c(9): Notify: Saving Parameter "UC = UC01".
+Action.c(10): Notify: Parameter Substitution: parameter "UC" =  "UC01"
+Action.c(10): Notify: Transaction "UC01_01_Загрузка словаря" started.
+Action.c(10): Warning: Failed to get NV emulation handle.
+Action.c(12): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(12): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(23): web_url("slovardalja.net") started  	[MsgId: MMSG-26355]
+Action.c(23): Notify: Saving Parameter "LetterUrl_1 = .php?charkod=192".
+Action.c(23): Notify: Saving Parameter "LetterUrl_2 = .php?charkod=193".
+Action.c(23): Notify: Saving Parameter "LetterUrl_3 = .php?charkod=194".
+Action.c(23): Notify: Saving Parameter "LetterUrl_4 = .php?charkod=195".
+Action.c(23): Notify: Saving Parameter "LetterUrl_5 = .php?charkod=196".
+Action.c(23): Notify: Saving Parameter "LetterUrl_6 = .php?charkod=197".
+Action.c(23): Notify: Saving Parameter "LetterUrl_7 = .php?charkod=198".
+Action.c(23): Notify: Saving Parameter "LetterUrl_8 = .php?charkod=199".
+Action.c(23): Notify: Saving Parameter "LetterUrl_9 = .php?charkod=200".
+Action.c(23): Notify: Saving Parameter "LetterUrl_10 = .php?charkod=201".
+Action.c(23): Notify: Saving Parameter "LetterUrl_11 = .php?charkod=202".
+Action.c(23): Notify: Saving Parameter "LetterUrl_12 = .php?charkod=203".
+Action.c(23): Notify: Saving Parameter "LetterUrl_13 = .php?charkod=204".
+Action.c(23): Notify: Saving Parameter "LetterUrl_14 = .php?charkod=205".
+Action.c(23): Notify: Saving Parameter "LetterUrl_15 = .php?charkod=206".
+Action.c(23): Notify: Saving Parameter "LetterUrl_16 = .php?charkod=207".
+Action.c(23): Notify: Saving Parameter "LetterUrl_17 = .php?charkod=208".
+Action.c(23): Notify: Saving Parameter "LetterUrl_18 = .php?charkod=209".
+Action.c(23): Notify: Saving Parameter "LetterUrl_19 = .php?charkod=210".
+Action.c(23): Notify: Saving Parameter "LetterUrl_20 = .php?charkod=211".
+Action.c(23): Notify: Saving Parameter "LetterUrl_21 = .php?charkod=212".
+Action.c(23): Notify: Saving Parameter "LetterUrl_22 = .php?charkod=213".
+Action.c(23): Notify: Saving Parameter "LetterUrl_23 = .php?charkod=214".
+Action.c(23): Notify: Saving Parameter "LetterUrl_24 = .php?charkod=215".
+Action.c(23): Notify: Saving Parameter "LetterUrl_25 = .php?charkod=216".
+Action.c(23): Notify: Saving Parameter "LetterUrl_26 = .php?charkod=217".
+Action.c(23): Notify: Saving Parameter "LetterUrl_27 = .php?charkod=218".
+Action.c(23): Notify: Saving Parameter "LetterUrl_28 = .php?charkod=219".
+Action.c(23): Notify: Saving Parameter "LetterUrl_29 = .php?charkod=220".
+Action.c(23): Notify: Saving Parameter "LetterUrl_30 = .php?charkod=221".
+Action.c(23): Notify: Saving Parameter "LetterUrl_31 = .php?charkod=222".
+Action.c(23): Notify: Saving Parameter "LetterUrl_32 = .php?charkod=223".
+Action.c(23): Found resource "http://slovardalja.net/style.css" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Found resource "http://newrrb.bid/1akds.min.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Found resource "http://counter.rambler.ru/top100.cnt?1439171" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Found resource "http://slovardalja.net/img/Header.jpg" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Found resource "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Found resource "http://slovardalja.net/img/endpic.jpg" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Found resource "http://cdn-rtb.sape.ru/teasers/js/471/2/53471.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Found resource "http://www.google-analytics.com/urchin.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Redirecting "http://counter.rambler.ru/top100.cnt?1439171" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(23): To location "https://counter.rambler.ru/top100.cnt?1439171"  	[MsgId: MMSG-26693]
+Action.c(23): Notify: Saving Parameter "LetterUrl_count = 32".
+Action.c(23): web_url("slovardalja.net") was successful, 105357 body bytes, 4372 header bytes, 26 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(126): Notify: Parameter Substitution: parameter "LetterUrl_count" =  "32"
+Action.c(126): Notify: Parameter Substitution: parameter "LetterUrl_1" =  ".php?charkod=192"
+Action.c(126): Notify: Saving Parameter "LetterUrlRandom = .php?charkod=192".
+Action.c(128): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(128): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(140): Notify: Parameter Substitution: parameter "UC" =  "UC01"
+Action.c(140): Notify: Transaction "UC01_01_Загрузка словаря" ended with a "Pass" status (Duration: 1,4031 Wasted Time: 1,1834).
+Action.c(144): Notify: Parameter Substitution: parameter "UC" =  "UC01"
+Action.c(144): Notify: Transaction "UC01_02_Нажимаю букву" started.
+Action.c(144): Warning: Failed to get NV emulation handle.
+Action.c(149): web_url("letter.php") started  	[MsgId: MMSG-26355]
+Action.c(149): Notify: Parameter Substitution: parameter "LetterUrlRandom" =  ".php?charkod=192"
+Action.c(149): Notify: Saving Parameter "WordUrl_1 = .php?wordid=2".
+Action.c(149): Notify: Saving Parameter "WordUrl_2 = .php?wordid=3".
+Action.c(149): Notify: Saving Parameter "WordUrl_3 = .php?wordid=4".
+Action.c(149): Notify: Saving Parameter "WordUrl_4 = .php?wordid=5".
+Action.c(149): Notify: Saving Parameter "WordUrl_5 = .php?wordid=6".
+Action.c(149): Notify: Saving Parameter "WordUrl_6 = .php?wordid=7".
+Action.c(149): Notify: Saving Parameter "WordUrl_7 = .php?wordid=8".
+Action.c(149): Notify: Saving Parameter "WordUrl_8 = .php?wordid=9".
+Action.c(149): Notify: Saving Parameter "WordUrl_9 = .php?wordid=10".
+Action.c(149): Notify: Saving Parameter "WordUrl_10 = .php?wordid=11".
+Action.c(149): Notify: Saving Parameter "WordUrl_11 = .php?wordid=12".
+Action.c(149): Notify: Saving Parameter "WordUrl_12 = .php?wordid=13".
+Action.c(149): Notify: Saving Parameter "WordUrl_13 = .php?wordid=14".
+Action.c(149): Notify: Saving Parameter "WordUrl_14 = .php?wordid=15".
+Action.c(149): Notify: Saving Parameter "WordUrl_15 = .php?wordid=16".
+Action.c(149): Notify: Saving Parameter "WordUrl_16 = .php?wordid=17".
+Action.c(149): Notify: Saving Parameter "WordUrl_17 = .php?wordid=18".
+Action.c(149): Notify: Saving Parameter "WordUrl_18 = .php?wordid=19".
+Action.c(149): Notify: Saving Parameter "WordUrl_19 = .php?wordid=20".
+Action.c(149): Notify: Saving Parameter "WordUrl_20 = .php?wordid=21".
+Action.c(149): Notify: Saving Parameter "WordUrl_21 = .php?wordid=22".
+Action.c(149): Notify: Saving Parameter "WordUrl_22 = .php?wordid=23".
+Action.c(149): Notify: Saving Parameter "WordUrl_23 = .php?wordid=24".
+Action.c(149): Notify: Saving Parameter "WordUrl_24 = .php?wordid=25".
+Action.c(149): Notify: Saving Parameter "WordUrl_25 = .php?wordid=26".
+Action.c(149): Notify: Saving Parameter "WordUrl_26 = .php?wordid=27".
+Action.c(149): Notify: Saving Parameter "WordUrl_27 = .php?wordid=28".
+Action.c(149): Notify: Saving Parameter "WordUrl_28 = .php?wordid=29".
+Action.c(149): Notify: Saving Parameter "WordUrl_29 = .php?wordid=30".
+Action.c(149): Notify: Saving Parameter "WordUrl_30 = .php?wordid=31".
+Action.c(149): Notify: Saving Parameter "WordUrl_31 = .php?wordid=32".
+Action.c(149): Notify: Saving Parameter "WordUrl_32 = .php?wordid=33".
+Action.c(149): Notify: Saving Parameter "WordUrl_33 = .php?wordid=34".
+Action.c(149): Notify: Saving Parameter "WordUrl_34 = .php?wordid=35".
+Action.c(149): Notify: Saving Parameter "WordUrl_35 = .php?wordid=36".
+Action.c(149): Notify: Saving Parameter "WordUrl_36 = .php?wordid=37".
+Action.c(149): Notify: Saving Parameter "WordUrl_37 = .php?wordid=38".
+Action.c(149): Notify: Saving Parameter "WordUrl_38 = .php?wordid=39".
+Action.c(149): Notify: Saving Parameter "WordUrl_39 = .php?wordid=40".
+Action.c(149): Notify: Saving Parameter "WordUrl_40 = .php?wordid=41".
+Action.c(149): Notify: Saving Parameter "WordUrl_41 = .php?wordid=42".
+Action.c(149): Notify: Saving Parameter "WordUrl_42 = .php?wordid=43".
+Action.c(149): Notify: Saving Parameter "WordUrl_43 = .php?wordid=44".
+Action.c(149): Notify: Saving Parameter "WordUrl_44 = .php?wordid=45".
+Action.c(149): Notify: Saving Parameter "WordUrl_45 = .php?wordid=46".
+Action.c(149): Notify: Saving Parameter "WordUrl_46 = .php?wordid=47".
+Action.c(149): Notify: Saving Parameter "WordUrl_47 = .php?wordid=48".
+Action.c(149): Notify: Saving Parameter "WordUrl_48 = .php?wordid=49".
+Action.c(149): Notify: Saving Parameter "WordUrl_49 = .php?wordid=50".
+Action.c(149): Notify: Saving Parameter "WordUrl_50 = .php?wordid=51".
+Action.c(149): Notify: Saving Parameter "WordUrl_51 = .php?wordid=52".
+Action.c(149): Notify: Saving Parameter "WordUrl_52 = .php?wordid=53".
+Action.c(149): Notify: Saving Parameter "WordUrl_53 = .php?wordid=54".
+Action.c(149): Notify: Saving Parameter "WordUrl_54 = .php?wordid=55".
+Action.c(149): Notify: Saving Parameter "WordUrl_55 = .php?wordid=56".
+Action.c(149): Notify: Saving Parameter "WordUrl_56 = .php?wordid=57".
+Action.c(149): Notify: Saving Parameter "WordUrl_57 = .php?wordid=58".
+Action.c(149): Notify: Saving Parameter "WordUrl_58 = .php?wordid=59".
+Action.c(149): Notify: Saving Parameter "WordUrl_59 = .php?wordid=60".
+Action.c(149): Notify: Saving Parameter "WordUrl_60 = .php?wordid=61".
+Action.c(149): Notify: Saving Parameter "WordUrl_61 = .php?wordid=62".
+Action.c(149): Notify: Saving Parameter "WordUrl_62 = .php?wordid=63".
+Action.c(149): Notify: Saving Parameter "WordUrl_63 = .php?wordid=64".
+Action.c(149): Notify: Saving Parameter "WordUrl_64 = .php?wordid=65".
+Action.c(149): Notify: Saving Parameter "WordUrl_65 = .php?wordid=66".
+Action.c(149): Notify: Saving Parameter "WordUrl_66 = .php?wordid=67".
+Action.c(149): Notify: Saving Parameter "WordUrl_67 = .php?wordid=68".
+Action.c(149): Notify: Saving Parameter "WordUrl_68 = .php?wordid=69".
+Action.c(149): Resource "http://slovardalja.net/style.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(149): Resource "http://newrrb.bid/1akds.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(149): Found resource "http://counter.rambler.ru/top100.cnt?1439171" in HTML "http://slovardalja.net/letter.php?charkod=192"  	[MsgId: MMSG-26659]
+Action.c(149): Resource "http://slovardalja.net/img/Header.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(149): Resource "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(149): Notify: Saving Parameter "WordUrl_69 = .php?wordid=70".
+Action.c(149): Notify: Saving Parameter "WordUrl_70 = .php?wordid=71".
+Action.c(149): Notify: Saving Parameter "WordUrl_71 = .php?wordid=72".
+Action.c(149): Notify: Saving Parameter "WordUrl_72 = .php?wordid=73".
+Action.c(149): Notify: Saving Parameter "WordUrl_73 = .php?wordid=74".
+Action.c(149): Notify: Saving Parameter "WordUrl_74 = .php?wordid=75".
+Action.c(149): Notify: Saving Parameter "WordUrl_75 = .php?wordid=76".
+Action.c(149): Notify: Saving Parameter "WordUrl_76 = .php?wordid=77".
+Action.c(149): Notify: Saving Parameter "WordUrl_77 = .php?wordid=78".
+Action.c(149): Notify: Saving Parameter "WordUrl_78 = .php?wordid=79".
+Action.c(149): Notify: Saving Parameter "WordUrl_79 = .php?wordid=80".
+Action.c(149): Notify: Saving Parameter "WordUrl_80 = .php?wordid=81".
+Action.c(149): Notify: Saving Parameter "WordUrl_81 = .php?wordid=82".
+Action.c(149): Notify: Saving Parameter "WordUrl_82 = .php?wordid=83".
+Action.c(149): Notify: Saving Parameter "WordUrl_83 = .php?wordid=84".
+Action.c(149): Notify: Saving Parameter "WordUrl_84 = .php?wordid=85".
+Action.c(149): Notify: Saving Parameter "WordUrl_85 = .php?wordid=86".
+Action.c(149): Notify: Saving Parameter "WordUrl_86 = .php?wordid=87".
+Action.c(149): Notify: Saving Parameter "WordUrl_87 = .php?wordid=88".
+Action.c(149): Notify: Saving Parameter "WordUrl_88 = .php?wordid=89".
+Action.c(149): Notify: Saving Parameter "WordUrl_89 = .php?wordid=90".
+Action.c(149): Notify: Saving Parameter "WordUrl_90 = .php?wordid=91".
+Action.c(149): Notify: Saving Parameter "WordUrl_91 = .php?wordid=92".
+Action.c(149): Notify: Saving Parameter "WordUrl_92 = .php?wordid=93".
+Action.c(149): Notify: Saving Parameter "WordUrl_93 = .php?wordid=94".
+Action.c(149): Notify: Saving Parameter "WordUrl_94 = .php?wordid=95".
+Action.c(149): Notify: Saving Parameter "WordUrl_95 = .php?wordid=96".
+Action.c(149): Notify: Saving Parameter "WordUrl_96 = .php?wordid=97".
+Action.c(149): Notify: Saving Parameter "WordUrl_97 = .php?wordid=98".
+Action.c(149): Notify: Saving Parameter "WordUrl_98 = .php?wordid=99".
+Action.c(149): Notify: Saving Parameter "WordUrl_99 = .php?wordid=100".
+Action.c(149): Notify: Saving Parameter "WordUrl_100 = .php?wordid=101".
+Action.c(149): Notify: Saving Parameter "WordUrl_101 = .php?wordid=102".
+Action.c(149): Notify: Saving Parameter "WordUrl_102 = .php?wordid=103".
+Action.c(149): Notify: Saving Parameter "WordUrl_103 = .php?wordid=104".
+Action.c(149): Notify: Saving Parameter "WordUrl_104 = .php?wordid=105".
+Action.c(149): Notify: Saving Parameter "WordUrl_105 = .php?wordid=106".
+Action.c(149): Notify: Saving Parameter "WordUrl_106 = .php?wordid=107".
+Action.c(149): Notify: Saving Parameter "WordUrl_107 = .php?wordid=108".
+Action.c(149): Notify: Saving Parameter "WordUrl_108 = .php?wordid=109".
+Action.c(149): Notify: Saving Parameter "WordUrl_109 = .php?wordid=110".
+Action.c(149): Notify: Saving Parameter "WordUrl_110 = .php?wordid=111".
+Action.c(149): Notify: Saving Parameter "WordUrl_111 = .php?wordid=112".
+Action.c(149): Notify: Saving Parameter "WordUrl_112 = .php?wordid=113".
+Action.c(149): Notify: Saving Parameter "WordUrl_113 = .php?wordid=114".
+Action.c(149): Notify: Saving Parameter "WordUrl_114 = .php?wordid=115".
+Action.c(149): Notify: Saving Parameter "WordUrl_115 = .php?wordid=116".
+Action.c(149): Notify: Saving Parameter "WordUrl_116 = .php?wordid=117".
+Action.c(149): Notify: Saving Parameter "WordUrl_117 = .php?wordid=118".
+Action.c(149): Notify: Saving Parameter "WordUrl_118 = .php?wordid=119".
+Action.c(149): Notify: Saving Parameter "WordUrl_119 = .php?wordid=120".
+Action.c(149): Notify: Saving Parameter "WordUrl_120 = .php?wordid=121".
+Action.c(149): Notify: Saving Parameter "WordUrl_121 = .php?wordid=122".
+Action.c(149): Notify: Saving Parameter "WordUrl_122 = .php?wordid=123".
+Action.c(149): Notify: Saving Parameter "WordUrl_123 = .php?wordid=124".
+Action.c(149): Notify: Saving Parameter "WordUrl_124 = .php?wordid=125".
+Action.c(149): Notify: Saving Parameter "WordUrl_125 = .php?wordid=126".
+Action.c(149): Notify: Saving Parameter "WordUrl_126 = .php?wordid=127".
+Action.c(149): Notify: Saving Parameter "WordUrl_127 = .php?wordid=128".
+Action.c(149): Notify: Saving Parameter "WordUrl_128 = .php?wordid=129".
+Action.c(149): Notify: Saving Parameter "WordUrl_129 = .php?wordid=130".
+Action.c(149): Notify: Saving Parameter "WordUrl_130 = .php?wordid=131".
+Action.c(149): Notify: Saving Parameter "WordUrl_131 = .php?wordid=132".
+Action.c(149): Notify: Saving Parameter "WordUrl_132 = .php?wordid=133".
+Action.c(149): Notify: Saving Parameter "WordUrl_133 = .php?wordid=134".
+Action.c(149): Notify: Saving Parameter "WordUrl_134 = .php?wordid=135".
+Action.c(149): Notify: Saving Parameter "WordUrl_135 = .php?wordid=136".
+Action.c(149): Notify: Saving Parameter "WordUrl_136 = .php?wordid=137".
+Action.c(149): Notify: Saving Parameter "WordUrl_137 = .php?wordid=138".
+Action.c(149): Notify: Saving Parameter "WordUrl_138 = .php?wordid=139".
+Action.c(149): Notify: Saving Parameter "WordUrl_139 = .php?wordid=140".
+Action.c(149): Notify: Saving Parameter "WordUrl_140 = .php?wordid=141".
+Action.c(149): Notify: Saving Parameter "WordUrl_141 = .php?wordid=142".
+Action.c(149): Notify: Saving Parameter "WordUrl_142 = .php?wordid=143".
+Action.c(149): Notify: Saving Parameter "WordUrl_143 = .php?wordid=144".
+Action.c(149): Notify: Saving Parameter "WordUrl_144 = .php?wordid=145".
+Action.c(149): Notify: Saving Parameter "WordUrl_145 = .php?wordid=146".
+Action.c(149): Notify: Saving Parameter "WordUrl_146 = .php?wordid=147".
+Action.c(149): Notify: Saving Parameter "WordUrl_147 = .php?wordid=148".
+Action.c(149): Notify: Saving Parameter "WordUrl_148 = .php?wordid=149".
+Action.c(149): Notify: Saving Parameter "WordUrl_149 = .php?wordid=150".
+Action.c(149): Notify: Saving Parameter "WordUrl_150 = .php?wordid=151".
+Action.c(149): Notify: Saving Parameter "WordUrl_151 = .php?wordid=152".
+Action.c(149): Notify: Saving Parameter "WordUrl_152 = .php?wordid=154".
+Action.c(149): Notify: Saving Parameter "WordUrl_153 = .php?wordid=155".
+Action.c(149): Notify: Saving Parameter "WordUrl_154 = .php?wordid=156".
+Action.c(149): Notify: Saving Parameter "WordUrl_155 = .php?wordid=157".
+Action.c(149): Notify: Saving Parameter "WordUrl_156 = .php?wordid=158".
+Action.c(149): Notify: Saving Parameter "WordUrl_157 = .php?wordid=159".
+Action.c(149): Notify: Saving Parameter "WordUrl_158 = .php?wordid=160".
+Action.c(149): Notify: Saving Parameter "WordUrl_159 = .php?wordid=161".
+Action.c(149): Notify: Saving Parameter "WordUrl_160 = .php?wordid=162".
+Action.c(149): Notify: Saving Parameter "WordUrl_161 = .php?wordid=163".
+Action.c(149): Notify: Saving Parameter "WordUrl_162 = .php?wordid=164".
+Action.c(149): Notify: Saving Parameter "WordUrl_163 = .php?wordid=165".
+Action.c(149): Notify: Saving Parameter "WordUrl_164 = .php?wordid=166".
+Action.c(149): Notify: Saving Parameter "WordUrl_165 = .php?wordid=167".
+Action.c(149): Notify: Saving Parameter "WordUrl_166 = .php?wordid=168".
+Action.c(149): Notify: Saving Parameter "WordUrl_167 = .php?wordid=169".
+Action.c(149): Notify: Saving Parameter "WordUrl_168 = .php?wordid=170".
+Action.c(149): Notify: Saving Parameter "WordUrl_169 = .php?wordid=171".
+Action.c(149): Notify: Saving Parameter "WordUrl_170 = .php?wordid=172".
+Action.c(149): Notify: Saving Parameter "WordUrl_171 = .php?wordid=173".
+Action.c(149): Notify: Saving Parameter "WordUrl_172 = .php?wordid=174".
+Action.c(149): Notify: Saving Parameter "WordUrl_173 = .php?wordid=175".
+Action.c(149): Notify: Saving Parameter "WordUrl_174 = .php?wordid=176".
+Action.c(149): Notify: Saving Parameter "WordUrl_175 = .php?wordid=177".
+Action.c(149): Notify: Saving Parameter "WordUrl_176 = .php?wordid=178".
+Action.c(149): Notify: Saving Parameter "WordUrl_177 = .php?wordid=179".
+Action.c(149): Notify: Saving Parameter "WordUrl_178 = .php?wordid=180".
+Action.c(149): Notify: Saving Parameter "WordUrl_179 = .php?wordid=181".
+Action.c(149): Notify: Saving Parameter "WordUrl_180 = .php?wordid=182".
+Action.c(149): Notify: Saving Parameter "WordUrl_181 = .php?wordid=183".
+Action.c(149): Notify: Saving Parameter "WordUrl_182 = .php?wordid=184".
+Action.c(149): Notify: Saving Parameter "WordUrl_183 = .php?wordid=185".
+Action.c(149): Notify: Saving Parameter "WordUrl_184 = .php?wordid=186".
+Action.c(149): Notify: Saving Parameter "WordUrl_185 = .php?wordid=187".
+Action.c(149): Notify: Saving Parameter "WordUrl_186 = .php?wordid=188".
+Action.c(149): Notify: Saving Parameter "WordUrl_187 = .php?wordid=189".
+Action.c(149): Notify: Saving Parameter "WordUrl_188 = .php?wordid=190".
+Action.c(149): Notify: Saving Parameter "WordUrl_189 = .php?wordid=191".
+Action.c(149): Notify: Saving Parameter "WordUrl_190 = .php?wordid=192".
+Action.c(149): Notify: Saving Parameter "WordUrl_191 = .php?wordid=193".
+Action.c(149): Notify: Saving Parameter "WordUrl_192 = .php?wordid=194".
+Action.c(149): Notify: Saving Parameter "WordUrl_193 = .php?wordid=195".
+Action.c(149): Notify: Saving Parameter "WordUrl_194 = .php?wordid=196".
+Action.c(149): Notify: Saving Parameter "WordUrl_195 = .php?wordid=197".
+Action.c(149): Notify: Saving Parameter "WordUrl_196 = .php?wordid=198".
+Action.c(149): Notify: Saving Parameter "WordUrl_197 = .php?wordid=199".
+Action.c(149): Notify: Saving Parameter "WordUrl_198 = .php?wordid=200".
+Action.c(149): Notify: Saving Parameter "WordUrl_199 = .php?wordid=201".
+Action.c(149): Notify: Saving Parameter "WordUrl_200 = .php?wordid=202".
+Action.c(149): Notify: Saving Parameter "WordUrl_201 = .php?wordid=203".
+Action.c(149): Notify: Saving Parameter "WordUrl_202 = .php?wordid=204".
+Action.c(149): Notify: Saving Parameter "WordUrl_203 = .php?wordid=205".
+Action.c(149): Notify: Saving Parameter "WordUrl_204 = .php?wordid=206".
+Action.c(149): Notify: Saving Parameter "WordUrl_205 = .php?wordid=207".
+Action.c(149): Notify: Saving Parameter "WordUrl_206 = .php?wordid=208".
+Action.c(149): Notify: Saving Parameter "WordUrl_207 = .php?wordid=209".
+Action.c(149): Notify: Saving Parameter "WordUrl_208 = .php?wordid=210".
+Action.c(149): Notify: Saving Parameter "WordUrl_209 = .php?wordid=211".
+Action.c(149): Notify: Saving Parameter "WordUrl_210 = .php?wordid=212".
+Action.c(149): Notify: Saving Parameter "WordUrl_211 = .php?wordid=213".
+Action.c(149): Notify: Saving Parameter "WordUrl_212 = .php?wordid=214".
+Action.c(149): Notify: Saving Parameter "WordUrl_213 = .php?wordid=215".
+Action.c(149): Notify: Saving Parameter "WordUrl_214 = .php?wordid=216".
+Action.c(149): Notify: Saving Parameter "WordUrl_215 = .php?wordid=217".
+Action.c(149): Notify: Saving Parameter "WordUrl_216 = .php?wordid=218".
+Action.c(149): Notify: Saving Parameter "WordUrl_217 = .php?wordid=219".
+Action.c(149): Notify: Saving Parameter "WordUrl_218 = .php?wordid=220".
+Action.c(149): Notify: Saving Parameter "WordUrl_219 = .php?wordid=221".
+Action.c(149): Notify: Saving Parameter "WordUrl_220 = .php?wordid=222".
+Action.c(149): Notify: Saving Parameter "WordUrl_221 = .php?wordid=223".
+Action.c(149): Notify: Saving Parameter "WordUrl_222 = .php?wordid=224".
+Action.c(149): Notify: Saving Parameter "WordUrl_223 = .php?wordid=225".
+Action.c(149): Notify: Saving Parameter "WordUrl_224 = .php?wordid=226".
+Action.c(149): Notify: Saving Parameter "WordUrl_225 = .php?wordid=227".
+Action.c(149): Notify: Saving Parameter "WordUrl_226 = .php?wordid=228".
+Action.c(149): Notify: Saving Parameter "WordUrl_227 = .php?wordid=229".
+Action.c(149): Notify: Saving Parameter "WordUrl_228 = .php?wordid=230".
+Action.c(149): Notify: Saving Parameter "WordUrl_229 = .php?wordid=231".
+Action.c(149): Notify: Saving Parameter "WordUrl_230 = .php?wordid=232".
+Action.c(149): Notify: Saving Parameter "WordUrl_231 = .php?wordid=233".
+Action.c(149): Notify: Saving Parameter "WordUrl_232 = .php?wordid=234".
+Action.c(149): Notify: Saving Parameter "WordUrl_233 = .php?wordid=235".
+Action.c(149): Notify: Saving Parameter "WordUrl_234 = .php?wordid=236".
+Action.c(149): Notify: Saving Parameter "WordUrl_235 = .php?wordid=237".
+Action.c(149): Notify: Saving Parameter "WordUrl_236 = .php?wordid=238".
+Action.c(149): Notify: Saving Parameter "WordUrl_237 = .php?wordid=239".
+Action.c(149): Notify: Saving Parameter "WordUrl_238 = .php?wordid=240".
+Action.c(149): Notify: Saving Parameter "WordUrl_239 = .php?wordid=241".
+Action.c(149): Notify: Saving Parameter "WordUrl_240 = .php?wordid=242".
+Action.c(149): Notify: Saving Parameter "WordUrl_241 = .php?wordid=243".
+Action.c(149): Notify: Saving Parameter "WordUrl_242 = .php?wordid=244".
+Action.c(149): Notify: Saving Parameter "WordUrl_243 = .php?wordid=245".
+Action.c(149): Notify: Saving Parameter "WordUrl_244 = .php?wordid=246".
+Action.c(149): Notify: Saving Parameter "WordUrl_245 = .php?wordid=247".
+Action.c(149): Notify: Saving Parameter "WordUrl_246 = .php?wordid=248".
+Action.c(149): Notify: Saving Parameter "WordUrl_247 = .php?wordid=249".
+Action.c(149): Notify: Saving Parameter "WordUrl_248 = .php?wordid=250".
+Action.c(149): Notify: Saving Parameter "WordUrl_249 = .php?wordid=251".
+Action.c(149): Notify: Saving Parameter "WordUrl_250 = .php?wordid=252".
+Action.c(149): Notify: Saving Parameter "WordUrl_251 = .php?wordid=253".
+Action.c(149): Notify: Saving Parameter "WordUrl_252 = .php?wordid=254".
+Action.c(149): Notify: Saving Parameter "WordUrl_253 = .php?wordid=255".
+Action.c(149): Notify: Saving Parameter "WordUrl_254 = .php?wordid=256".
+Action.c(149): Notify: Saving Parameter "WordUrl_255 = .php?wordid=257".
+Action.c(149): Notify: Saving Parameter "WordUrl_256 = .php?wordid=258".
+Action.c(149): Notify: Saving Parameter "WordUrl_257 = .php?wordid=259".
+Action.c(149): Notify: Saving Parameter "WordUrl_258 = .php?wordid=260".
+Action.c(149): Notify: Saving Parameter "WordUrl_259 = .php?wordid=261".
+Action.c(149): Notify: Saving Parameter "WordUrl_260 = .php?wordid=262".
+Action.c(149): Notify: Saving Parameter "WordUrl_261 = .php?wordid=263".
+Action.c(149): Notify: Saving Parameter "WordUrl_262 = .php?wordid=264".
+Action.c(149): Notify: Saving Parameter "WordUrl_263 = .php?wordid=265".
+Action.c(149): Notify: Saving Parameter "WordUrl_264 = .php?wordid=266".
+Action.c(149): Notify: Saving Parameter "WordUrl_265 = .php?wordid=267".
+Action.c(149): Notify: Saving Parameter "WordUrl_266 = .php?wordid=268".
+Action.c(149): Notify: Saving Parameter "WordUrl_267 = .php?wordid=269".
+Action.c(149): Notify: Saving Parameter "WordUrl_268 = .php?wordid=270".
+Action.c(149): Notify: Saving Parameter "WordUrl_269 = .php?wordid=271".
+Action.c(149): Notify: Saving Parameter "WordUrl_270 = .php?wordid=272".
+Action.c(149): Notify: Saving Parameter "WordUrl_271 = .php?wordid=273".
+Action.c(149): Notify: Saving Parameter "WordUrl_272 = .php?wordid=274".
+Action.c(149): Notify: Saving Parameter "WordUrl_273 = .php?wordid=275".
+Action.c(149): Notify: Saving Parameter "WordUrl_274 = .php?wordid=276".
+Action.c(149): Notify: Saving Parameter "WordUrl_275 = .php?wordid=277".
+Action.c(149): Notify: Saving Parameter "WordUrl_276 = .php?wordid=278".
+Action.c(149): Notify: Saving Parameter "WordUrl_277 = .php?wordid=279".
+Action.c(149): Notify: Saving Parameter "WordUrl_278 = .php?wordid=280".
+Action.c(149): Notify: Saving Parameter "WordUrl_279 = .php?wordid=281".
+Action.c(149): Notify: Saving Parameter "WordUrl_280 = .php?wordid=282".
+Action.c(149): Notify: Saving Parameter "WordUrl_281 = .php?wordid=283".
+Action.c(149): Notify: Saving Parameter "WordUrl_282 = .php?wordid=284".
+Action.c(149): Notify: Saving Parameter "WordUrl_283 = .php?wordid=285".
+Action.c(149): Notify: Saving Parameter "WordUrl_284 = .php?wordid=286".
+Action.c(149): Notify: Saving Parameter "WordUrl_285 = .php?wordid=287".
+Action.c(149): Notify: Saving Parameter "WordUrl_286 = .php?wordid=288".
+Action.c(149): Notify: Saving Parameter "WordUrl_287 = .php?wordid=289".
+Action.c(149): Notify: Saving Parameter "WordUrl_288 = .php?wordid=290".
+Action.c(149): Notify: Saving Parameter "WordUrl_289 = .php?wordid=291".
+Action.c(149): Notify: Saving Parameter "WordUrl_290 = .php?wordid=292".
+Action.c(149): Notify: Saving Parameter "WordUrl_291 = .php?wordid=293".
+Action.c(149): Notify: Saving Parameter "WordUrl_292 = .php?wordid=294".
+Action.c(149): Notify: Saving Parameter "WordUrl_293 = .php?wordid=295".
+Action.c(149): Notify: Saving Parameter "WordUrl_294 = .php?wordid=296".
+Action.c(149): Notify: Saving Parameter "WordUrl_295 = .php?wordid=297".
+Action.c(149): Notify: Saving Parameter "WordUrl_296 = .php?wordid=298".
+Action.c(149): Notify: Saving Parameter "WordUrl_297 = .php?wordid=299".
+Action.c(149): Notify: Saving Parameter "WordUrl_298 = .php?wordid=300".
+Action.c(149): Notify: Saving Parameter "WordUrl_299 = .php?wordid=301".
+Action.c(149): Notify: Saving Parameter "WordUrl_300 = .php?wordid=302".
+Action.c(149): Notify: Saving Parameter "WordUrl_301 = .php?wordid=303".
+Action.c(149): Notify: Saving Parameter "WordUrl_302 = .php?wordid=304".
+Action.c(149): Notify: Saving Parameter "WordUrl_303 = .php?wordid=305".
+Action.c(149): Notify: Saving Parameter "WordUrl_304 = .php?wordid=306".
+Action.c(149): Notify: Saving Parameter "WordUrl_305 = .php?wordid=307".
+Action.c(149): Notify: Saving Parameter "WordUrl_306 = .php?wordid=308".
+Action.c(149): Notify: Saving Parameter "WordUrl_307 = .php?wordid=309".
+Action.c(149): Notify: Saving Parameter "WordUrl_308 = .php?wordid=310".
+Action.c(149): Notify: Saving Parameter "WordUrl_309 = .php?wordid=311".
+Action.c(149): Notify: Saving Parameter "WordUrl_310 = .php?wordid=312".
+Action.c(149): Notify: Saving Parameter "WordUrl_311 = .php?wordid=313".
+Action.c(149): Notify: Saving Parameter "WordUrl_312 = .php?wordid=314".
+Action.c(149): Notify: Saving Parameter "WordUrl_313 = .php?wordid=315".
+Action.c(149): Notify: Saving Parameter "WordUrl_314 = .php?wordid=316".
+Action.c(149): Notify: Saving Parameter "WordUrl_315 = .php?wordid=317".
+Action.c(149): Notify: Saving Parameter "WordUrl_316 = .php?wordid=318".
+Action.c(149): Notify: Saving Parameter "WordUrl_317 = .php?wordid=319".
+Action.c(149): Notify: Saving Parameter "WordUrl_318 = .php?wordid=320".
+Action.c(149): Notify: Saving Parameter "WordUrl_319 = .php?wordid=321".
+Action.c(149): Notify: Saving Parameter "WordUrl_320 = .php?wordid=322".
+Action.c(149): Notify: Saving Parameter "WordUrl_321 = .php?wordid=323".
+Action.c(149): Notify: Saving Parameter "WordUrl_322 = .php?wordid=324".
+Action.c(149): Notify: Saving Parameter "WordUrl_323 = .php?wordid=325".
+Action.c(149): Notify: Saving Parameter "WordUrl_324 = .php?wordid=326".
+Action.c(149): Notify: Saving Parameter "WordUrl_325 = .php?wordid=327".
+Action.c(149): Notify: Saving Parameter "WordUrl_326 = .php?wordid=328".
+Action.c(149): Notify: Saving Parameter "WordUrl_327 = .php?wordid=329".
+Action.c(149): Notify: Saving Parameter "WordUrl_328 = .php?wordid=330".
+Action.c(149): Notify: Saving Parameter "WordUrl_329 = .php?wordid=331".
+Action.c(149): Notify: Saving Parameter "WordUrl_330 = .php?wordid=332".
+Action.c(149): Notify: Saving Parameter "WordUrl_331 = .php?wordid=333".
+Action.c(149): Notify: Saving Parameter "WordUrl_332 = .php?wordid=334".
+Action.c(149): Notify: Saving Parameter "WordUrl_333 = .php?wordid=335".
+Action.c(149): Notify: Saving Parameter "WordUrl_334 = .php?wordid=336".
+Action.c(149): Notify: Saving Parameter "WordUrl_335 = .php?wordid=337".
+Action.c(149): Notify: Saving Parameter "WordUrl_336 = .php?wordid=338".
+Action.c(149): Notify: Saving Parameter "WordUrl_337 = .php?wordid=339".
+Action.c(149): Notify: Saving Parameter "WordUrl_338 = .php?wordid=340".
+Action.c(149): Notify: Saving Parameter "WordUrl_339 = .php?wordid=341".
+Action.c(149): Notify: Saving Parameter "WordUrl_340 = .php?wordid=342".
+Action.c(149): Notify: Saving Parameter "WordUrl_341 = .php?wordid=343".
+Action.c(149): Notify: Saving Parameter "WordUrl_342 = .php?wordid=344".
+Action.c(149): Notify: Saving Parameter "WordUrl_343 = .php?wordid=345".
+Action.c(149): Notify: Saving Parameter "WordUrl_344 = .php?wordid=346".
+Action.c(149): Notify: Saving Parameter "WordUrl_345 = .php?wordid=347".
+Action.c(149): Notify: Saving Parameter "WordUrl_346 = .php?wordid=348".
+Action.c(149): Notify: Saving Parameter "WordUrl_347 = .php?wordid=349".
+Action.c(149): Notify: Saving Parameter "WordUrl_348 = .php?wordid=350".
+Action.c(149): Notify: Saving Parameter "WordUrl_349 = .php?wordid=351".
+Action.c(149): Notify: Saving Parameter "WordUrl_350 = .php?wordid=352".
+Action.c(149): Notify: Saving Parameter "WordUrl_351 = .php?wordid=353".
+Action.c(149): Notify: Saving Parameter "WordUrl_352 = .php?wordid=354".
+Action.c(149): Notify: Saving Parameter "WordUrl_353 = .php?wordid=355".
+Action.c(149): Notify: Saving Parameter "WordUrl_354 = .php?wordid=356".
+Action.c(149): Notify: Saving Parameter "WordUrl_355 = .php?wordid=357".
+Action.c(149): Notify: Saving Parameter "WordUrl_356 = .php?wordid=358".
+Action.c(149): Notify: Saving Parameter "WordUrl_357 = .php?wordid=359".
+Action.c(149): Notify: Saving Parameter "WordUrl_358 = .php?wordid=360".
+Action.c(149): Notify: Saving Parameter "WordUrl_359 = .php?wordid=361".
+Action.c(149): Notify: Saving Parameter "WordUrl_360 = .php?wordid=362".
+Action.c(149): Notify: Saving Parameter "WordUrl_361 = .php?wordid=363".
+Action.c(149): Notify: Saving Parameter "WordUrl_362 = .php?wordid=364".
+Action.c(149): Notify: Saving Parameter "WordUrl_363 = .php?wordid=365".
+Action.c(149): Notify: Saving Parameter "WordUrl_364 = .php?wordid=366".
+Action.c(149): Notify: Saving Parameter "WordUrl_365 = .php?wordid=367".
+Action.c(149): Notify: Saving Parameter "WordUrl_366 = .php?wordid=368".
+Action.c(149): Notify: Saving Parameter "WordUrl_367 = .php?wordid=369".
+Action.c(149): Notify: Saving Parameter "WordUrl_368 = .php?wordid=370".
+Action.c(149): Notify: Saving Parameter "WordUrl_369 = .php?wordid=371".
+Action.c(149): Notify: Saving Parameter "WordUrl_370 = .php?wordid=372".
+Action.c(149): Notify: Saving Parameter "WordUrl_371 = .php?wordid=373".
+Action.c(149): Notify: Saving Parameter "WordUrl_372 = .php?wordid=374".
+Action.c(149): Notify: Saving Parameter "WordUrl_373 = .php?wordid=375".
+Action.c(149): Notify: Saving Parameter "WordUrl_374 = .php?wordid=376".
+Action.c(149): Notify: Saving Parameter "WordUrl_375 = .php?wordid=377".
+Action.c(149): Notify: Saving Parameter "WordUrl_376 = .php?wordid=378".
+Action.c(149): Notify: Saving Parameter "WordUrl_377 = .php?wordid=379".
+Action.c(149): Notify: Saving Parameter "WordUrl_378 = .php?wordid=380".
+Action.c(149): Notify: Saving Parameter "WordUrl_379 = .php?wordid=381".
+Action.c(149): Notify: Saving Parameter "WordUrl_380 = .php?wordid=382".
+Action.c(149): Notify: Saving Parameter "WordUrl_381 = .php?wordid=383".
+Action.c(149): Notify: Saving Parameter "WordUrl_382 = .php?wordid=384".
+Action.c(149): Notify: Saving Parameter "WordUrl_383 = .php?wordid=385".
+Action.c(149): Notify: Saving Parameter "WordUrl_384 = .php?wordid=386".
+Action.c(149): Notify: Saving Parameter "WordUrl_385 = .php?wordid=387".
+Action.c(149): Notify: Saving Parameter "WordUrl_386 = .php?wordid=388".
+Action.c(149): Notify: Saving Parameter "WordUrl_387 = .php?wordid=389".
+Action.c(149): Notify: Saving Parameter "WordUrl_388 = .php?wordid=390".
+Action.c(149): Notify: Saving Parameter "WordUrl_389 = .php?wordid=391".
+Action.c(149): Notify: Saving Parameter "WordUrl_390 = .php?wordid=392".
+Action.c(149): Notify: Saving Parameter "WordUrl_391 = .php?wordid=393".
+Action.c(149): Notify: Saving Parameter "WordUrl_392 = .php?wordid=394".
+Action.c(149): Notify: Saving Parameter "WordUrl_393 = .php?wordid=395".
+Action.c(149): Notify: Saving Parameter "WordUrl_394 = .php?wordid=396".
+Action.c(149): Notify: Saving Parameter "WordUrl_395 = .php?wordid=397".
+Action.c(149): Notify: Saving Parameter "WordUrl_396 = .php?wordid=398".
+Action.c(149): Notify: Saving Parameter "WordUrl_397 = .php?wordid=399".
+Action.c(149): Notify: Saving Parameter "WordUrl_398 = .php?wordid=400".
+Action.c(149): Notify: Saving Parameter "WordUrl_399 = .php?wordid=401".
+Action.c(149): Notify: Saving Parameter "WordUrl_400 = .php?wordid=402".
+Action.c(149): Notify: Saving Parameter "WordUrl_401 = .php?wordid=403".
+Action.c(149): Notify: Saving Parameter "WordUrl_402 = .php?wordid=404".
+Action.c(149): Notify: Saving Parameter "WordUrl_403 = .php?wordid=405".
+Action.c(149): Notify: Saving Parameter "WordUrl_404 = .php?wordid=406".
+Action.c(149): Notify: Saving Parameter "WordUrl_405 = .php?wordid=407".
+Action.c(149): Notify: Saving Parameter "WordUrl_406 = .php?wordid=408".
+Action.c(149): Notify: Saving Parameter "WordUrl_407 = .php?wordid=409".
+Action.c(149): Notify: Saving Parameter "WordUrl_408 = .php?wordid=410".
+Action.c(149): Notify: Saving Parameter "WordUrl_409 = .php?wordid=411".
+Action.c(149): Notify: Saving Parameter "WordUrl_410 = .php?wordid=412".
+Action.c(149): Notify: Saving Parameter "WordUrl_411 = .php?wordid=413".
+Action.c(149): Notify: Saving Parameter "WordUrl_412 = .php?wordid=414".
+Action.c(149): Notify: Saving Parameter "WordUrl_413 = .php?wordid=415".
+Action.c(149): Notify: Saving Parameter "WordUrl_414 = .php?wordid=416".
+Action.c(149): Notify: Saving Parameter "WordUrl_415 = .php?wordid=417".
+Action.c(149): Notify: Saving Parameter "WordUrl_416 = .php?wordid=418".
+Action.c(149): Notify: Saving Parameter "WordUrl_417 = .php?wordid=419".
+Action.c(149): Notify: Saving Parameter "WordUrl_418 = .php?wordid=420".
+Action.c(149): Notify: Saving Parameter "WordUrl_419 = .php?wordid=421".
+Action.c(149): Notify: Saving Parameter "WordUrl_420 = .php?wordid=422".
+Action.c(149): Notify: Saving Parameter "WordUrl_421 = .php?wordid=423".
+Action.c(149): Notify: Saving Parameter "WordUrl_422 = .php?wordid=424".
+Action.c(149): Notify: Saving Parameter "WordUrl_423 = .php?wordid=425".
+Action.c(149): Notify: Saving Parameter "WordUrl_424 = .php?wordid=426".
+Action.c(149): Notify: Saving Parameter "WordUrl_425 = .php?wordid=427".
+Action.c(149): Notify: Saving Parameter "WordUrl_426 = .php?wordid=428".
+Action.c(149): Notify: Saving Parameter "WordUrl_427 = .php?wordid=429".
+Action.c(149): Notify: Saving Parameter "WordUrl_428 = .php?wordid=430".
+Action.c(149): Notify: Saving Parameter "WordUrl_429 = .php?wordid=431".
+Action.c(149): Notify: Saving Parameter "WordUrl_430 = .php?wordid=432".
+Action.c(149): Notify: Saving Parameter "WordUrl_431 = .php?wordid=433".
+Action.c(149): Notify: Saving Parameter "WordUrl_432 = .php?wordid=434".
+Action.c(149): Notify: Saving Parameter "WordUrl_433 = .php?wordid=435".
+Action.c(149): Notify: Saving Parameter "WordUrl_434 = .php?wordid=436".
+Action.c(149): Notify: Saving Parameter "WordUrl_435 = .php?wordid=437".
+Action.c(149): Notify: Saving Parameter "WordUrl_436 = .php?wordid=438".
+Action.c(149): Notify: Saving Parameter "WordUrl_437 = .php?wordid=439".
+Action.c(149): Notify: Saving Parameter "WordUrl_438 = .php?wordid=440".
+Action.c(149): Notify: Saving Parameter "WordUrl_439 = .php?wordid=441".
+Action.c(149): Notify: Saving Parameter "WordUrl_440 = .php?wordid=442".
+Action.c(149): Notify: Saving Parameter "WordUrl_441 = .php?wordid=443".
+Action.c(149): Notify: Saving Parameter "WordUrl_442 = .php?wordid=444".
+Action.c(149): Notify: Saving Parameter "WordUrl_443 = .php?wordid=445".
+Action.c(149): Notify: Saving Parameter "WordUrl_444 = .php?wordid=446".
+Action.c(149): Notify: Saving Parameter "WordUrl_445 = .php?wordid=447".
+Action.c(149): Notify: Saving Parameter "WordUrl_446 = .php?wordid=448".
+Action.c(149): Notify: Saving Parameter "WordUrl_447 = .php?wordid=449".
+Action.c(149): Notify: Saving Parameter "WordUrl_448 = .php?wordid=450".
+Action.c(149): Notify: Saving Parameter "WordUrl_449 = .php?wordid=451".
+Action.c(149): Notify: Saving Parameter "WordUrl_450 = .php?wordid=452".
+Action.c(149): Notify: Saving Parameter "WordUrl_451 = .php?wordid=453".
+Action.c(149): Notify: Saving Parameter "WordUrl_452 = .php?wordid=454".
+Action.c(149): Notify: Saving Parameter "WordUrl_453 = .php?wordid=455".
+Action.c(149): Notify: Saving Parameter "WordUrl_454 = .php?wordid=456".
+Action.c(149): Notify: Saving Parameter "WordUrl_455 = .php?wordid=457".
+Action.c(149): Notify: Saving Parameter "WordUrl_456 = .php?wordid=458".
+Action.c(149): Notify: Saving Parameter "WordUrl_457 = .php?wordid=459".
+Action.c(149): Notify: Saving Parameter "WordUrl_458 = .php?wordid=460".
+Action.c(149): Notify: Saving Parameter "WordUrl_459 = .php?wordid=461".
+Action.c(149): Notify: Saving Parameter "WordUrl_460 = .php?wordid=462".
+Action.c(149): Notify: Saving Parameter "WordUrl_461 = .php?wordid=463".
+Action.c(149): Notify: Saving Parameter "WordUrl_462 = .php?wordid=464".
+Action.c(149): Notify: Saving Parameter "WordUrl_463 = .php?wordid=465".
+Action.c(149): Notify: Saving Parameter "WordUrl_464 = .php?wordid=466".
+Action.c(149): Notify: Saving Parameter "WordUrl_465 = .php?wordid=467".
+Action.c(149): Notify: Saving Parameter "WordUrl_466 = .php?wordid=468".
+Action.c(149): Notify: Saving Parameter "WordUrl_467 = .php?wordid=469".
+Action.c(149): Notify: Saving Parameter "WordUrl_468 = .php?wordid=470".
+Action.c(149): Notify: Saving Parameter "WordUrl_469 = .php?wordid=471".
+Action.c(149): Notify: Saving Parameter "WordUrl_470 = .php?wordid=472".
+Action.c(149): Notify: Saving Parameter "WordUrl_471 = .php?wordid=473".
+Action.c(149): Notify: Saving Parameter "WordUrl_472 = .php?wordid=474".
+Action.c(149): Notify: Saving Parameter "WordUrl_473 = .php?wordid=475".
+Action.c(149): Notify: Saving Parameter "WordUrl_474 = .php?wordid=476".
+Action.c(149): Notify: Saving Parameter "WordUrl_475 = .php?wordid=477".
+Action.c(149): Notify: Saving Parameter "WordUrl_476 = .php?wordid=478".
+Action.c(149): Notify: Saving Parameter "WordUrl_477 = .php?wordid=479".
+Action.c(149): Notify: Saving Parameter "WordUrl_478 = .php?wordid=480".
+Action.c(149): Notify: Saving Parameter "WordUrl_479 = .php?wordid=481".
+Action.c(149): Notify: Saving Parameter "WordUrl_480 = .php?wordid=482".
+Action.c(149): Notify: Saving Parameter "WordUrl_481 = .php?wordid=483".
+Action.c(149): Notify: Saving Parameter "WordUrl_482 = .php?wordid=484".
+Action.c(149): Notify: Saving Parameter "WordUrl_483 = .php?wordid=485".
+Action.c(149): Notify: Saving Parameter "WordUrl_484 = .php?wordid=486".
+Action.c(149): Notify: Saving Parameter "WordUrl_485 = .php?wordid=487".
+Action.c(149): Notify: Saving Parameter "WordUrl_486 = .php?wordid=488".
+Action.c(149): Notify: Saving Parameter "WordUrl_487 = .php?wordid=489".
+Action.c(149): Notify: Saving Parameter "WordUrl_488 = .php?wordid=490".
+Action.c(149): Notify: Saving Parameter "WordUrl_489 = .php?wordid=491".
+Action.c(149): Notify: Saving Parameter "WordUrl_490 = .php?wordid=492".
+Action.c(149): Notify: Saving Parameter "WordUrl_491 = .php?wordid=493".
+Action.c(149): Notify: Saving Parameter "WordUrl_492 = .php?wordid=494".
+Action.c(149): Notify: Saving Parameter "WordUrl_493 = .php?wordid=495".
+Action.c(149): Notify: Saving Parameter "WordUrl_494 = .php?wordid=496".
+Action.c(149): Notify: Saving Parameter "WordUrl_495 = .php?wordid=497".
+Action.c(149): Notify: Saving Parameter "WordUrl_496 = .php?wordid=498".
+Action.c(149): Notify: Saving Parameter "WordUrl_497 = .php?wordid=499".
+Action.c(149): Notify: Saving Parameter "WordUrl_498 = .php?wordid=500".
+Action.c(149): Notify: Saving Parameter "WordUrl_499 = .php?wordid=501".
+Action.c(149): Notify: Saving Parameter "WordUrl_500 = .php?wordid=502".
+Action.c(149): Notify: Saving Parameter "WordUrl_501 = .php?wordid=503".
+Action.c(149): Notify: Saving Parameter "WordUrl_502 = .php?wordid=504".
+Action.c(149): Notify: Saving Parameter "WordUrl_503 = .php?wordid=505".
+Action.c(149): Notify: Saving Parameter "WordUrl_504 = .php?wordid=506".
+Action.c(149): Notify: Saving Parameter "WordUrl_505 = .php?wordid=507".
+Action.c(149): Notify: Saving Parameter "WordUrl_506 = .php?wordid=510".
+Action.c(149): Notify: Saving Parameter "WordUrl_507 = .php?wordid=508".
+Action.c(149): Notify: Saving Parameter "WordUrl_508 = .php?wordid=509".
+Action.c(149): Notify: Saving Parameter "WordUrl_509 = .php?wordid=511".
+Action.c(149): Notify: Saving Parameter "WordUrl_510 = .php?wordid=512".
+Action.c(149): Notify: Saving Parameter "WordUrl_511 = .php?wordid=513".
+Action.c(149): Notify: Saving Parameter "WordUrl_512 = .php?wordid=514".
+Action.c(149): Notify: Saving Parameter "WordUrl_513 = .php?wordid=515".
+Action.c(149): Notify: Saving Parameter "WordUrl_514 = .php?wordid=516".
+Action.c(149): Notify: Saving Parameter "WordUrl_515 = .php?wordid=517".
+Action.c(149): Notify: Saving Parameter "WordUrl_516 = .php?wordid=518".
+Action.c(149): Notify: Saving Parameter "WordUrl_517 = .php?wordid=519".
+Action.c(149): Notify: Saving Parameter "WordUrl_518 = .php?wordid=520".
+Action.c(149): Notify: Saving Parameter "WordUrl_519 = .php?wordid=521".
+Action.c(149): Notify: Saving Parameter "WordUrl_520 = .php?wordid=522".
+Action.c(149): Notify: Saving Parameter "WordUrl_521 = .php?wordid=523".
+Action.c(149): Notify: Saving Parameter "WordUrl_522 = .php?wordid=524".
+Action.c(149): Notify: Saving Parameter "WordUrl_523 = .php?wordid=525".
+Action.c(149): Notify: Saving Parameter "WordUrl_524 = .php?wordid=526".
+Action.c(149): Notify: Saving Parameter "WordUrl_525 = .php?wordid=527".
+Action.c(149): Notify: Saving Parameter "WordUrl_526 = .php?wordid=528".
+Action.c(149): Notify: Saving Parameter "WordUrl_527 = .php?wordid=529".
+Action.c(149): Notify: Saving Parameter "WordUrl_528 = .php?wordid=530".
+Action.c(149): Notify: Saving Parameter "WordUrl_529 = .php?wordid=531".
+Action.c(149): Notify: Saving Parameter "WordUrl_530 = .php?wordid=532".
+Action.c(149): Notify: Saving Parameter "WordUrl_531 = .php?wordid=533".
+Action.c(149): Notify: Saving Parameter "WordUrl_532 = .php?wordid=534".
+Action.c(149): Notify: Saving Parameter "WordUrl_533 = .php?wordid=535".
+Action.c(149): Notify: Saving Parameter "WordUrl_534 = .php?wordid=536".
+Action.c(149): Notify: Saving Parameter "WordUrl_535 = .php?wordid=537".
+Action.c(149): Notify: Saving Parameter "WordUrl_536 = .php?wordid=538".
+Action.c(149): Notify: Saving Parameter "WordUrl_537 = .php?wordid=539".
+Action.c(149): Notify: Saving Parameter "WordUrl_538 = .php?wordid=540".
+Action.c(149): Notify: Saving Parameter "WordUrl_539 = .php?wordid=541".
+Action.c(149): Notify: Saving Parameter "WordUrl_540 = .php?wordid=542".
+Action.c(149): Notify: Saving Parameter "WordUrl_541 = .php?wordid=543".
+Action.c(149): Notify: Saving Parameter "WordUrl_542 = .php?wordid=544".
+Action.c(149): Notify: Saving Parameter "WordUrl_543 = .php?wordid=545".
+Action.c(149): Notify: Saving Parameter "WordUrl_544 = .php?wordid=546".
+Action.c(149): Notify: Saving Parameter "WordUrl_545 = .php?wordid=547".
+Action.c(149): Notify: Saving Parameter "WordUrl_546 = .php?wordid=548".
+Action.c(149): Notify: Saving Parameter "WordUrl_547 = .php?wordid=549".
+Action.c(149): Notify: Saving Parameter "WordUrl_548 = .php?wordid=550".
+Action.c(149): Notify: Saving Parameter "WordUrl_549 = .php?wordid=551".
+Action.c(149): Notify: Saving Parameter "WordUrl_550 = .php?wordid=552".
+Action.c(149): Notify: Saving Parameter "WordUrl_551 = .php?wordid=553".
+Action.c(149): Notify: Saving Parameter "WordUrl_552 = .php?wordid=554".
+Action.c(149): Notify: Saving Parameter "WordUrl_553 = .php?wordid=555".
+Action.c(149): Notify: Saving Parameter "WordUrl_554 = .php?wordid=556".
+Action.c(149): Notify: Saving Parameter "WordUrl_555 = .php?wordid=557".
+Action.c(149): Notify: Saving Parameter "WordUrl_556 = .php?wordid=558".
+Action.c(149): Notify: Saving Parameter "WordUrl_557 = .php?wordid=559".
+Action.c(149): Notify: Saving Parameter "WordUrl_558 = .php?wordid=560".
+Action.c(149): Notify: Saving Parameter "WordUrl_559 = .php?wordid=561".
+Action.c(149): Notify: Saving Parameter "WordUrl_560 = .php?wordid=562".
+Action.c(149): Notify: Saving Parameter "WordUrl_561 = .php?wordid=563".
+Action.c(149): Notify: Saving Parameter "WordUrl_562 = .php?wordid=564".
+Action.c(149): Notify: Saving Parameter "WordUrl_563 = .php?wordid=565".
+Action.c(149): Notify: Saving Parameter "WordUrl_564 = .php?wordid=566".
+Action.c(149): Notify: Saving Parameter "WordUrl_565 = .php?wordid=567".
+Action.c(149): Notify: Saving Parameter "WordUrl_566 = .php?wordid=568".
+Action.c(149): Notify: Saving Parameter "WordUrl_567 = .php?wordid=569".
+Action.c(149): Notify: Saving Parameter "WordUrl_568 = .php?wordid=570".
+Action.c(149): Notify: Saving Parameter "WordUrl_569 = .php?wordid=571".
+Action.c(149): Notify: Saving Parameter "WordUrl_570 = .php?wordid=572".
+Action.c(149): Notify: Saving Parameter "WordUrl_571 = .php?wordid=573".
+Action.c(149): Notify: Saving Parameter "WordUrl_572 = .php?wordid=574".
+Action.c(149): Notify: Saving Parameter "WordUrl_573 = .php?wordid=575".
+Action.c(149): Notify: Saving Parameter "WordUrl_574 = .php?wordid=576".
+Action.c(149): Notify: Saving Parameter "WordUrl_575 = .php?wordid=577".
+Action.c(149): Notify: Saving Parameter "WordUrl_576 = .php?wordid=578".
+Action.c(149): Notify: Saving Parameter "WordUrl_577 = .php?wordid=579".
+Action.c(149): Notify: Saving Parameter "WordUrl_578 = .php?wordid=580".
+Action.c(149): Notify: Saving Parameter "WordUrl_579 = .php?wordid=581".
+Action.c(149): Notify: Saving Parameter "WordUrl_580 = .php?wordid=582".
+Action.c(149): Notify: Saving Parameter "WordUrl_581 = .php?wordid=583".
+Action.c(149): Notify: Saving Parameter "WordUrl_582 = .php?wordid=584".
+Action.c(149): Notify: Saving Parameter "WordUrl_583 = .php?wordid=585".
+Action.c(149): Notify: Saving Parameter "WordUrl_584 = .php?wordid=586".
+Action.c(149): Notify: Saving Parameter "WordUrl_585 = .php?wordid=587".
+Action.c(149): Notify: Saving Parameter "WordUrl_586 = .php?wordid=588".
+Action.c(149): Notify: Saving Parameter "WordUrl_587 = .php?wordid=589".
+Action.c(149): Notify: Saving Parameter "WordUrl_588 = .php?wordid=590".
+Action.c(149): Notify: Saving Parameter "WordUrl_589 = .php?wordid=591".
+Action.c(149): Notify: Saving Parameter "WordUrl_590 = .php?wordid=592".
+Action.c(149): Notify: Saving Parameter "WordUrl_591 = .php?wordid=593".
+Action.c(149): Notify: Saving Parameter "WordUrl_592 = .php?wordid=594".
+Action.c(149): Notify: Saving Parameter "WordUrl_593 = .php?wordid=595".
+Action.c(149): Notify: Saving Parameter "WordUrl_594 = .php?wordid=596".
+Action.c(149): Notify: Saving Parameter "WordUrl_595 = .php?wordid=597".
+Action.c(149): Notify: Saving Parameter "WordUrl_596 = .php?wordid=598".
+Action.c(149): Notify: Saving Parameter "WordUrl_597 = .php?wordid=599".
+Action.c(149): Notify: Saving Parameter "WordUrl_598 = .php?wordid=600".
+Action.c(149): Notify: Saving Parameter "WordUrl_599 = .php?wordid=601".
+Action.c(149): Notify: Saving Parameter "WordUrl_600 = .php?wordid=602".
+Action.c(149): Notify: Saving Parameter "WordUrl_601 = .php?wordid=603".
+Action.c(149): Notify: Saving Parameter "WordUrl_602 = .php?wordid=604".
+Action.c(149): Notify: Saving Parameter "WordUrl_603 = .php?wordid=605".
+Action.c(149): Notify: Saving Parameter "WordUrl_604 = .php?wordid=606".
+Action.c(149): Notify: Saving Parameter "WordUrl_605 = .php?wordid=607".
+Action.c(149): Notify: Saving Parameter "WordUrl_606 = .php?wordid=608".
+Action.c(149): Notify: Saving Parameter "WordUrl_607 = .php?wordid=609".
+Action.c(149): Notify: Saving Parameter "WordUrl_608 = .php?wordid=610".
+Action.c(149): Notify: Saving Parameter "WordUrl_609 = .php?wordid=611".
+Action.c(149): Notify: Saving Parameter "WordUrl_610 = .php?wordid=612".
+Action.c(149): Notify: Saving Parameter "WordUrl_611 = .php?wordid=613".
+Action.c(149): Notify: Saving Parameter "WordUrl_612 = .php?wordid=614".
+Action.c(149): Notify: Saving Parameter "WordUrl_613 = .php?wordid=615".
+Action.c(149): Notify: Saving Parameter "WordUrl_614 = .php?wordid=616".
+Action.c(149): Notify: Saving Parameter "WordUrl_615 = .php?wordid=617".
+Action.c(149): Notify: Saving Parameter "WordUrl_616 = .php?wordid=618".
+Action.c(149): Notify: Saving Parameter "WordUrl_617 = .php?wordid=619".
+Action.c(149): Notify: Saving Parameter "WordUrl_618 = .php?wordid=620".
+Action.c(149): Notify: Saving Parameter "WordUrl_619 = .php?wordid=621".
+Action.c(149): Notify: Saving Parameter "WordUrl_620 = .php?wordid=622".
+Action.c(149): Notify: Saving Parameter "WordUrl_621 = .php?wordid=623".
+Action.c(149): Notify: Saving Parameter "WordUrl_622 = .php?wordid=624".
+Action.c(149): Notify: Saving Parameter "WordUrl_623 = .php?wordid=625".
+Action.c(149): Notify: Saving Parameter "WordUrl_624 = .php?wordid=626".
+Action.c(149): Notify: Saving Parameter "WordUrl_625 = .php?wordid=627".
+Action.c(149): Notify: Saving Parameter "WordUrl_626 = .php?wordid=628".
+Action.c(149): Notify: Saving Parameter "WordUrl_627 = .php?wordid=629".
+Action.c(149): Notify: Saving Parameter "WordUrl_628 = .php?wordid=630".
+Action.c(149): Notify: Saving Parameter "WordUrl_629 = .php?wordid=631".
+Action.c(149): Notify: Saving Parameter "WordUrl_630 = .php?wordid=632".
+Action.c(149): Notify: Saving Parameter "WordUrl_631 = .php?wordid=633".
+Action.c(149): Notify: Saving Parameter "WordUrl_632 = .php?wordid=634".
+Action.c(149): Notify: Saving Parameter "WordUrl_633 = .php?wordid=635".
+Action.c(149): Notify: Saving Parameter "WordUrl_634 = .php?wordid=636".
+Action.c(149): Notify: Saving Parameter "WordUrl_635 = .php?wordid=637".
+Action.c(149): Notify: Saving Parameter "WordUrl_636 = .php?wordid=638".
+Action.c(149): Notify: Saving Parameter "WordUrl_637 = .php?wordid=639".
+Action.c(149): Notify: Saving Parameter "WordUrl_638 = .php?wordid=640".
+Action.c(149): Notify: Saving Parameter "WordUrl_639 = .php?wordid=641".
+Action.c(149): Notify: Saving Parameter "WordUrl_640 = .php?wordid=642".
+Action.c(149): Notify: Saving Parameter "WordUrl_641 = .php?wordid=643".
+Action.c(149): Notify: Saving Parameter "WordUrl_642 = .php?wordid=644".
+Action.c(149): Notify: Saving Parameter "WordUrl_643 = .php?wordid=645".
+Action.c(149): Notify: Saving Parameter "WordUrl_644 = .php?wordid=646".
+Action.c(149): Notify: Saving Parameter "WordUrl_645 = .php?wordid=647".
+Action.c(149): Notify: Saving Parameter "WordUrl_646 = .php?wordid=648".
+Action.c(149): Notify: Saving Parameter "WordUrl_647 = .php?wordid=649".
+Action.c(149): Notify: Saving Parameter "WordUrl_648 = .php?wordid=650".
+Action.c(149): Notify: Saving Parameter "WordUrl_649 = .php?wordid=651".
+Action.c(149): Notify: Saving Parameter "WordUrl_650 = .php?wordid=652".
+Action.c(149): Notify: Saving Parameter "WordUrl_651 = .php?wordid=653".
+Action.c(149): Notify: Saving Parameter "WordUrl_652 = .php?wordid=654".
+Action.c(149): Notify: Saving Parameter "WordUrl_653 = .php?wordid=655".
+Action.c(149): Notify: Saving Parameter "WordUrl_654 = .php?wordid=656".
+Action.c(149): Notify: Saving Parameter "WordUrl_655 = .php?wordid=657".
+Action.c(149): Notify: Saving Parameter "WordUrl_656 = .php?wordid=658".
+Action.c(149): Notify: Saving Parameter "WordUrl_657 = .php?wordid=659".
+Action.c(149): Notify: Saving Parameter "WordUrl_658 = .php?wordid=660".
+Action.c(149): Notify: Saving Parameter "WordUrl_659 = .php?wordid=661".
+Action.c(149): Notify: Saving Parameter "WordUrl_660 = .php?wordid=662".
+Action.c(149): Notify: Saving Parameter "WordUrl_661 = .php?wordid=663".
+Action.c(149): Notify: Saving Parameter "WordUrl_662 = .php?wordid=664".
+Action.c(149): Notify: Saving Parameter "WordUrl_663 = .php?wordid=665".
+Action.c(149): Notify: Saving Parameter "WordUrl_664 = .php?wordid=666".
+Action.c(149): Notify: Saving Parameter "WordUrl_665 = .php?wordid=667".
+Action.c(149): Notify: Saving Parameter "WordUrl_666 = .php?wordid=668".
+Action.c(149): Notify: Saving Parameter "WordUrl_667 = .php?wordid=669".
+Action.c(149): Notify: Saving Parameter "WordUrl_668 = .php?wordid=670".
+Action.c(149): Notify: Saving Parameter "WordUrl_669 = .php?wordid=671".
+Action.c(149): Notify: Saving Parameter "WordUrl_670 = .php?wordid=672".
+Action.c(149): Resource "http://slovardalja.net/img/endpic.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(149): Resource "http://cdn-rtb.sape.ru/teasers/js/471/2/53471.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(149): Resource "http://www.google-analytics.com/urchin.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(149): Redirecting "http://counter.rambler.ru/top100.cnt?1439171" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(149): To location "https://counter.rambler.ru/top100.cnt?1439171"  	[MsgId: MMSG-26693]
+Action.c(149): Notify: Saving Parameter "WordUrl_count = 670".
+Action.c(149): web_url("letter.php") was successful, 8418 body bytes, 1016 header bytes  	[MsgId: MMSG-26386]
+Action.c(169): Notify: Parameter Substitution: parameter "WordUrl_count" =  "670"
+Action.c(173): indexEven = 211
+Action.c(189): indexEven4 = 212
+Action.c(194): Notify: Parameter Substitution: parameter "WordUrl_212" =  ".php?wordid=214"
+Action.c(194): Notify: Saving Parameter "WordUrlRandomIndexEven = .php?wordid=214".
+Action.c(197): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(197): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(208): Notify: Parameter Substitution: parameter "UC" =  "UC01"
+Action.c(208): Notify: Transaction "UC01_02_Нажимаю букву" ended with a "Pass" status (Duration: 0.2087 Wasted Time: 0.0333).
+Action.c(212): Notify: Parameter Substitution: parameter "UC" =  "UC01"
+Action.c(212): Notify: Transaction "UC01_03_Нажимаю слово" started.
+Action.c(212): Warning: Failed to get NV emulation handle.
+Action.c(217): web_url("word.php") started  	[MsgId: MMSG-26355]
+Action.c(217): Notify: Parameter Substitution: parameter "WordUrlRandomIndexEven" =  ".php?wordid=214"
+Action.c(217): Notify: Saving Parameter "Text = \n\n            \n\n            <p><strong>АЛЕМБИК  </strong></p><p>АЛЕМБИК  м. химич. шлем, колпак перегонного снаряда; | целый кубик, ручной или малый перегонный снаряд.\r\n</p>\n            \n\n            ".
+Action.c(217): Resource "http://slovardalja.net/style.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(217): Resource "http://newrrb.bid/1akds.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(217): Found resource "http://counter.rambler.ru/top100.cnt?1439171" in HTML "http://slovardalja.net/word.php?wordid=214"  	[MsgId: MMSG-26659]
+Action.c(217): Resource "http://slovardalja.net/img/Header.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(217): Resource "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(217): Resource "http://slovardalja.net/img/endpic.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(217): Resource "http://cdn-rtb.sape.ru/teasers/js/471/2/53471.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(217): Resource "http://www.google-analytics.com/urchin.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(217): Redirecting "http://counter.rambler.ru/top100.cnt?1439171" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(217): To location "https://counter.rambler.ru/top100.cnt?1439171"  	[MsgId: MMSG-26693]
+Action.c(217): web_url("word.php") was successful, 2427 body bytes, 1016 header bytes  	[MsgId: MMSG-26386]
+Action.c(239): Notify: Parameter Substitution: parameter "Text" =  "\n\n            \n\n            <p><strong>АЛЕМБИК  </strong></p><p>АЛЕМБИК  м. химич. шлем, колпак перегонного снаряда; | целый кубик, ручной или малый перегонный снаряд.\r\n</p>\n            \n\n            "
+Action.c(239): 
 
             
 
-            <p><strong>ЭРАТИЧЕСКИЕ  </strong></p><p>ЭРАТИЧЕСКИЕ  валуны, пере(при)носные, перекатные, заносные.
+            <p><strong>АЛЕМБИК  </strong></p><p>АЛЕМБИК  м. химич. шлем, колпак перегонного снаряда; | целый кубик, ручной или малый перегонный снаряд.
 </p>
             
 
             
-Action.c(238): Notify: Parameter Substitution: parameter "UC" =  "UC01"
-Action.c(238): Notify: Transaction "UC01_03_Нажимаю слово" ended with a "Pass" status (Duration: 0.1752 Wasted Time: 0.0060).
+Action.c(241): Notify: Parameter Substitution: parameter "UC" =  "UC01"
+Action.c(241): Notify: Transaction "UC01_03_Нажимаю слово" ended with a "Pass" status (Duration: 0.1115 Wasted Time: 0.0074).
 Ending action Action.
 Ending iteration 1.
 Ending Vuser...

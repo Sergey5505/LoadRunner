@@ -1,7 +1,10 @@
 Action()
 {
 	int arrSize;
-	int IndexEven;
+	int indexEven;
+	
+	double thinkTime;
+	thinkTime = lr_get_attrib_double("thinkTime");
 	
 	lr_save_string("UC01", "UC");
 	lr_start_transaction(lr_eval_string("{UC}_01_Загрузка словаря"));
@@ -136,7 +139,7 @@ Action()
    	 
    	 lr_end_transaction(lr_eval_string("{UC}_01_Загрузка словаря"), LR_AUTO);
    	 
-   	 lr_think_time(10);
+   	 lr_think_time(thinkTime);
    	 
    	 lr_start_transaction(lr_eval_string("{UC}_02_Нажимаю букву"));
    	 
@@ -166,29 +169,29 @@ Action()
 	 arrSize = lr_paramarr_len("WordUrl");
     
 	//	 rand() генерирует число и далее вычисляется остаток от деления на arrSize от этого числа
-	 IndexEven = rand() % arrSize + 1;
-	 	lr_output_message("IndexEven = %d", IndexEven);
+	 indexEven = rand() % arrSize + 1;
+	 	lr_output_message("indexEven = %d", indexEven);
 	 
-	 if (IndexEven % 2 != 0) {
+	 if (indexEven % 2 != 0) {
 	 	
-	 	if (IndexEven == arrSize){
-	 		IndexEven--;
-	  		lr_output_message("IndexEven2 = %d", IndexEven);
+	 	if (indexEven == arrSize){
+	 		indexEven--;
+	  		lr_output_message("indexEven2 = %d", indexEven);
 		 	}
 	 	
-	 	else if (IndexEven == 1){
-	 		IndexEven++;
-	 	 	lr_output_message("IndexEven3 = %d", IndexEven);
+	 	else if (indexEven == 1){
+	 		indexEven++;
+	 	 	lr_output_message("indexEven3 = %d", indexEven);
 	 	}
 	 	
 	 	else {
-	 		IndexEven++;
-	 		lr_output_message("IndexEven4 = %d", IndexEven);
+	 		indexEven++;
+	 		lr_output_message("indexEven4 = %d", indexEven);
 	 	}
 	 }
 	 
 	 // Сохраняем четный индекс рандомного числа в параметр "WordUrlRandomIndexEven"
-	 lr_save_string(lr_paramarr_idx("WordUrl", IndexEven), "WordUrlRandomIndexEven");
+	 lr_save_string(lr_paramarr_idx("WordUrl", indexEven), "WordUrlRandomIndexEven");
 	 
 	 	 
 	  web_reg_save_param_ex(
@@ -204,7 +207,7 @@ Action()
 	
 	 lr_end_transaction(lr_eval_string("{UC}_02_Нажимаю букву"), LR_AUTO);
 	 
-	 lr_think_time(10);
+	 lr_think_time(thinkTime);
    	 
    	 lr_start_transaction(lr_eval_string("{UC}_03_Нажимаю слово"));
 
