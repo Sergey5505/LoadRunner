@@ -1,0 +1,3482 @@
+﻿[General]
+TableCount=19
+
+[Table_0]
+FactTableName=Breakdown_meter
+DimensionCount=25
+
+[Breakdown_meter_Dim0]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Breakdown_map
+NumValues=4
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=4
+Dim_0=APPLICATION
+Dim_1=IMAGE
+Dim_2=Page
+Dim_3=TEXT
+LikeMode=0
+
+[Breakdown_meter_Dim1]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Breakdown_map
+NumValues=15
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=15
+Dim_0=cdn-rtb.../471/2/53471.js
+Dim_1=counte...u/top100.cnt?1439171
+Dim_2=counter....00.cnt?1439171
+Dim_3=newrrb.bid/1akds.min.js
+Dim_4=pagead...s/adsbygoogle.js
+Dim_5=slovar...t/img/endpic.jpg
+Dim_6=slovar...t/img/Header.jpg
+Dim_7=slovarda...hp?charkod=216
+Dim_8=slovarda...hp?charkod=216 (main URL)
+Dim_9=slovarda...p?wordid=43394
+Dim_10=slovarda...p?wordid=43394 (main URL)
+Dim_11=slovardalja.net
+Dim_12=slovardalja.net (main URL)
+Dim_13=slovardalja.net/style.css
+Dim_14=www.go...cs.com/urchin.js
+LikeMode=0
+
+[Breakdown_meter_Dim2]
+InternalDimName=Connection
+Dimension=Connection
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=1.290000
+
+[Breakdown_meter_Dim3]
+InternalDimName=Value
+Dimension=Value
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=15
+DimensionType=RelatedContinuous
+BaseDimension=Event Name
+DimCount=45
+Dim_0=0.062469
+Dim_1=1.077093
+Dim_2=cdn-rtb.../471/2/53471.js
+Dim_3=0.031194
+Dim_4=0.468758
+Dim_5=counte...u/top100.cnt?1439171
+Dim_6=0.000000
+Dim_7=0.218758
+Dim_8=counter....00.cnt?1439171
+Dim_9=0.062501
+Dim_10=1.099451
+Dim_11=newrrb.bid/1akds.min.js
+Dim_12=0.090295
+Dim_13=1.083946
+Dim_14=pagead...s/adsbygoogle.js
+Dim_15=0.040057
+Dim_16=1.076941
+Dim_17=slovar...t/img/endpic.jpg
+Dim_18=0.041048
+Dim_19=1.083112
+Dim_20=slovar...t/img/Header.jpg
+Dim_21=0.046827
+Dim_22=0.437493
+Dim_23=slovarda...hp?charkod=216
+Dim_24=0.093750
+Dim_25=0.681363
+Dim_26=slovarda...hp?charkod=216 (main URL)
+Dim_27=0.015625
+Dim_28=0.267423
+Dim_29=slovarda...p?wordid=43394
+Dim_30=0.093699
+Dim_31=0.548732
+Dim_32=slovarda...p?wordid=43394 (main URL)
+Dim_33=0.046931
+Dim_34=0.266687
+Dim_35=slovardalja.net
+Dim_36=0.157368
+Dim_37=1.328114
+Dim_38=slovardalja.net (main URL)
+Dim_39=0.032362
+Dim_40=1.099296
+Dim_41=slovardalja.net/style.css
+Dim_42=0.031250
+Dim_43=1.097450
+Dim_44=www.go...cs.com/urchin.js
+
+[Breakdown_meter_Dim4]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[Breakdown_meter_Dim5]
+InternalDimName=Size
+Dimension=Size
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.466797
+Dim_1=107.190430
+
+[Breakdown_meter_Dim6]
+InternalDimName=DNS Resolution
+Dimension=DNS Resolution
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.143000
+
+[Breakdown_meter_Dim7]
+InternalDimName=SendSize
+Dimension=SendSize
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.263672
+Dim_1=3.141602
+
+[Breakdown_meter_Dim8]
+InternalDimName=First Buffer
+Dimension=First Buffer
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=6.437000
+
+[Breakdown_meter_Dim9]
+InternalDimName=SSL Handshaking
+Dimension=SSL Handshaking
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.199000
+
+[Breakdown_meter_Dim10]
+InternalDimName=Network
+Dimension=Network
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=1.050000
+
+[Breakdown_meter_Dim11]
+InternalDimName=Server
+Dimension=Server
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=5.387000
+
+[Breakdown_meter_Dim12]
+InternalDimName=Error
+Dimension=Error
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Breakdown_meter_Dim13]
+InternalDimName=Client
+Dimension=Client
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.017000
+
+[Breakdown_meter_Dim14]
+InternalDimName=Receive
+Dimension=Receive
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.151000
+
+[Breakdown_meter_Dim15]
+InternalDimName=FTP Authentication
+Dimension=FTP Authentication
+EqualFlag=1
+DimensionTableName=Breakdown_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Breakdown_meter_Dim16]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=N/A
+LikeMode=0
+
+[Breakdown_meter_Dim17]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=localhost
+LikeMode=0
+
+[Breakdown_meter_Dim18]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=19
+Dim_0=1
+Dim_1=2
+Dim_2=3
+Dim_3=4
+Dim_4=5
+Dim_5=6
+Dim_6=7
+Dim_7=8
+Dim_8=9
+Dim_9=10
+Dim_10=11
+Dim_11=13
+Dim_12=14
+Dim_13=15
+Dim_14=16
+Dim_15=18
+Dim_16=19
+Dim_17=20
+Dim_18=21
+AsParent=1
+BasedOnTableName=
+
+[Breakdown_meter_Dim19]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Breakdown_meter_Dim20]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[Breakdown_meter_Dim21]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[Breakdown_meter_Dim22]
+InternalDimName=Transaction End Status
+Dimension=Transaction End Status
+EqualFlag=1
+DimensionTableName=TransactionEndStatus
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Fail
+Dim_1=Pass
+Dim_2=Stop
+LikeMode=0
+
+[Breakdown_meter_Dim23]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[Breakdown_meter_Dim24]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1 - 14
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_1]
+FactTableName=DataPoint_meter
+DimensionCount=11
+
+[DataPoint_meter_Dim0]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=DataPoint_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[DataPoint_meter_Dim1]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=15
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=15
+Dim_0=Connection Shutdowns
+Dim_1=Connections
+Dim_2=Error -26377
+Dim_3=Error -26627
+Dim_4=Hits
+Dim_5=HTTP_200
+Dim_6=HTTP_307
+Dim_7=HTTP_404
+Dim_8=New Connections
+Dim_9=New Sessions
+Dim_10=Reused Sessions
+Dim_11=Throughput
+Dim_12=UC01_01_Загрузка словаря
+Dim_13=UC01_02_Нажимаю букву
+Dim_14=UC01_03_Нажимаю слово
+LikeMode=0
+
+[DataPoint_meter_Dim2]
+InternalDimName=Value
+Dimension=Value
+EqualFlag=1
+DimensionTableName=DataPoint_meter
+NumValues=5
+DimensionType=RelatedContinuous
+BaseDimension=Event Name
+DimCount=15
+Dim_0=1.000000
+Dim_1=11.000000
+Dim_2=Connection Shutdowns
+Dim_3=-9.000000
+Dim_4=9.000000
+Dim_5=Connections
+Dim_6=1.000000
+Dim_7=10.000000
+Dim_8=New Connections
+Dim_9=1.000000
+Dim_10=1.000000
+Dim_11=New Sessions
+Dim_12=1.000000
+Dim_13=1.000000
+Dim_14=Reused Sessions
+
+[DataPoint_meter_Dim3]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=6
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=6
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=SSLs
+Dim_4=Transaction
+Dim_5=Web
+LikeMode=0
+
+[DataPoint_meter_Dim4]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=N/A
+LikeMode=0
+
+[DataPoint_meter_Dim5]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=localhost
+LikeMode=0
+
+[DataPoint_meter_Dim6]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[DataPoint_meter_Dim7]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[DataPoint_meter_Dim8]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[DataPoint_meter_Dim9]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[DataPoint_meter_Dim10]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1 - 14
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_2]
+FactTableName=Diagnostic_meter
+DimensionCount=7
+
+[Diagnostic_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=15
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=15
+Dim_0=Connection Shutdowns
+Dim_1=Connections
+Dim_2=Error -26377
+Dim_3=Error -26627
+Dim_4=Hits
+Dim_5=HTTP_200
+Dim_6=HTTP_307
+Dim_7=HTTP_404
+Dim_8=New Connections
+Dim_9=New Sessions
+Dim_10=Reused Sessions
+Dim_11=Throughput
+Dim_12=UC01_01_Загрузка словаря
+Dim_13=UC01_02_Нажимаю букву
+Dim_14=UC01_03_Нажимаю слово
+LikeMode=0
+
+[Diagnostic_meter_Dim1]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Diagnostic_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[Diagnostic_meter_Dim2]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[Diagnostic_meter_Dim3]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=6
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=6
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=SSLs
+Dim_4=Transaction
+Dim_5=Web
+LikeMode=0
+
+[Diagnostic_meter_Dim4]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=N/A
+LikeMode=0
+
+[Diagnostic_meter_Dim5]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=localhost
+LikeMode=0
+
+[Diagnostic_meter_Dim6]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Table_3]
+FactTableName=Error_meter
+DimensionCount=14
+
+[Error_meter_Dim0]
+InternalDimName=Father ID
+Dimension=Father ID
+EqualFlag=1
+DimensionTableName=Error_meter
+NumValues=1
+DimensionType=DiscreteNumber
+UseEscapeSequence=1
+DimCount=1
+Dim_0=10
+LikeMode=0
+
+[Error_meter_Dim1]
+InternalDimName=Line Number
+Dimension=Line Number
+EqualFlag=1
+DimensionTableName=Error_meter
+NumValues=1
+DimensionType=DiscreteNumber
+UseEscapeSequence=1
+DimCount=1
+Dim_0=217
+LikeMode=0
+
+[Error_meter_Dim2]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Error_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[Error_meter_Dim3]
+InternalDimName=Error Message
+Dimension=Error Message
+EqualFlag=1
+DimensionTableName=ErrorMessage
+NumValues=205
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=205
+Dim_0=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_100
+Dim_1=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_101
+Dim_2=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_102
+Dim_3=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_103
+Dim_4=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_104
+Dim_5=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_105
+Dim_6=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_106
+Dim_7=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_107
+Dim_8=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_108
+Dim_9=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_109
+Dim_10=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_110
+Dim_11=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_111
+Dim_12=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_112
+Dim_13=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_113
+Dim_14=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_114
+Dim_15=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_115
+Dim_16=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_116
+Dim_17=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_117
+Dim_18=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_118
+Dim_19=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_119
+Dim_20=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_120
+Dim_21=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_121
+Dim_22=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_122
+Dim_23=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_123
+Dim_24=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_124
+Dim_25=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_125
+Dim_26=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_126
+Dim_27=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_127
+Dim_28=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_128
+Dim_29=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_129
+Dim_30=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_130
+Dim_31=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_131
+Dim_32=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_132
+Dim_33=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_133
+Dim_34=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_134
+Dim_35=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_135
+Dim_36=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_136
+Dim_37=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_137
+Dim_38=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_138
+Dim_39=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_139
+Dim_40=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_140
+Dim_41=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_141
+Dim_42=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_142
+Dim_43=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_143
+Dim_44=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_144
+Dim_45=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_145
+Dim_46=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_146
+Dim_47=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_147
+Dim_48=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_148
+Dim_49=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_149
+Dim_50=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_150
+Dim_51=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_151
+Dim_52=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_152
+Dim_53=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_153
+Dim_54=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_154
+Dim_55=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_155
+Dim_56=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_156
+Dim_57=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_157
+Dim_58=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_158
+Dim_59=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_159
+Dim_60=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_160
+Dim_61=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_161
+Dim_62=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_162
+Dim_63=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_163
+Dim_64=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_164
+Dim_65=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_165
+Dim_66=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_166
+Dim_67=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_167
+Dim_68=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_168
+Dim_69=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_169
+Dim_70=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_170
+Dim_71=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_171
+Dim_72=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_172
+Dim_73=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_173
+Dim_74=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_174
+Dim_75=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_175
+Dim_76=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_176
+Dim_77=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_177
+Dim_78=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_178
+Dim_79=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_179
+Dim_80=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_180
+Dim_81=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_181
+Dim_82=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_182
+Dim_83=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_183
+Dim_84=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_184
+Dim_85=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_185
+Dim_86=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_186
+Dim_87=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_187
+Dim_88=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_188
+Dim_89=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_189
+Dim_90=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_190
+Dim_91=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_191
+Dim_92=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_192
+Dim_93=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_193
+Dim_94=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_194
+Dim_95=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_195
+Dim_96=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_196
+Dim_97=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_197
+Dim_98=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_198
+Dim_99=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_199
+Dim_100=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_200
+Dim_101=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_201
+Dim_102=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_202
+Dim_103=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_203
+Dim_104=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total le_204
+Dim_105=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_10
+Dim_106=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_11
+Dim_107=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_12
+Dim_108=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_13
+Dim_109=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_14
+Dim_110=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_15
+Dim_111=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_16
+Dim_112=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_17
+Dim_113=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_18
+Dim_114=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_19
+Dim_115=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_20
+Dim_116=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_21
+Dim_117=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_22
+Dim_118=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_23
+Dim_119=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_24
+Dim_120=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_25
+Dim_121=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_26
+Dim_122=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_27
+Dim_123=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_28
+Dim_124=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_29
+Dim_125=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_30
+Dim_126=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_31
+Dim_127=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_32
+Dim_128=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_33
+Dim_129=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_34
+Dim_130=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_35
+Dim_131=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_36
+Dim_132=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_37
+Dim_133=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_38
+Dim_134=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_39
+Dim_135=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_40
+Dim_136=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_41
+Dim_137=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_42
+Dim_138=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_43
+Dim_139=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_44
+Dim_140=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_45
+Dim_141=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_46
+Dim_142=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_47
+Dim_143=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_48
+Dim_144=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_49
+Dim_145=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_50
+Dim_146=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_51
+Dim_147=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_52
+Dim_148=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_53
+Dim_149=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_54
+Dim_150=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_55
+Dim_151=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_56
+Dim_152=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_57
+Dim_153=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_58
+Dim_154=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_59
+Dim_155=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_60
+Dim_156=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_61
+Dim_157=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_62
+Dim_158=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_63
+Dim_159=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_64
+Dim_160=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_65
+Dim_161=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_66
+Dim_162=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_67
+Dim_163=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_68
+Dim_164=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_69
+Dim_165=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_70
+Dim_166=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_71
+Dim_167=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_72
+Dim_168=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_73
+Dim_169=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_74
+Dim_170=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_75
+Dim_171=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_76
+Dim_172=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_77
+Dim_173=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_78
+Dim_174=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_79
+Dim_175=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_80
+Dim_176=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_81
+Dim_177=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_82
+Dim_178=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_83
+Dim_179=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_84
+Dim_180=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_85
+Dim_181=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_86
+Dim_182=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_87
+Dim_183=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_88
+Dim_184=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_89
+Dim_185=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_90
+Dim_186=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_91
+Dim_187=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_92
+Dim_188=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_93
+Dim_189=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_94
+Dim_190=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_95
+Dim_191=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_96
+Dim_192=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_97
+Dim_193=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_98
+Dim_194=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total len_99
+Dim_195=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total leng_0
+Dim_196=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total leng_2
+Dim_197=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total leng_3
+Dim_198=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total leng_4
+Dim_199=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total leng_5
+Dim_200=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total leng_6
+Dim_201=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total leng_7
+Dim_202=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total leng_8
+Dim_203=Action.c(217) Continuing after Error -26377 No match found for the requested parameter "Text". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total leng_9
+Dim_204=Action.c(217) Continuing after Error -26627 HTTP Status-Code=404 (Not Found) for "http//slovardalja.net/word{WordUrl_0}"
+LikeMode=0
+
+[Error_meter_Dim4]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=15
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=15
+Dim_0=Connection Shutdowns
+Dim_1=Connections
+Dim_2=Error -26377
+Dim_3=Error -26627
+Dim_4=Hits
+Dim_5=HTTP_200
+Dim_6=HTTP_307
+Dim_7=HTTP_404
+Dim_8=New Connections
+Dim_9=New Sessions
+Dim_10=Reused Sessions
+Dim_11=Throughput
+Dim_12=UC01_01_Загрузка словаря
+Dim_13=UC01_02_Нажимаю букву
+Dim_14=UC01_03_Нажимаю слово
+LikeMode=0
+
+[Error_meter_Dim5]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=6
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=6
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=SSLs
+Dim_4=Transaction
+Dim_5=Web
+LikeMode=0
+
+[Error_meter_Dim6]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=N/A
+LikeMode=0
+
+[Error_meter_Dim7]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=localhost
+LikeMode=0
+
+[Error_meter_Dim8]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Error_meter_Dim9]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[Error_meter_Dim10]
+InternalDimName=Action Name
+Dimension=Action Name
+EqualFlag=1
+DimensionTableName=ScriptActions
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=Action
+LikeMode=0
+
+[Error_meter_Dim11]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[Error_meter_Dim12]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[Error_meter_Dim13]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1 - 14
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_4]
+FactTableName=Event_meter
+DimensionCount=13
+
+[Event_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=15
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=15
+Dim_0=Connection Shutdowns
+Dim_1=Connections
+Dim_2=Error -26377
+Dim_3=Error -26627
+Dim_4=Hits
+Dim_5=HTTP_200
+Dim_6=HTTP_307
+Dim_7=HTTP_404
+Dim_8=New Connections
+Dim_9=New Sessions
+Dim_10=Reused Sessions
+Dim_11=Throughput
+Dim_12=UC01_01_Загрузка словаря
+Dim_13=UC01_02_Нажимаю букву
+Dim_14=UC01_03_Нажимаю слово
+LikeMode=0
+
+[Event_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=6
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=6
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=SSLs
+Dim_4=Transaction
+Dim_5=Web
+LikeMode=0
+
+[Event_meter_Dim2]
+InternalDimName=Value
+Dimension=Value
+EqualFlag=1
+DimensionTableName=Event_meter
+NumValues=3
+DimensionType=RelatedContinuous
+BaseDimension=Event Name
+DimCount=9
+Dim_0=0.000000
+Dim_1=1.413067
+Dim_2=UC01_01_Загрузка словаря
+Dim_3=0.000000
+Dim_4=1.459961
+Dim_5=UC01_02_Нажимаю букву
+Dim_6=0.000000
+Dim_7=1.583890
+Dim_8=UC01_03_Нажимаю слово
+
+[Event_meter_Dim3]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Event_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[Event_meter_Dim4]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=N/A
+LikeMode=0
+
+[Event_meter_Dim5]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=localhost
+LikeMode=0
+
+[Event_meter_Dim6]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=3
+Dim_0=0
+Dim_1=12
+Dim_2=17
+AsParent=1
+BasedOnTableName=
+
+[Event_meter_Dim7]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Event_meter_Dim8]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[Event_meter_Dim9]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[Event_meter_Dim10]
+InternalDimName=Transaction End Status
+Dimension=Transaction End Status
+EqualFlag=1
+DimensionTableName=TransactionEndStatus
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Fail
+Dim_1=Pass
+Dim_2=Stop
+LikeMode=0
+
+[Event_meter_Dim11]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[Event_meter_Dim12]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1 - 14
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_5]
+FactTableName=J2EETBD_meter
+DimensionCount=7
+
+[J2EETBD_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=15
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=15
+Dim_0=Connection Shutdowns
+Dim_1=Connections
+Dim_2=Error -26377
+Dim_3=Error -26627
+Dim_4=Hits
+Dim_5=HTTP_200
+Dim_6=HTTP_307
+Dim_7=HTTP_404
+Dim_8=New Connections
+Dim_9=New Sessions
+Dim_10=Reused Sessions
+Dim_11=Throughput
+Dim_12=UC01_01_Загрузка словаря
+Dim_13=UC01_02_Нажимаю букву
+Dim_14=UC01_03_Нажимаю слово
+LikeMode=0
+
+[J2EETBD_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=6
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=6
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=SSLs
+Dim_4=Transaction
+Dim_5=Web
+LikeMode=0
+
+[J2EETBD_meter_Dim2]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=J2EETBD_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[J2EETBD_meter_Dim3]
+InternalDimName=Num Exception
+Dimension=Num Exception
+EqualFlag=1
+DimensionTableName=J2EETBD_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[J2EETBD_meter_Dim4]
+InternalDimName=Num Timeout
+Dimension=Num Timeout
+EqualFlag=1
+DimensionTableName=J2EETBD_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[J2EETBD_meter_Dim5]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[J2EETBD_meter_Dim6]
+InternalDimName=Transaction End Status
+Dimension=Transaction End Status
+EqualFlag=1
+DimensionTableName=TransactionEndStatus
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Fail
+Dim_1=Pass
+Dim_2=Stop
+LikeMode=0
+
+[Table_6]
+FactTableName=J2EETBD_Net_meter
+DimensionCount=6
+
+[J2EETBD_Net_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=15
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=15
+Dim_0=Connection Shutdowns
+Dim_1=Connections
+Dim_2=Error -26377
+Dim_3=Error -26627
+Dim_4=Hits
+Dim_5=HTTP_200
+Dim_6=HTTP_307
+Dim_7=HTTP_404
+Dim_8=New Connections
+Dim_9=New Sessions
+Dim_10=Reused Sessions
+Dim_11=Throughput
+Dim_12=UC01_01_Загрузка словаря
+Dim_13=UC01_02_Нажимаю букву
+Dim_14=UC01_03_Нажимаю слово
+LikeMode=0
+
+[J2EETBD_Net_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=6
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=6
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=SSLs
+Dim_4=Transaction
+Dim_5=Web
+LikeMode=0
+
+[J2EETBD_Net_meter_Dim2]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=J2EETBD_Net_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[J2EETBD_Net_meter_Dim3]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=22
+Dim_0=0
+Dim_1=1
+Dim_2=2
+Dim_3=3
+Dim_4=4
+Dim_5=5
+Dim_6=6
+Dim_7=7
+Dim_8=8
+Dim_9=9
+Dim_10=10
+Dim_11=11
+Dim_12=12
+Dim_13=13
+Dim_14=14
+Dim_15=15
+Dim_16=16
+Dim_17=17
+Dim_18=18
+Dim_19=19
+Dim_20=20
+Dim_21=21
+AsParent=1
+BasedOnTableName=
+
+[J2EETBD_Net_meter_Dim4]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[J2EETBD_Net_meter_Dim5]
+InternalDimName=Transaction End Status
+Dimension=Transaction End Status
+EqualFlag=1
+DimensionTableName=TransactionEndStatus
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Fail
+Dim_1=Pass
+Dim_2=Stop
+LikeMode=0
+
+[Table_7]
+FactTableName=Monitor_meter
+DimensionCount=7
+
+[Monitor_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=15
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=15
+Dim_0=Connection Shutdowns
+Dim_1=Connections
+Dim_2=Error -26377
+Dim_3=Error -26627
+Dim_4=Hits
+Dim_5=HTTP_200
+Dim_6=HTTP_307
+Dim_7=HTTP_404
+Dim_8=New Connections
+Dim_9=New Sessions
+Dim_10=Reused Sessions
+Dim_11=Throughput
+Dim_12=UC01_01_Загрузка словаря
+Dim_13=UC01_02_Нажимаю букву
+Dim_14=UC01_03_Нажимаю слово
+LikeMode=0
+
+[Monitor_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=6
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=6
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=SSLs
+Dim_4=Transaction
+Dim_5=Web
+LikeMode=0
+
+[Monitor_meter_Dim2]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=N/A
+LikeMode=0
+
+[Monitor_meter_Dim3]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=localhost
+LikeMode=0
+
+[Monitor_meter_Dim4]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Monitor_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[Monitor_meter_Dim5]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[Monitor_meter_Dim6]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Table_8]
+FactTableName=Sap_osm_meter
+DimensionCount=6
+
+[Sap_osm_meter_Dim0]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Sap_osm_meter_Dim1]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Sap_osm_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[Sap_osm_meter_Dim2]
+InternalDimName=PageOutKB
+Dimension=PageOutKB
+EqualFlag=1
+DimensionTableName=Sap_osm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_osm_meter_Dim3]
+InternalDimName=PageInKB
+Dimension=PageInKB
+EqualFlag=1
+DimensionTableName=Sap_osm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_osm_meter_Dim4]
+InternalDimName=Disks
+Dimension=Disks
+EqualFlag=1
+DimensionTableName=Sap_osm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_osm_meter_Dim5]
+InternalDimName=CPU
+Dimension=CPU
+EqualFlag=1
+DimensionTableName=Sap_osm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Table_9]
+FactTableName=Sap_sr_meter
+DimensionCount=34
+
+[Sap_sr_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=15
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=15
+Dim_0=Connection Shutdowns
+Dim_1=Connections
+Dim_2=Error -26377
+Dim_3=Error -26627
+Dim_4=Hits
+Dim_5=HTTP_200
+Dim_6=HTTP_307
+Dim_7=HTTP_404
+Dim_8=New Connections
+Dim_9=New Sessions
+Dim_10=Reused Sessions
+Dim_11=Throughput
+Dim_12=UC01_01_Загрузка словаря
+Dim_13=UC01_02_Нажимаю букву
+Dim_14=UC01_03_Нажимаю слово
+LikeMode=0
+
+[Sap_sr_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=6
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=6
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=SSLs
+Dim_4=Transaction
+Dim_5=Web
+LikeMode=0
+
+[Sap_sr_meter_Dim2]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=localhost
+LikeMode=0
+
+[Sap_sr_meter_Dim3]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=N/A
+LikeMode=0
+
+[Sap_sr_meter_Dim4]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=22
+Dim_0=0
+Dim_1=1
+Dim_2=2
+Dim_3=3
+Dim_4=4
+Dim_5=5
+Dim_6=6
+Dim_7=7
+Dim_8=8
+Dim_9=9
+Dim_10=10
+Dim_11=11
+Dim_12=12
+Dim_13=13
+Dim_14=14
+Dim_15=15
+Dim_16=16
+Dim_17=17
+Dim_18=18
+Dim_19=19
+Dim_20=20
+Dim_21=21
+AsParent=1
+BasedOnTableName=
+
+[Sap_sr_meter_Dim5]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Sap_sr_meter_Dim6]
+InternalDimName=Roll In Time
+Dimension=Roll In Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim7]
+InternalDimName=Output Len
+Dimension=Output Len
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim8]
+InternalDimName=Input Len
+Dimension=Input Len
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim9]
+InternalDimName=Queue Time
+Dimension=Queue Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim10]
+InternalDimName=Cpu Time
+Dimension=Cpu Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim11]
+InternalDimName=Resp Time
+Dimension=Resp Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim12]
+InternalDimName=Lock Time
+Dimension=Lock Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim13]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[Sap_sr_meter_Dim14]
+InternalDimName=Database Time
+Dimension=Database Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim15]
+InternalDimName=Start Time
+Dimension=Start Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim16]
+InternalDimName=Rfc Time
+Dimension=Rfc Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim17]
+InternalDimName=Network Time
+Dimension=Network Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim18]
+InternalDimName=End-User Time
+Dimension=End-User Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim19]
+InternalDimName=GuiNet Time
+Dimension=GuiNet Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim20]
+InternalDimName=Roll Out Time
+Dimension=Roll Out Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim21]
+InternalDimName=Roll Wait Time
+Dimension=Roll Wait Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim22]
+InternalDimName=Cuaload Time
+Dimension=Cuaload Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim23]
+InternalDimName=Dynpload Time
+Dimension=Dynpload Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim24]
+InternalDimName=Repload Time
+Dimension=Repload Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim25]
+InternalDimName=Generate Time
+Dimension=Generate Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim26]
+InternalDimName=Commit Time
+Dimension=Commit Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim27]
+InternalDimName=DB Time to Record
+Dimension=DB Time to Record
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim28]
+InternalDimName=Database Records
+Dimension=Database Records
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim29]
+InternalDimName=Gui Time
+Dimension=Gui Time
+EqualFlag=1
+DimensionTableName=Sap_sr_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_sr_meter_Dim30]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[Sap_sr_meter_Dim31]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[Sap_sr_meter_Dim32]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[Sap_sr_meter_Dim33]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1 - 14
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_10]
+FactTableName=Sap_wpm_meter
+DimensionCount=8
+
+[Sap_wpm_meter_Dim0]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[Sap_wpm_meter_Dim1]
+InternalDimName=StoppedOther
+Dimension=StoppedOther
+EqualFlag=1
+DimensionTableName=Sap_wpm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_wpm_meter_Dim2]
+InternalDimName=StoppedPRIV
+Dimension=StoppedPRIV
+EqualFlag=1
+DimensionTableName=Sap_wpm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_wpm_meter_Dim3]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=Sap_wpm_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[Sap_wpm_meter_Dim4]
+InternalDimName=Ended
+Dimension=Ended
+EqualFlag=1
+DimensionTableName=Sap_wpm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_wpm_meter_Dim5]
+InternalDimName=StoppedCPIC
+Dimension=StoppedCPIC
+EqualFlag=1
+DimensionTableName=Sap_wpm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_wpm_meter_Dim6]
+InternalDimName=Running
+Dimension=Running
+EqualFlag=1
+DimensionTableName=Sap_wpm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Sap_wpm_meter_Dim7]
+InternalDimName=Waiting
+Dimension=Waiting
+EqualFlag=1
+DimensionTableName=Sap_wpm_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[Table_11]
+FactTableName=SARM_meter
+DimensionCount=12
+
+[SARM_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=15
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=15
+Dim_0=Connection Shutdowns
+Dim_1=Connections
+Dim_2=Error -26377
+Dim_3=Error -26627
+Dim_4=Hits
+Dim_5=HTTP_200
+Dim_6=HTTP_307
+Dim_7=HTTP_404
+Dim_8=New Connections
+Dim_9=New Sessions
+Dim_10=Reused Sessions
+Dim_11=Throughput
+Dim_12=UC01_01_Загрузка словаря
+Dim_13=UC01_02_Нажимаю букву
+Dim_14=UC01_03_Нажимаю слово
+LikeMode=0
+
+[SARM_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=6
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=6
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=SSLs
+Dim_4=Transaction
+Dim_5=Web
+LikeMode=0
+
+[SARM_meter_Dim2]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=N/A
+LikeMode=0
+
+[SARM_meter_Dim3]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=localhost
+LikeMode=0
+
+[SARM_meter_Dim4]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=22
+Dim_0=0
+Dim_1=1
+Dim_2=2
+Dim_3=3
+Dim_4=4
+Dim_5=5
+Dim_6=6
+Dim_7=7
+Dim_8=8
+Dim_9=9
+Dim_10=10
+Dim_11=11
+Dim_12=12
+Dim_13=13
+Dim_14=14
+Dim_15=15
+Dim_16=16
+Dim_17=17
+Dim_18=18
+Dim_19=19
+Dim_20=20
+Dim_21=21
+AsParent=1
+BasedOnTableName=
+
+[SARM_meter_Dim5]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[SARM_meter_Dim6]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=SARM_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[SARM_meter_Dim7]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[SARM_meter_Dim8]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[SARM_meter_Dim9]
+InternalDimName=Transaction End Status
+Dimension=Transaction End Status
+EqualFlag=1
+DimensionTableName=TransactionEndStatus
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Fail
+Dim_1=Pass
+Dim_2=Stop
+LikeMode=0
+
+[SARM_meter_Dim10]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[SARM_meter_Dim11]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1 - 14
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_12]
+FactTableName=SARM_Net_meter
+DimensionCount=11
+
+[SARM_Net_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=15
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=15
+Dim_0=Connection Shutdowns
+Dim_1=Connections
+Dim_2=Error -26377
+Dim_3=Error -26627
+Dim_4=Hits
+Dim_5=HTTP_200
+Dim_6=HTTP_307
+Dim_7=HTTP_404
+Dim_8=New Connections
+Dim_9=New Sessions
+Dim_10=Reused Sessions
+Dim_11=Throughput
+Dim_12=UC01_01_Загрузка словаря
+Dim_13=UC01_02_Нажимаю букву
+Dim_14=UC01_03_Нажимаю слово
+LikeMode=0
+
+[SARM_Net_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=6
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=6
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=SSLs
+Dim_4=Transaction
+Dim_5=Web
+LikeMode=0
+
+[SARM_Net_meter_Dim2]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=N/A
+LikeMode=0
+
+[SARM_Net_meter_Dim3]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=localhost
+LikeMode=0
+
+[SARM_Net_meter_Dim4]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=22
+Dim_0=0
+Dim_1=1
+Dim_2=2
+Dim_3=3
+Dim_4=4
+Dim_5=5
+Dim_6=6
+Dim_7=7
+Dim_8=8
+Dim_9=9
+Dim_10=10
+Dim_11=11
+Dim_12=12
+Dim_13=13
+Dim_14=14
+Dim_15=15
+Dim_16=16
+Dim_17=17
+Dim_18=18
+Dim_19=19
+Dim_20=20
+Dim_21=21
+AsParent=1
+BasedOnTableName=
+
+[SARM_Net_meter_Dim5]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[SARM_Net_meter_Dim6]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=SARM_Net_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[SARM_Net_meter_Dim7]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[SARM_Net_meter_Dim8]
+InternalDimName=Transaction End Status
+Dimension=Transaction End Status
+EqualFlag=1
+DimensionTableName=TransactionEndStatus
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Fail
+Dim_1=Pass
+Dim_2=Stop
+LikeMode=0
+
+[SARM_Net_meter_Dim9]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[SARM_Net_meter_Dim10]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1 - 14
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_13]
+FactTableName=SQLBD_meter
+DimensionCount=12
+
+[SQLBD_meter_Dim0]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=localhost
+LikeMode=0
+
+[SQLBD_meter_Dim1]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=N/A
+LikeMode=0
+
+[SQLBD_meter_Dim2]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[SQLBD_meter_Dim3]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[SQLBD_meter_Dim4]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[SQLBD_meter_Dim5]
+InternalDimName=Other Time
+Dimension=Other Time
+EqualFlag=1
+DimensionTableName=SQLBD_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[SQLBD_meter_Dim6]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=SQLBD_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[SQLBD_meter_Dim7]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1 - 14
+Dim_1=Dummy2
+LikeMode=0
+
+[SQLBD_meter_Dim8]
+InternalDimName=Prepare
+Dimension=Prepare
+EqualFlag=1
+DimensionTableName=SQLBD_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[SQLBD_meter_Dim9]
+InternalDimName=Execute
+Dimension=Execute
+EqualFlag=1
+DimensionTableName=SQLBD_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[SQLBD_meter_Dim10]
+InternalDimName=Initial Fetch
+Dimension=Initial Fetch
+EqualFlag=1
+DimensionTableName=SQLBD_meter
+NumValues=1
+DimensionType=ContinuousNumber
+DimCount=2
+Dim_0=0.000000
+Dim_1=0.000000
+
+[SQLBD_meter_Dim11]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[Table_14]
+FactTableName=TruClientBreakDown_meter
+DimensionCount=11
+
+[TruClientBreakDown_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=15
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=15
+Dim_0=Connection Shutdowns
+Dim_1=Connections
+Dim_2=Error -26377
+Dim_3=Error -26627
+Dim_4=Hits
+Dim_5=HTTP_200
+Dim_6=HTTP_307
+Dim_7=HTTP_404
+Dim_8=New Connections
+Dim_9=New Sessions
+Dim_10=Reused Sessions
+Dim_11=Throughput
+Dim_12=UC01_01_Загрузка словаря
+Dim_13=UC01_02_Нажимаю букву
+Dim_14=UC01_03_Нажимаю слово
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=6
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=6
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=SSLs
+Dim_4=Transaction
+Dim_5=Web
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim2]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=N/A
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim3]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=localhost
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim4]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=22
+Dim_0=0
+Dim_1=1
+Dim_2=2
+Dim_3=3
+Dim_4=4
+Dim_5=5
+Dim_6=6
+Dim_7=7
+Dim_8=8
+Dim_9=9
+Dim_10=10
+Dim_11=11
+Dim_12=12
+Dim_13=13
+Dim_14=14
+Dim_15=15
+Dim_16=16
+Dim_17=17
+Dim_18=18
+Dim_19=19
+Dim_20=20
+Dim_21=21
+AsParent=1
+BasedOnTableName=
+
+[TruClientBreakDown_meter_Dim5]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim6]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim7]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim8]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=TruClientBreakDown_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[TruClientBreakDown_meter_Dim9]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[TruClientBreakDown_meter_Dim10]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1 - 14
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_15]
+FactTableName=TruClientJsBreakdown_meter
+DimensionCount=11
+
+[TruClientJsBreakdown_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=15
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=15
+Dim_0=Connection Shutdowns
+Dim_1=Connections
+Dim_2=Error -26377
+Dim_3=Error -26627
+Dim_4=Hits
+Dim_5=HTTP_200
+Dim_6=HTTP_307
+Dim_7=HTTP_404
+Dim_8=New Connections
+Dim_9=New Sessions
+Dim_10=Reused Sessions
+Dim_11=Throughput
+Dim_12=UC01_01_Загрузка словаря
+Dim_13=UC01_02_Нажимаю букву
+Dim_14=UC01_03_Нажимаю слово
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=6
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=6
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=SSLs
+Dim_4=Transaction
+Dim_5=Web
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim2]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=N/A
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim3]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=localhost
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim4]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=22
+Dim_0=0
+Dim_1=1
+Dim_2=2
+Dim_3=3
+Dim_4=4
+Dim_5=5
+Dim_6=6
+Dim_7=7
+Dim_8=8
+Dim_9=9
+Dim_10=10
+Dim_11=11
+Dim_12=12
+Dim_13=13
+Dim_14=14
+Dim_15=15
+Dim_16=16
+Dim_17=17
+Dim_18=18
+Dim_19=19
+Dim_20=20
+Dim_21=21
+AsParent=1
+BasedOnTableName=
+
+[TruClientJsBreakdown_meter_Dim5]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim6]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim7]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim8]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=TruClientJsBreakdown_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[TruClientJsBreakdown_meter_Dim9]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[TruClientJsBreakdown_meter_Dim10]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1 - 14
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_16]
+FactTableName=URL_meter
+DimensionCount=10
+
+[URL_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=15
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=15
+Dim_0=Connection Shutdowns
+Dim_1=Connections
+Dim_2=Error -26377
+Dim_3=Error -26627
+Dim_4=Hits
+Dim_5=HTTP_200
+Dim_6=HTTP_307
+Dim_7=HTTP_404
+Dim_8=New Connections
+Dim_9=New Sessions
+Dim_10=Reused Sessions
+Dim_11=Throughput
+Dim_12=UC01_01_Загрузка словаря
+Dim_13=UC01_02_Нажимаю букву
+Dim_14=UC01_03_Нажимаю слово
+LikeMode=0
+
+[URL_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=6
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=6
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=SSLs
+Dim_4=Transaction
+Dim_5=Web
+LikeMode=0
+
+[URL_meter_Dim2]
+InternalDimName=Tree Path ID
+Dimension=Tree Path ID
+EqualFlag=1
+DimensionTableName=MsrsTreePath
+NumValues=0
+DimensionType=IdsDimension
+DimCount=22
+Dim_0=0
+Dim_1=1
+Dim_2=2
+Dim_3=3
+Dim_4=4
+Dim_5=5
+Dim_6=6
+Dim_7=7
+Dim_8=8
+Dim_9=9
+Dim_10=10
+Dim_11=11
+Dim_12=12
+Dim_13=13
+Dim_14=14
+Dim_15=15
+Dim_16=16
+Dim_17=17
+Dim_18=18
+Dim_19=19
+Dim_20=20
+Dim_21=21
+AsParent=1
+BasedOnTableName=
+
+[URL_meter_Dim3]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[URL_meter_Dim4]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[URL_meter_Dim5]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[URL_meter_Dim6]
+InternalDimName=Transaction End Status
+Dimension=Transaction End Status
+EqualFlag=1
+DimensionTableName=TransactionEndStatus
+NumValues=3
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=3
+Dim_0=Fail
+Dim_1=Pass
+Dim_2=Stop
+LikeMode=0
+
+[URL_meter_Dim7]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=URL_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[URL_meter_Dim8]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[URL_meter_Dim9]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1 - 14
+Dim_1=Dummy2
+LikeMode=0
+
+[Table_17]
+FactTableName=VuserEvent_meter
+DimensionCount=10
+
+[VuserEvent_meter_Dim0]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=N/A
+LikeMode=0
+
+[VuserEvent_meter_Dim1]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=localhost
+LikeMode=0
+
+[VuserEvent_meter_Dim2]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[VuserEvent_meter_Dim3]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[VuserEvent_meter_Dim4]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[VuserEvent_meter_Dim5]
+InternalDimName=Vuser End Status Name
+Dimension=Vuser End Status Name
+EqualFlag=1
+DimensionTableName=VuserEndStatus
+NumValues=4
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=4
+Dim_0=Error
+Dim_1=Failed
+Dim_2=Passed
+Dim_3=Stopped
+LikeMode=0
+
+[VuserEvent_meter_Dim6]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=VuserEvent_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[VuserEvent_meter_Dim7]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[VuserEvent_meter_Dim8]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1 - 14
+Dim_1=Dummy2
+LikeMode=0
+
+[VuserEvent_meter_Dim9]
+InternalDimName=Vuser Status Name
+Dimension=Vuser Status Name
+EqualFlag=1
+DimensionTableName=VuserStatus
+NumValues=5
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=5
+Dim_0=Load
+Dim_1=Pause
+Dim_2=Quit
+Dim_3=Ready
+Dim_4=Run
+LikeMode=0
+
+[Table_18]
+FactTableName=WebEvent_meter
+DimensionCount=11
+
+[WebEvent_meter_Dim0]
+InternalDimName=Event Name
+Dimension=Event Name
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=15
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=15
+Dim_0=Connection Shutdowns
+Dim_1=Connections
+Dim_2=Error -26377
+Dim_3=Error -26627
+Dim_4=Hits
+Dim_5=HTTP_200
+Dim_6=HTTP_307
+Dim_7=HTTP_404
+Dim_8=New Connections
+Dim_9=New Sessions
+Dim_10=Reused Sessions
+Dim_11=Throughput
+Dim_12=UC01_01_Загрузка словаря
+Dim_13=UC01_02_Нажимаю букву
+Dim_14=UC01_03_Нажимаю слово
+LikeMode=0
+
+[WebEvent_meter_Dim1]
+InternalDimName=Event Type
+Dimension=Event Type
+EqualFlag=1
+DimensionTableName=Event_map
+NumValues=6
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=6
+Dim_0=Connections
+Dim_1=Connections per Second
+Dim_2=Error
+Dim_3=SSLs
+Dim_4=Transaction
+Dim_5=Web
+LikeMode=0
+
+[WebEvent_meter_Dim2]
+InternalDimName=Host Location
+Dimension=Host Location
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=N/A
+LikeMode=0
+
+[WebEvent_meter_Dim3]
+InternalDimName=Host Name
+Dimension=Host Name
+EqualFlag=1
+DimensionTableName=Host
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=localhost
+LikeMode=0
+
+[WebEvent_meter_Dim4]
+InternalDimName=Result Name
+Dimension=Result Name
+EqualFlag=1
+DimensionTableName=Result
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=res.lrr
+LikeMode=0
+
+[WebEvent_meter_Dim5]
+InternalDimName=Script Name
+Dimension=Script Name
+EqualFlag=1
+DimensionTableName=Script
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[WebEvent_meter_Dim6]
+InternalDimName=Location name
+Dimension=Location name
+EqualFlag=1
+DimensionTableName=Shunra_Location
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=00000000-0000-0000-0000-000000000000
+LikeMode=0
+
+[WebEvent_meter_Dim7]
+InternalDimName=Group Name
+Dimension=Group Name
+EqualFlag=1
+DimensionTableName=VuserGroup
+NumValues=1
+DimensionType=Discrete
+UseEscapeSequence=1
+DimCount=1
+Dim_0=slovardalja2
+LikeMode=0
+
+[WebEvent_meter_Dim8]
+InternalDimName=VuserID
+Dimension=VuserID
+EqualFlag=1
+DimensionTableName=VuserId
+NumValues=2
+DimensionType=Sequential
+UseEscapeSequence=1
+DimCount=2
+Dim_0=1 - 14
+Dim_1=Dummy2
+LikeMode=0
+
+[WebEvent_meter_Dim9]
+InternalDimName=End Time
+Dimension=End Time
+EqualFlag=1
+DimensionTableName=WebEvent_meter
+NumValues=1
+DimensionType=Continuous
+DimCount=2
+Dim_0=0.000000
+Dim_1=1402.000000
+
+[WebEvent_meter_Dim10]
+InternalDimName=Value
+Dimension=Value
+EqualFlag=1
+DimensionTableName=WebEvent_meter
+NumValues=4
+DimensionType=RelatedContinuous
+BaseDimension=Event Name
+DimCount=12
+Dim_0=2.000000
+Dim_1=9.000000
+Dim_2=HTTP_200
+Dim_3=1.000000
+Dim_4=1.000000
+Dim_5=HTTP_307
+Dim_6=1.000000
+Dim_7=1.000000
+Dim_8=HTTP_404
+Dim_9=483.000000
+Dim_10=119849.000000
+Dim_11=Throughput
+

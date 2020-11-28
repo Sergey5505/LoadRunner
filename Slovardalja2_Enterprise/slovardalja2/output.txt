@@ -1,0 +1,86 @@
+Warning: Failed to post to 'http://127.0.0.1:8182/shunra/api/emulation/packetCaptureOnly', retcode=7.
+Warning: Failed to start NV emulation. Perhaps the NV server is not working, and therefore a NV report will not be generated.
+Virtual User Script started at: 27.11.2020 19:55:21
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.55.0 for Windows 8.1; build 911 (июл 24 2017 19:46:00)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36  	[MsgId: MMSG-26988]
+Run-Time Settings file: "D:\Projects\LoadRanner\slovardalja2\\default.cfg"  	[MsgId: MMSG-27141]
+Warning: Failed to get NV emulation handle.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Warning: Failed to get NV emulation handle.
+Action.c(10): Notify: Transaction "UC01_01_Загрузка словаря" started.
+Action.c(10): Warning: Failed to get NV emulation handle.
+Action.c(12): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(12): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(23): web_url("slovardalja.net") started  	[MsgId: MMSG-26355]
+Action.c(23): Found resource "http://slovardalja.net/style.css" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Found resource "http://newrrb.bid/1akds.min.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Found resource "http://counter.rambler.ru/top100.cnt?1439171" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Found resource "http://slovardalja.net/img/Header.jpg" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Found resource "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Found resource "http://slovardalja.net/img/endpic.jpg" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Found resource "http://cdn-rtb.sape.ru/teasers/js/471/2/53471.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Found resource "http://www.google-analytics.com/urchin.js" in HTML "http://slovardalja.net/"  	[MsgId: MMSG-26659]
+Action.c(23): Redirecting "http://counter.rambler.ru/top100.cnt?1439171" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(23): To location "https://counter.rambler.ru/top100.cnt?1439171"  	[MsgId: MMSG-26693]
+Action.c(23): web_url("slovardalja.net") was successful, 105357 body bytes, 4372 header bytes, 26 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(128): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(128): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(140): Notify: Transaction "UC01_01_Загрузка словаря" ended with a "Pass" status (Duration: 1.4049 Wasted Time: 1.1883).
+Action.c(142): lr_think_time: 10.00 seconds.
+Action.c(144): Notify: Transaction "UC01_02_Нажимаю букву" started.
+Action.c(144): Warning: Failed to get NV emulation handle.
+Action.c(149): web_url("letter.php") started  	[MsgId: MMSG-26355]
+Action.c(149): Resource "http://slovardalja.net/style.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(149): Resource "http://newrrb.bid/1akds.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(149): Found resource "http://counter.rambler.ru/top100.cnt?1439171" in HTML "http://slovardalja.net/letter.php?charkod=195"  	[MsgId: MMSG-26659]
+Action.c(149): Resource "http://slovardalja.net/img/Header.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(149): Resource "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(149): Resource "http://slovardalja.net/img/endpic.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(149): Resource "http://cdn-rtb.sape.ru/teasers/js/471/2/53471.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(149): Resource "http://www.google-analytics.com/urchin.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(149): Redirecting "http://counter.rambler.ru/top100.cnt?1439171" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(149): To location "https://counter.rambler.ru/top100.cnt?1439171"  	[MsgId: MMSG-26693]
+Action.c(149): web_url("letter.php") was successful, 8418 body bytes, 1016 header bytes  	[MsgId: MMSG-26386]
+Action.c(173): indexEven = 207
+Action.c(189): indexEven4 = 208
+Action.c(197): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(197): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(208): Notify: Transaction "UC01_02_Нажимаю букву" ended with a "Pass" status (Duration: 0.3902 Wasted Time: 0.0077).
+Action.c(210): lr_think_time: 10,00 seconds.
+Action.c(212): Notify: Transaction "UC01_03_Нажимаю слово" started.
+Action.c(212): Warning: Failed to get NV emulation handle.
+Action.c(217): web_url("word.php") started  	[MsgId: MMSG-26355]
+Action.c(217): Resource "http://slovardalja.net/style.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(217): Resource "http://newrrb.bid/1akds.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(217): Found resource "http://counter.rambler.ru/top100.cnt?1439171" in HTML "http://slovardalja.net/word.php?wordid=5648"  	[MsgId: MMSG-26659]
+Action.c(217): Resource "http://slovardalja.net/img/Header.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(217): Resource "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(217): Resource "http://slovardalja.net/img/endpic.jpg" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(217): Resource "http://cdn-rtb.sape.ru/teasers/js/471/2/53471.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(217): Resource "http://www.google-analytics.com/urchin.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(217): Redirecting "http://counter.rambler.ru/top100.cnt?1439171" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(217): To location "https://counter.rambler.ru/top100.cnt?1439171"  	[MsgId: MMSG-26693]
+Action.c(217): web_url("word.php") was successful, 2370 body bytes, 1016 header bytes  	[MsgId: MMSG-26386]
+Action.c(239): 
+
+            
+
+            <p><strong>ГЕНЕРАЦИЯ  </strong></p><p>ГЕНЕРАЦИЯ  лат. род, колено, поколение.
+</p>
+            
+
+            
+Action.c(241): Notify: Transaction "UC01_03_Нажимаю слово" ended with a "Pass" status (Duration: 0.1714 Wasted Time: 0.0059).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Warning: Failed to get NV emulation handle.
+Ending action vuser_end.
+Vuser Terminated.

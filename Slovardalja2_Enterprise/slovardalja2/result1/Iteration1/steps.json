@@ -1,0 +1,20 @@
+[
+    {
+        "stepId": "STEP1",
+        "stepName": "Url: slovardalja.net",
+        "infFile": "t1.inf",
+        "time": 1606496122527
+    },
+    {
+        "stepId": "STEP2",
+        "stepName": "Url: letter.php",
+        "infFile": "t2.inf",
+        "time": 1606496132826
+    },
+    {
+        "stepId": "STEP3",
+        "stepName": "Url: word.php",
+        "infFile": "t3.inf",
+        "time": 1606496143176
+    }
+]
