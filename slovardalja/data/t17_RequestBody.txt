@@ -1,4 +1,0 @@
-"{\"blocksId\":[\"148752\",\"149099\"],\"isAdBlock\":false,\"url\":\"http://slovardalja.net/vie"
-"w_search.php\",\"v\":\"2.2.1-~~SHA~VERSION~STRING~~\",\"r\":\"8cmivl9bfu\",\"city\":null,\"reg"
-"ion\":null,\"countryCode\":null,\"width\":1366,\"skip\":[],\"referrer\":\"http://slovardalja.n"
-"et/\",\"sessionReferrer\":\"http://no.domain/\"}"

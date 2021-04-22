@@ -1,9 +1,0 @@
-GET /1akds.json?stat=%5B%7B%22t%22%3A%22injected%22%2C%22bId%22%3A9050%2C%22aId%22%3A30300%2C%22ts%22%3A133026%7D%2C%7B%22t%22%3A%22injected%22%2C%22bId%22%3A148752%2C%22aId%22%3A467569%2C%22ts%22%3A138002%7D%5D&url=http%3A%2F%2Fslovardalja.net%2Fview_search.php&v=2.2.1-1c8fa83&r=8cmivl9bfu&referrer=http%3A%2F%2Fslovardalja.net%2F HTTP/1.1
-Referer: http://slovardalja.net/
-User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
-Accept-Encoding: gzip, deflate
-Accept-Language: ru-RU,ru;q=0.9
-Accept: */*
-Connection: Keep-Alive
-Host: newrrb.bid
-

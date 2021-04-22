@@ -1,3 +1,0 @@
-"{"blocksId":["9050"],"isAdBlock":false,"url":"http://slovardalja.net/view_search.php","v":"2.2"
-".1-~~SHA~VERSION~STRING~~","r":"8cmivl9bfu","city":null,"region":null,"countryCode":null,"widt"
-"h":1366,"skip":[],"referrer":"http://slovardalja.net/","sessionReferrer":"http://no.domain/"}"
